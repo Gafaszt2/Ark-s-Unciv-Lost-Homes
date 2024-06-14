@@ -1,0 +1,214 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+        {
+		//nations
+		"name": "Cryogenic Empire",
+		"leaderName": "Juliana",
+		"adjective": ["Cryogenic"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "The cryolophosaurus, beasts of yore, Ruled the island with a mighty roar. But Juliana, with her will of steel, Tamed the creatures, made them kneel.
+
+She rode her mount, a sight to behold, Her banner aloft, her armor gold. The dinosaurs bent to her command, And peace settled over the icy land.
+
+With the beasts as her guard, her loyal throng, She built her empire, both vast and strong. The Cryogenic Empire, it came to be known, A kingdom of ice, by a queen alone.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Tales of Ice and Swords",
+                "uniques": ["[+2 Food, +1 Science] in cities on [Tundra] tiles","[+2 Food, +1 Science] in cities on [Snow] tiles"],
+
+		"outerColor": [218, 230, 237],
+		"innerColor": [66, 72, 122],
+		"cities": ["Cryogenesis","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		//nations
+		"name": "African Royalty",
+		"leaderName": "King Umbi",
+		"adjective": ["African"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "King Umbi’s reign brought a new era to the savannahs. He established a kingdom where humans and creatures coexisted, each respecting the other’s role in the delicate balance of the ARK. The savannahs thrived, becoming a beacon of hope and a testament to Umbi’s dream.
+
+Under his rule, the new Africa was a land of opportunity, where every survivor could find their place and purpose. It was a kingdom that mirrored the beauty and diversity of the Africa of old, yet it was unique, shaped by the will of a king who saw beyond the horizon.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Humanity's Cradle",
+                "uniques": ["[+50]% XP gained from combat", "[-50]% maintenance costs"],
+
+		"outerColor": [247, 225, 114],
+		"innerColor": [191, 76, 10],
+		"cities": ["Golden Paradise","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		//nations
+		"name": "Zare",
+		"leaderName": "Anezka",
+		"adjective": ["Zare"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Zare was built to be a fortress, with high walls and watchtowers. But within its walls, it was a thriving community. Anezka encouraged trade and commerce, establishing Zare as a major trading hub in ARK.
+
+Anezka was a fair and just ruler. She established a council of advisors, ensuring that the decisions made were in the best interest of all the citizens of Zare. Under her rule, Zare grew in size and power, attracting more survivors who were drawn to its prosperity and security.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Purity",
+                "uniques": ["[+2 Science, +2 Culture] [in all cities] <when not at war> <starting from the [Leather era]>","[+2 Science] [in capital] <when not at war> <starting from the [Smithy era]>"],
+
+		"outerColor": [107, 209, 153],
+		"innerColor": [31, 74, 161],
+		"cities": ["Floating Rock","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		//nations
+		"name": "Smierc",
+		"leaderName": "Karina",
+		"adjective": ["Smierc"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Karina welcomed other survivors into Europa. She shared with them her knowledge of European culture, from its rich history and art to its diverse cuisines. The people of Europa lived together like a big family, helping each other survive in the harsh world of ARK.
+
+Despite the dangers of ARK, Karina insisted on maintaining peace. She believed in negotiation over conflict, and often managed to resolve disputes with other tribes without resorting to violence. Her wisdom and kindness earned her the respect of her people and other tribes.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Forests of Europe",
+                "uniques": ["[+2 Culture] from [Forest] tiles [in all cities]","[+1 Culture] from [Jungle] tiles [in all cities]","[+1 Culture] from [Redwoods] tiles [in all cities]"],
+
+		"outerColor": [230, 209, 156],
+		"innerColor": [66, 48, 35],
+		"cities": ["Smierken","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		//nations
+		"name": "Spiras",
+		"leaderName": "Mila",
+		"adjective": ["Spiras"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Mila was a genius. She quickly figured out how to use the technologies of ARK to her advantage. She built powerful weapons, impenetrable fortresses, and even tamed the most ferocious creatures. With these, she began her conquest.
+
+One by one, the tribes of ARK fell before Mila's might. Her empire, Spiras, spread across the land. Those who resisted were crushed, and those who surrendered were forced to serve her. Mila sat on her throne, reveling in her power.
+
+But as Spiras grew, so did its problems. Managing an empire was not as easy as conquering it. There were rebellions, power struggles, and external threats. The bigger Spiras got, the more unstable it became.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Hopes of a New World",
+                "uniques": ["[Great General] is earned [+35]% faster","[+50]% [Science] [in all cities] <during a Golden Age>","[+1 Faith] from [Forest] tiles [in all cities]"],
+
+		"outerColor": [247, 135, 54],
+		"innerColor": [59, 35, 30],
+		"cities": ["Esperanto","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		//nations
+		"name": "Great Roman Empire",
+		"leaderName": "Mars",
+		"adjective": ["Roman"],
+		"startBias": ["Beach"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "As Mars explored the ARK, he discovered its vast landscapes filled with prehistoric creatures and advanced technologies beyond comprehension. He learned to survive, to build, and to fight. But as he did, a vision began to form in his mind. A vision of a grand empire, much like the Roman Empire of ancient Earth.
+
+Mars began to gather followers, survivors like him who were lost and looking for purpose. He shared his vision with them, of a new Roman Empire in the world of ARK. They were inspired by his leadership and the promise of a civilized society amidst the chaos.
+
+With his followers, Mars built the first city, naming it "Nova Roma". They established laws, built roads, arenas, and grand buildings reminiscent of ancient Rome. Mars, taking the title of "Caesar", led his people with wisdom and courage.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "All Roads lead to Rome",
+                "uniques": ["[Great General] is earned [+30]% faster","[+1 Gold, +1 Production] from [Beach] tiles [in all cities]","[+1 Gold] from [Coast] tiles [in all cities]","[+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]>"],
+
+		"outerColor": [250, 54, 40],
+		"innerColor": [252, 211, 114],
+		"cities": ["Mars Throne","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+
+
+        ]

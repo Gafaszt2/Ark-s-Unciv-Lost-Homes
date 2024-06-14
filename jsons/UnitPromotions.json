@@ -1,0 +1,14 @@
+[
+{
+		"name": "Cold Weather Lover",
+		"uniques": ["[+15]% Strength <when fighting in [Snow] tiles>","[+15]% Strength <when fighting in [Tundra] tiles>","[+15]% Strength <when fighting in [Snowy Beach] tiles>","[-15]% Strength <when fighting in [Desert] tiles>"],
+        }
+{
+		"name": "Imperator",
+		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "Eliminates combat penalty for attacking across a coast"],
+        }
+{
+		"name": "Golden",
+		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Gold]"],
+        }
+]

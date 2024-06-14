@@ -1,0 +1,1273 @@
+[
+	// Ancient Era
+
+	// Always available
+	{
+		"name": "Palace",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+	{
+		"name": "Ark Monument",
+		"faith": 1,
+		"cost": 20,
+		"hurryCostModifier": 20,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Cryofridge",
+                "replaces": "Ark Monument",
+                "uniqueTo": "Cryogenic Empire",
+		"science": 1,
+                "production": 1,
+		"cost": 80,
+		"hurryCostModifier": 20,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Longhouse",
+                "replaces": "Ark Monument",
+		"uniqueTo": "The Great Warpath",
+		"food": 1,
+		"cost": 17,
+		"hurryCostModifier": 20,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Monument",
+                "replaces": "Rockwell Stories",
+		"uniqueTo": "Saint Domain",
+                "greatPersonPoints": {"Great Prophet": 1},
+		"faith": 2,
+                "culture": 2,
+		"hurryCostModifier": 20,
+		"requiredTech": "Campfire"
+	},
+        {
+		"name": "Courthouse",
+		"maintenance": 8,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Bookshelf"
+	},
+	{
+		"name": "Hunt Place",
+		"food": 1,
+		"hurryCostModifier": 20,
+                "requiredNearbyImprovedResources": ["Megaloceros", "Phiomia", "Ovis", "Paraceratherium", "Morellatops", "Dodo", "Stego", "Dimorphodon"],
+		"uniques": ["[+1 Food] from [Megaloceros] tiles [in this city]",
+			"[+1 Food] from [Phiomia] tiles [in this city]",
+			"[+1 Food] from [Ovis] tiles [in this city]",
+                        "[+1 Culture] from [Paraceratherium] tiles [in this city]"
+                        "[+1 Culture] from [Morellatops] tiles [in this city]"
+                        "[+1 Science] from [Dodo] tiles [in this city]",
+                        "[+1 Faith] from [Stego] tiles [in this city]"
+                        "[+1 Production] from [Dimorphodon] tiles [in this city]"],
+		"requiredTech": "Spear"
+	},
+        {
+		"name": "Crop Plantation",
+		"hurryCostModifier": 20,
+                "requiredNearbyImprovedResources": ["Carrot", "Potato", "Lemon", "Corn"],
+		"uniques": ["[+1 Food] from [Carrot] tiles [in this city]",
+			"[+1 Food] from [Potato] tiles [in this city]",
+			"[+1 Food] from [Lemon] tiles [in this city]",
+                        "[+1 Culture] from [Corn] tiles [in this city]"],
+		"requiredTech": "Waterskin"
+	},
+        {
+		"name": "Queens Hunting Place",
+                "replaces": "Hunt Place",
+		"uniqueTo": "Vooruit",
+		"culture": 1,
+		"hurryCostModifier": 20,
+                "requiredNearbyImprovedResources": ["Megaloceros", "Phiomia", "Ovis"],
+		"uniques": ["[+1 Gold] from [Megaloceros] tiles [in this city]",
+			"[+1 Gold] from [Phiomia] tiles [in this city]",
+			"[+1 Gold] from [Ovis] tiles [in this city]"],
+		"requiredTech": "Spear"
+	},
+        {
+		"name": "Dino Nest",
+                "replaces": "Taming Scout",
+		"uniqueTo": "Valguero",
+                "greatPersonPoints": {"Great General": 1},
+                "happiness": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]"],
+		"requiredBuilding": "Taming Den",
+                "requiredTech": "Tranq Arrow"
+	},
+        {
+		"name": "Picking Up Stones",
+                "uniques": ["Provides [1] [Fiber]"],
+		"production": 1,
+		"hurryCostModifier": 20,
+		"requiredTech": "Agriculture"
+	},
+        {
+		"name": "Picking Up Berries",
+                "uniques": ["Provides [1] [Fiber]"],
+		"food": 1,
+		"hurryCostModifier": 20,
+		"requiredTech": "Agriculture"
+	},
+        {
+		"name": "Flint Recolection",
+		"production": 1,
+		"hurryCostModifier": 20,
+		"requiredTech": "Stone Pick"
+	},
+        {
+		"name": "Water Recolection",
+                "greatPersonPoints": {"Great Prophet": 1},
+		"food": 1,
+		"hurryCostModifier": 20,
+		"uniques": ["[10]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Waterskin"
+	},
+	{
+		"name": "Berry Orchid",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Amarberry", "Azulberry", "Mejoberry", "Tintoberry"],
+		"uniques": ["[+1 Food] from [Amarberry] tiles [in this city]",
+			"[+1 Food] from [Azulberry] tiles [in this city]",
+                        "[+1 Food] from [Mejoberry] tiles [in this city]",
+			"[+1 Food] from [Tintoberry] tiles [in this city]"],
+		"requiredTech": "Torch"
+	},
+        {
+		"name": "Deadly Lands",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Carnotaurus", "Cactus Sap", "Chupacabra"],
+		"uniques": ["[+1 Food] from [Carnotaurus] tiles [in this city]",
+			"[+1 Food] from [Cactus Sap] tiles [in this city]",
+                        "[+1 Food] from [Chupacabra] tiles [in this city]"],
+		"requiredTech": "Stone Pick"
+	},
+        {
+		"name": "Rare Studies",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Rare Mushroom", "Rare Flower"],
+		"uniques": ["[+1 Production] from [Rare Mushroom] tiles [in this city]",
+			"[+1 Production] from [Rare Flower] tiles [in this city]"],
+		"requiredTech": "Stone Pick"
+	},
+        {
+		"name": "Redwood Predator",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Thylacoleo"],
+		"uniques": ["[-1 Food] from [Thylacoleo] tiles [in this city]",
+			"[+2 Production] from [Thylacoleo] tiles [in this city]"],
+		"requiredTech": "Thatch Houses"
+	},
+        {
+		"name": "Desert Landmark",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Sand","Thorny Dragon"],
+		"uniques": ["[+1 Production] from [Sand] tiles [in this city]",
+			"[+2 Faith] from [Thorny Dragon] tiles [in this city]"],
+		"requiredTech": "Thatch Houses"
+	},
+        {
+		"name": "Ice Age",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Mammoth","Sabertooth","Direbear"],
+		"uniques": ["[+1 Food] from [Mammoth] tiles [in this city]",
+                            "[+1 Faith] from [Direbear] tiles [in this city]",
+			"[+1 Culture] from [Sabertooth] tiles [in this city]"],
+		"requiredTech": "Sleeping Bag"
+	},
+        {
+		"name": "Evolution Museum",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Beelzebufo","Coelacanth","Giant Bee","Gigantopithecus","Hatzegopteryx","Meganeura"],
+		"uniques": ["[+1 Food] from [Beelzebufo] tiles [in this city]","[+1 Food] from [Coelacanth] tiles [in this city]","[+1 Food] from [Giant Bee] tiles [in this city]","[+1 Food] from [Gigantopithecus] tiles [in this city]",
+                            "[+1 Faith] from [Hatztegopteryx] tiles [in this city]",
+			"[+1 Culture] from [Meganeura] tiles [in this city]"],
+		"requiredTech": "Sleeping Bag"
+	},
+        {
+		"name": "Marine Mania",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Ichtyosaurus","Ichtyornis","Hesperornis","Kelp"],
+		"uniques": ["[+1 Food] from [Ichtyosaurus] tiles [in this city]",
+                            "[+1 Faith] from [Ichtyornis] tiles [in this city]","[+1 Food] from [Kelp] tiles [in this city]",
+			"[+1 Culture] from [Hesperornis] tiles [in this city]"],
+		"requiredTech": "Sleeping Bag"
+	},
+        {
+		"name": "Insect House",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Araneo", "Pulminoscorpius"],
+		"uniques": ["[+1 Culture] from [Araneo] tiles [in this city]",
+			"[+1 Culture] from [Pulminoscorpius] tiles [in this city]"],
+		"requiredTech": "Thatch Houses"
+	},
+        {
+		"name": "Outback Desert",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Procoptodon"],
+		"uniques": ["[+1 Faith] from [Procoptodon] tiles [in this city]",
+			"[+1 Food] from [Procoptodon] tiles [in this city]"],
+		"requiredTech": "Stone Pick"
+	},
+        {
+		"name": "Fishing Parade",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Giant Leech", "Giant Otter", "Giant Piranha"],
+		"uniques": ["[+1 Food] from [Giant Leech] tiles [in this city]",
+			"[+1 Food] from [Giant Otther] tiles [in this city]",
+                        "[+1 Food] from [Giant Piranha] tiles [in this city]"],
+		"requiredTech": "Stone Pick"
+	},
+        {
+		"name": "Extinction DLC",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Gasbags", "Defense Unit", "Velona", "Managarmr"],
+		"uniques": ["[+1 Food] from [Gasbags] tiles [in this city]",
+			"[+1 Food] from [Defense Unit] tiles [in this city]",
+                        "[+1 Food] from [Velona] tiles [in this city]",
+			"[+1 Food] from [Managarmr] tiles [in this city]"],
+		"requiredTech": "Torch"
+	},
+        {
+		"name": "Genesis DLC",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Charcoal", "Amargasaur", "Magmasaur"],
+		"uniques": ["[+1 Food] from [Amargasaur] tiles [in this city]",
+			"[+1 Food] from [Magmasaur] tiles [in this city]",
+                        "[+1 Culture] from [Magmasaur] tiles [in this city]",
+			"[+1 Production] from [Charcoal] tiles [in this city]"],
+		"requiredTech": "Torch"
+	},
+        {
+		"name": "Genesis Two DLC",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Stryder", "Astrodelphis", "Carniflora", "Carcharodontosaurus"],
+		"uniques": ["[+1 Gold] from [Stryder] tiles [in this city]",
+			"[+1 Food] from [Astrodelphis] tiles [in this city]",
+                        "[+1 Gold] from [Carniflora] tiles [in this city]",
+			"[+1 Food] from [Carcharodontosaurus] tiles [in this city]"],
+		"requiredTech": "Torch"
+	},
+        {
+		"name": "Aberration DLC",
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Roll Rat", "Fungic Wood", "Basilisk"],
+		"uniques": ["[+2 Production] from [Roll Rat] tiles [in this city]",
+			"[+2 Production] from [Fungic Wood] tiles [in this city]",
+			"[+2 Production] from [Basilisk] tiles [in this city]"],
+		"requiredTech": "Torch"
+	},
+        {
+		"name": "Wood Works",
+                "maintenance": 2,
+		"hurryCostModifier": 20,
+                "requiredNearbyImprovedResources": ["Wood"],
+		"uniques": ["[+1 Production] from [Wood] tiles [in this city]", "[+1 Production] from [Thatch] tiles [in this city]"],
+		"requiredTech": "Stone Hatchet"
+	},
+        {
+		"name": "U Bein Bridge",
+                "uniqueTo": "Kerajaan Burma",
+                "maintenance": 2,
+		"hurryCostModifier": 20,
+                "requiredNearbyImprovedResources": ["Coelacanth"],
+		"uniques": ["[+2 Production] from [Coelacanth] tiles [in this city]"],
+		"requiredTech": "Stone Hatchet"
+	},
+        {
+		"name": "Rockwell Stories",
+                "greatPersonPoints": {"Great Prophet": 1},
+		"faith": 2,
+		"hurryCostModifier": 20,
+		"requiredTech": "Campfire"
+	},
+        {
+		"name": "Place Mark",
+		"science": 1,
+                "greatPersonPoints": {"Great Scientist": 2},
+		"hurryCostModifier": 20,
+		"uniques": ["[+15]% Great Person generation [in this city]", "Cost increases by [5] per owned city"],
+		"requiredTech": "Campfire"
+	},
+        {
+		"name": "Sparkpowder Works",
+                "greatPersonPoints": {"Great Prophet": 1},
+                "maintenance": 1,
+		"science": 2,
+                "requiredNearbyImprovedResources": ["Stone"],
+		"hurryCostModifier": 50,
+                "requiredBuilding": "Place Mark"
+		"requiredTech": "Mortar"
+	},
+        {
+		"name": "Bookshelf",
+                "greatPersonPoints": {"Great Scientist": 2},
+                "maintenance": 1,
+		"science": 2,
+                "uniques": ["[+15]% Great Person generation [in this city]", "Cost increases by [5] per owned city"],
+		"hurryCostModifier": 50,
+		"requiredTech": "Bookshelf"
+	},
+        {
+		"name": "Corrobore Grounds",
+                "replaces": "Bookshelf",
+		"uniqueTo": "Gondwana",
+                "greatPersonPoints": {"Great Scientist": 1},
+                "maintenance": 1,
+		"science": 1,
+                "culture": 2,
+		"hurryCostModifier": 50,
+		"requiredTech": "Bookshelf"
+	},
+        {
+		"name": "Regular Lands",
+                "greatPersonPoints": {"Great Scientist": 1},
+                "maintenance": 1,
+                "requiredNearbyImprovedResources": ["Strategic resource"],
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Food] [in all cities]"],
+                "requiredBuilding": "Hunt Place"
+		"requiredTech": "Sleeping Bag"
+	},
+        {
+		"name": "Heavy Stone Working",
+                "greatPersonPoints": {"Great Merchant": 1},
+                "maintenance": 1,
+		"production": 1,
+                "requiredNearbyImprovedResources": ["Stone"],
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Production] from [Stone] tiles [in this city]", "[+1 Production] from [Desert] tiles [in this city]"],
+		"requiredBuilding": "Wood Works",
+                "requiredTech": "Thatch Houses"
+	},
+        {
+		"name": "Smithies",
+                "maintenance": 2,
+		"production": 1,
+                "requiredNearbyImprovedResources": ["Metal","Chitin"],
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Production] from [Chitin] tiles [in this city]", "[+1 Production] from [Metal] tiles [in this city]"],
+		"requiredBuilding": "Heavy Stone Working",
+                "requiredTech": "Smithy"
+	},
+        {
+		"name": "Human Skin Remover",
+                "replaces": "Smithies",
+		"uniqueTo": "Furtaker Empire",
+                "maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Food] from [Bonus resource] tiles [in this city]"],
+		"requiredBuilding": "Heavy Stone Working",
+                "requiredTech": "Smithy"
+	},
+        {
+		"name": "Blacksmith",
+                "replaces": "Smithies",
+		"uniqueTo": "Uralkodik",
+                "maintenance": 1,
+		"production": 1,
+                "requiredNearbyImprovedResources": ["Metal","Chitin"],
+		"hurryCostModifier": 50,
+		"uniques": ["[+2 Production] from [Chitin] tiles [in this city]", "[+2 Production] from [Metal] tiles [in this city]"],
+		"requiredBuilding": "Heavy Stone Working",
+                "requiredTech": "Smithy"
+	},
+        {
+		"name": "Refining Forges",
+                "greatPersonPoints": {"Great Scientist": 1},
+                "maintenance": 2,
+                "production": 1,
+                "requiredNearbyImprovedResources": ["Stone"],
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Heavy Stone Working",
+                "requiredTech": "Refining Forge"
+	},
+        {
+		"name": "Metal Hatchets",
+                "greatPersonPoints": {"Great Prophet": 1},
+                "maintenance": 3,
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Metal", "Wood"],
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]", "[+1 Production] from [Jungle] tiles [in this city]"],
+		"requiredBuilding": "Heavy Stone Working",
+                "requiredTech": "Metal Hatchet"
+	},
+        {
+		"name": "Metal Picks",
+                "greatPersonPoints": {"Great Prophet": 1},
+                "maintenance": 2,
+                "requiredNearbyImprovedResources": ["Metal", "Wood"],
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Production] from [Metal] tiles [in this city]"],
+		"requiredBuilding": "Heavy Stone Working",
+                "requiredTech": "Metal Pick"
+	},
+        {
+		"name": "Fabricators",
+                "greatPersonPoints": {"Great Scientist": 1},
+                "maintenance": 2,
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Oil"],
+		"uniques": ["[+1 Production] from [Oil] tiles [in this city]"],
+		"requiredBuilding": "Metal Picks",
+                "requiredTech": "Fabricator"
+	},
+        {
+		"name": "Rockwell House",
+                "greatPersonPoints": {"Great Scientist": 1},
+                "maintenance": 1,
+		"faith": 2,
+		"hurryCostModifier": 50,
+		"requiredTech": "Spyglass"
+                "requiredBuilding": "Rockwell Stories"
+	},
+        {
+		"name": "Fishing Place",
+                "greatPersonPoints": {"Great Merchant": 1},
+                "maintenance": 1,
+		"culture": 3,
+		"hurryCostModifier": 50,
+		"uniques": ["Must be next to [Coast]"],
+		"requiredTech": "Fish Basquet"
+                "requiredBuilding": "Rockwell House"
+	},
+        {
+		"name": "Raft Dock",
+                "greatPersonPoints": {"Great Merchant": 1},
+                "maintenance": 3,
+		"faith": 3,
+		"hurryCostModifier": 50,
+		"requiredTech": "Raft"
+                "requiredBuilding": "Fishing Place"
+	},
+        {
+		"name": "Coelacanth Fishing",
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Coelacanth] tiles [in this city]"],
+		"requiredTech": "Fishing Rod"
+                "requiredBuilding": "Raft Dock"
+	},
+        {
+		"name": "Wooden Fort",
+                "cityStrength": 5,
+		"cityHealth": 100,
+		"gold": 4,
+		"hurryCostModifier": 50,
+		"requiredTech": "Wooden Houses"
+	},
+        {
+		"name": "Krepost",
+                "replaces": "Wooden Fort",
+		"uniqueTo": "New Rus",
+                "cityStrength": 5,
+		"cityHealth": 90,
+                "culture": 2,
+		"hurryCostModifier": 50,
+		"requiredTech": "Wooden Houses"
+	},
+        {
+		"name": "Cement Works",
+                "cityStrength": 3,
+		"cityHealth": 25,
+		"gold": 5,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "Wooden Fort"
+		"requiredTech": "Cementing Paste"
+	},
+        {
+		"name": "Preserving House",
+                "greatPersonPoints": {"Great Merchant": 1},
+		"food": 1,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "Wooden Fort"
+		"requiredTech": "Preserving Bin"
+	},
+        {
+		"name": "Stone Irrigation Sistem",
+		"food": 1,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "Stone Fort"
+		"requiredTech": "Stone Irrigation Pipe"
+	},
+        {
+		"name": "Stone Fort",
+                "cityStrength": 4,
+		"cityHealth": 30,
+		"gold": 5,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "Wooden Fort"
+		"requiredTech": "Stone Houses"
+                "uniques": ["[25]% Food is carried over after population increases [in this city]"]
+	},
+        {
+		"name": "Spike Walls",
+                "greatPersonPoints": {"Great General": 1},
+		"production": 1,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "Wooden Fort"
+		"requiredTech": "Spike Wall"
+                "uniques": ["[+5]% Production when constructing [Land] units [in this city]"]
+	},
+        {
+		"name": "Tribal Mark",
+                "maintenance": 1,
+		"science": 1,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "Place Mark",
+		"requiredTech": "Wooden Houses"
+	},
+        {
+		"name": "First Armory",
+                "greatPersonPoints": {"Great General": 2},
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Basic Training] promotion","[+15]% Production when constructing [Land] units [in this city]","Cost increases by [15] per owned city"],
+		"requiredTech": "Narcotics"
+	},
+        {
+		"name": "Taming Den",
+                "greatPersonPoints": {"Great General": 2},
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]","[+15]% Production when constructing [Land] units [in this city]"],
+                "requiredTech": "Narcotics"
+	},
+        {
+		"name": "Balista Trap",
+                "greatPersonPoints": {"Great General": 1},
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]"],
+		"requiredBuilding": "Taming Scout",
+                "requiredTech": "Balista"
+	},
+        {
+		"name": "Taming Scout",
+                "greatPersonPoints": {"Great General": 2},
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+                "uniques": ["New [Military] units start with [15] Experience [in this city]","Cost increases by [25] per owned city"],
+		"requiredBuilding": "Taming Den",
+                "requiredTech": "Tranq Arrow"
+	},
+        {
+		"name": "Second Armory",
+                "greatPersonPoints": {"Great General": 2},
+                "maintenance": 4,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "First Armory"
+		"uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Advanced Training] promotion","[+10]% Production when constructing [Land] units [in this city]","Cost increases by [25] per owned city"],
+		"requiredBuilding": "First Armory",
+                "requiredTech": "Bow and Arrow"
+	},
+        {
+		"name": "Third Armory",
+                "greatPersonPoints": {"Great General": 2},
+                "maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Elite Training] promotion","[+10]% Production when constructing [Land] units [in this city]","Cost increases by [30] per owned city"],
+		"requiredBuilding": "Second Armory",
+                "requiredTech": "Professional Domestication"
+	},
+        {
+		"name": "Pikemen Armory",
+                "greatPersonPoints": {"Great General": 1},
+                "maintenance": 1,
+                "production": 2,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Third Armory",
+                "requiredTech": "Pike"
+	},
+        {
+		"name": "Crossbow Armory",
+                "maintenance": 1,
+                "production": 2,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Third Armory",
+                "requiredTech": "Crossbow"
+	},
+        {
+		"name": "Sword Armory",
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Production] from [Metal] tiles [in this city]"],
+		"requiredBuilding": "Pikemen Armory",
+                "requiredTech": "Sword"
+	},
+        {
+		"name": "Chainsaw Works",
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Wood"],
+		"uniques": ["[+1 Production] from [Carpentry Area] tiles [in this city]"],
+		"requiredBuilding": "Fabricators",
+                "requiredTech": "Chainsaw"
+	},
+        {
+		"name": "Electric Circuits",
+                "greatPersonPoints": {"Great Scientist": 2},
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Metal"],
+		"uniques": ["[+1 Science] from [Metal] tiles [in this city]"],
+		"requiredBuilding": "Fabricators",
+                "requiredTech": "Electronics"
+	},
+        {
+		"name": "Location",
+                "greatPersonPoints": {"Great Scientist": 2},
+                "greatPersonPoints": {"Great Artist": 1},
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Oil"],
+		"uniques": ["[+1 Science] from [Oil] tiles [in this city]"],
+		"requiredBuilding": "Electric Circuits",
+                "requiredTech": "GPS"
+	},
+        {
+		"name": "Radio Connection",
+                "greatPersonPoints": {"Great Artist": 1},
+                "maintenance": 1,
+                "culture": 4,
+		"hurryCostModifier": 50,
+                "requiredNearbyImprovedResources": ["Metal"],
+		"requiredBuilding": "Location",
+                "requiredTech": "Radio"
+	},
+        {
+		"name": "Disaster",
+                "requiredResource": "Organic Polymer",
+                "greatPersonPoints": {"Great Scientist": 2},
+                "maintenance": 1,
+                "production": 1
+                "science": 1
+                "culture": 1
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Radio Connection",
+                "requiredTech": "Flamethrower"
+	},
+        {
+		"name": "Riffle Factory",
+                "greatPersonPoints": {"Great Scientist": 2},
+                "requiredResource": "Organic Polymer",
+                "maintenance": 1,
+                "production": 1
+                "happiness": 2
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Chainsaw Works",
+                "requiredTech": "Assault Riffle"
+	},
+        {
+		"name": "Grill",
+                "requiredResource": "Organic Polymer",
+                "maintenance": 1,
+                "food": 1
+                "happiness": 2
+		"hurryCostModifier": 70,
+                "requiredTech": "Industrial Grill"
+	},
+        {
+		"name": "Water Tower",
+                "greatPersonPoints": {"Great Scientist": 2},
+                "maintenance": 1,
+                "food": 1
+                "happiness": 2
+		"hurryCostModifier": 70,
+		"requiredBuilding": "Grill",
+                "requiredTech": "Canteen"
+	},
+        {
+		"name": "Plaza",
+                "greatPersonPoints": {"Great Scientist": 1},
+                "maintenance": 3,
+                "faith": 3
+                "culture": 4
+		"hurryCostModifier": 10,
+                "requiredTech": "Industrial Grill"
+	},
+        {
+		"name": "Polymer Studies",
+                "maintenance": 2,
+                "science": 2
+                "culture": 3
+		"hurryCostModifier": 10,
+                "requiredTech": "Polymer"
+	},
+        {
+		"name": "God Awakes Monument",
+                "maintenance": 3,
+                "faith": 5
+		"hurryCostModifier": 10,
+                "requiredTech": "Electronics"
+	},
+        {
+		"name": "Metal Fort",
+                "cityStrength": 5,
+		"cityHealth": 31,
+                "maintenance": 5,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "Stone Fort"
+		"requiredTech": "Metal House"
+	},
+        {
+		"name": "Construction Labor",
+                "maintenance": 1,
+                "production": 1
+		"hurryCostModifier": 10,
+                "requiredTech": "Chainsaw"
+	},
+        {
+		"name": "Fresh Water Industry",
+                "gold": 5,
+                "science": 1
+		"hurryCostModifier": 10,
+                "requiredTech": "Canteen"
+	},
+        {
+		"name": "Scrap Metal Works",
+                "production": 1
+		"hurryCostModifier": 20,
+                "uniques": ["Free [Engineer] appears"],
+                "requiredResource": "Metal"
+                "requiredTech": "Pliers"
+	},
+        {
+		"name": "Cristalized Works",
+                "production": 1
+		"hurryCostModifier": 20,
+                "requiredBuilding": "Scrap Metal Works"
+                "uniques": ["Free [Engineer] appears"],
+                "requiredResource": "Oil"
+                "requiredTech": "Pliers"
+	},
+        {
+		"name": "Tyrant Go Down",
+		"hurryCostModifier": 20,
+                "uniques": ["Provides [1] [Tyrannosaurus]"],
+                "requiredResource": "Oil"
+                "requiredTech": "Grenade"
+	},
+        {
+		"name": "Market",
+                "gold": 5
+                "happiness": 1
+		"hurryCostModifier": 70,
+                "requiredTech": "Preserving Bin"
+	},
+        {
+		"name": "Fruit Market",
+                "gold": 3
+                "food": 1
+                "uniques": ["[+1 Food] from [Lemon] tiles [in this city]", "[+1 Food] from [Amarberry] tiles [in this city]"],
+		"hurryCostModifier": 70,
+                "requiredBuilding": "Market"
+                "requiredTech": "Refining Forge"
+	},
+        {
+		"name": "Dino Market",
+                "gold": 5
+                "science": 1
+		"hurryCostModifier": 70,
+                "requiredBuilding": "Fruit Market"
+                "requiredTech": "Balista"
+	},
+        {
+		"name": "Definitive Market",
+                "gold": 6
+                "culture": 1
+		"hurryCostModifier": 70,
+                "requiredBuilding": "Dino Market"
+                "requiredTech": "Radio"
+	},
+        {
+		"name": "Circus",
+                "happiness": 2
+		"hurryCostModifier": 70,
+                "uniques": ["[+1 Happiness] from [Phiomia] tiles [in this city]"],
+                "requiredTech": "Preserving Bin"
+	},
+        {
+		"name": "Hippodrome",
+                "greatPersonPoints": {"Great Artist": 1},
+                "happiness": 2
+                "culture": 1
+		"hurryCostModifier": 70,
+                "requiredBuilding": "Circus"
+                "uniques": ["[+1 Happiness] from [Coast] tiles [in this city]"],
+                "requiredTech": "Refining Forge"
+	},
+        {
+		"name": "Zoo",
+                "happiness": 3
+		"hurryCostModifier": 70,
+                "requiredBuilding": "Hippodrome"
+                "requiredTech": "Balista"
+	},
+        {
+		"name": "Gambling",
+                "happiness": 2
+                "gold": 4
+		"hurryCostModifier": 70,
+                "requiredBuilding": "Zoo"
+                "requiredTech": "Radio"
+	},
+
+/////// wonders ////
+
+        {
+		"name": "Temple of Artemis",
+		"isWonder": true,
+		"uniques": ["[+15]% [Food] [in capital]"],
+		"requiredTech": "Slingshot",
+		"quote": "'im not a god. I am more than that. Infinitely more. I am everything' - Rockwell"
+	},
+        {
+		"name": "Stonehenge",
+                "faith": 5,
+                "greatPersonPoints": {"Great Scientist": 1},
+		"isWonder": true,
+		"requiredTech": "Waterskin",
+		"quote": "'It is the chaos of this land that is truly disturbing to me' - Nerva"
+	},
+        {
+		"name": "The Great Library",
+		"science": 1,
+		"isWonder": true,
+		"uniques": ["Free Technology"],
+		"requiredTech": "Stone Houses",
+		"quote": "'I am reminded of my first command in Dacia. Many men questioned my rank, wondering why they had to follow a Centurion so young.' - Nerva"
+	},
+        {
+		"name": "Mausoleum of Halicarnassus",
+		"isWonder": true,
+		"uniques": ["Provides a sum of gold each time you spend a Great Person", "[+2 Gold] from [Stone] tiles [in this city]"],
+		"requiredTech": "Bow and Arrow",
+		"quote": "'I have asked these questions many times since I awoke on this foreign shore, but I must stop. They do not matter.' - Mei Yin"
+	},
+        {
+		"name": "Statue of Zeus",
+		"isWonder": true,
+		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
+		"requiredTech": "Cementing Paste",
+		"quote": "'As the sun set, I happened upon a small village on a bluff. Unfortunately, it was besieged by a man who rode a lizard like a horse and wielded a stick that spat fire.' - Mei Yin"
+	},
+        {
+		"name": "The Pyramids",
+		"isWonder": true,
+		"uniques": ["[-40]% construction time for [All] improvements"],
+		"requiredTech": "Wooden Houses",
+		"quote": "'Can’t say I’m happy about it. The cold and I are not the best of mates, I can tell you that, but I’ll just have to suck it up.' - Helena Walker"
+	},
+        {
+		"name": "The Great Lighthouse",
+		"isWonder": true,
+		"uniques": ["Must be next to [Coast]", "[+1] Movement <for [{Military} {Water}] units>",
+			"[+1] Sight <for [{Military} {Water}] units>"],
+		"requiredTech": "Spyglass",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Colosseum",
+		"isWonder": true,
+                "happiness": 5,
+		"culture": 1,
+		"requiredTech": "Stone Houses",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Pisa Tower",
+		"isWonder": true,
+                "culture": 2,
+		"uniques": ["Must have an owned [Hill] within [2] tiles", "[+15]% [Gold] [in all cities]"],
+		"requiredTech": "Balista",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Puente de la Mujer",
+		"isWonder": true,
+                "culture": 2,
+		"uniques": ["Must have an owned [Coast] within [2] tiles", "[+15]% [Happiness] [in all cities]"],
+		"requiredTech": "Flak Armor",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Statue of Liberty",
+		"isWonder": true,
+		"uniques": ["Must have an owned [Coast] within [3] tiles", "[+10]% Strength <for [All] units> <vs cities> <when attacking>"],
+		"requiredTech": "Flak Armor",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Sidney Opera House",
+		"isWonder": true,
+                "culture": 2,
+		"uniques": ["Must have an owned [Coast] within [2] tiles", "[+15]% [Culture] [in all cities]"],
+		"requiredTech": "Flak Armor",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Big Ben",
+		"isWonder": true,
+                "production": 2,
+		"uniques": ["Must have an owned [Tundra] within [2] tiles", "[+5]% [Science] [in all cities]"],
+		"requiredTech": "Balista",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Petronas Tower",
+		"isWonder": true,
+                "production": 2,
+		"uniques": ["Must have an owned [Forest] within [2] tiles", "[+5]% [Production] [in all cities]"],
+		"requiredTech": "Crossbow",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Taj Mahal",
+		"isWonder": true,
+		"uniques": ["Must have an owned [Plains] within [2] tiles", "[+25]% [Faith] [in all cities]"],
+		"requiredTech": "Crossbow",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Eiffel Tower",
+		"isWonder": true,
+                "gold": 2,
+		"uniques": ["Must have an owned [Grassland] within [2] tiles", "[+25]% [Culture] [in all cities]"],
+		"requiredTech": "Flak Armor",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Christ the Redeemer",
+		"isWonder": true,
+		"uniques": ["Must have an owned [Jungle] within [2] tiles", "[+15]% [Faith] [in all cities]"],
+		"requiredTech": "Assault Riffle",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Moai Statue",
+		"isWonder": true,
+                "gold": 2,
+		"uniques": ["Must have an owned [Coast] within [2] tiles", "[+10]% [Food] [in capital]", "[+10]% [Culture] [in capital]"],
+		"requiredTech": "Fish Basquet",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "The Oracle",
+		"isWonder": true,
+		"uniques": ["Must have an owned [Coast] within [2] tiles", "[+5]% [Production] [in all cities]"],
+		"requiredTech": "Mortar",
+		"quote": "'So before I latch onto my theory, I need to gather more empirical evidence. Otherwise, I'm no scientist.' - Helena Walker"
+	},
+        {
+		"name": "Shrine",
+                "uniqueTo": "Rebels",
+		"maintenance": 3,
+		"faith": 1,
+		"science": 1,
+                "culture": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Waterskin"
+	},
+        {
+		"name": "Aqueduct",
+                "uniqueTo": "New Legion",
+		"hurryCostModifier": 0,
+		"uniques": ["[20]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Stone Houses"
+	},
+        {
+		"name": "Barracks",
+                "uniqueTo": "New Incan Empire",
+		"production": 1,
+                "culture": 3,
+		"hurryCostModifier": 25,
+		"requiredTech": "Bookshelf"
+	},
+        {
+		"name": "Garden",
+                "uniqueTo": "The Center",
+		"science": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Smithy"
+	},
+        {
+		"name": "University",
+                "uniqueTo": "The Center",
+                "maintenance": 3,
+		"science": 3,
+		"hurryCostModifier": 25,
+		"requiredTech": "Metal House"
+	},
+        {
+		"name": "Bazaar",
+		"uniqueTo": "Qamar Empire",
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Dock"
+	},
+        {
+		"name": "Mint",
+                "maintenance": 2,
+		"requiredNearbyImprovedResources": ["Metal", "Chitin"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Gold] from [Metal] tiles [in this city]", "[+1 Gold] from [Chitin] tiles [in this city]"],
+		"requiredTech": "Metal House"
+	},
+        {
+		"name": "Bank",
+		"gold": 1,
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Mint",
+		"requiredTech": "Fabricator"
+	},
+        {
+		"name": "Museum",
+                "uniqueTo": "Ragnarok",
+		"culture": 5,
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Fabricator",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Factory",
+                "uniqueTo": "Mercenaries",
+		"cost": 360,
+		"production": 4,
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredResource": "Oil",
+		"requiredTech": "Fabricator"
+	},
+        {
+		"name": "Hospital",
+                "uniqueTo": "Vooruit",
+		"food": 1,
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Polymer"
+	},
+        {
+		"name": "Coffee House",
+		"uniqueTo": "Uralkodik",
+		"production": 2,
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredTech": "Canteen"
+	},
+        {
+		"name": "Simple Kibble",
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Allosaurus]","Provides [1] [Sarcosuchus]"],
+		"requiredResource": "Chitin",
+		"requiredTech": "Tranq Arrow"
+	},
+	{
+		"name": "Extraordinary Kibble",
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Tyrannosaurus]","Provides [1] [Woolly Rhino]"],
+		"requiredResource": "Metal",
+		"requiredTech": "Cryopod"
+	}
+        {
+		"name": "Thatch Forge",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Metal]"],
+                "requiredResource": "Thatch"
+		"requiredTech": "Refining Forge"
+	},
+        {
+		"name": "Hunting Carbonemys",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Chitin]"],
+                "requiredResource": "Thatch"
+		"requiredTech": "Refining Forge"
+	},
+        {
+		"name": "Wood Forge",
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [2] [Metal]"],
+                "requiredResource": "Wood"
+		"requiredTech": "Refining Forge"
+	},
+        {
+		"name": "Stone Conversor",
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Oily Rock]"],
+                "requiredResource": "Stone"
+		"requiredTech": "Stone Houses"
+	},
+        {
+		"name": "Oily Rock Conversor",
+                "requiredBuilding": "Stone Conversor"
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Oil]"],
+                "requiredResource": "Oily Rock"
+		"requiredTech": "Smithy"
+	},
+        {
+		"name": "Corrupted Nodule Conversor",
+                "requiredNearbyImprovedResources": ["Corrupted Nodule"],
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Oil]", "Provides [1] [Organic Polymer]"],
+                "requiredResource": "Corrupted Nodule"
+		"requiredTech": "Fabricator"
+	},
+        {
+		"name": "Mining Beach Stones",
+                "production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredResource": "Fiber"
+		"requiredTech": "Stone Pick"
+	},
+        {
+		"name": "Hunting Beach Creatures",
+                "food": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredResource": "Fiber"
+		"requiredTech": "Torch"
+	},
+        {
+		"name": "Dragon Fight",
+                "isNationalWonder": true,
+                "uniques": ["Provides [4] [Tek]", "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Defeat the Dragon"
+	},
+        {
+		"name": "Broodmother Fight",
+                "isNationalWonder": true,
+		"uniques": ["Provides [4] [Tek]", "[+2 Science] from every [Atoll]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Defeat Broodmother"
+	},
+        {
+		"name": "Megapithecus Fight",
+                "isNationalWonder": true,
+                "uniques": ["Provides [4] [Tek]", "[+1 Culture] from every [Snow]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Defeat Megapithecus"
+	},
+        {
+		"name": "Tek Resource Organization",
+                "production": 3,
+                "uniques": ["[+1 Culture] [in capital]", "[+1 Food] [in capital]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+		"requiredTech": "Resource Attractor"
+	},
+        {
+		"name": "Tek Forcefields",
+                "cityHealth": 20,
+                "uniques": ["[+1 Culture] [in all cities]", "[+1 Food] [in capital]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+                "requiredBuilding": "Tek Resource Organization",
+		"requiredTech": "Tek Forcefield"
+	},
+        {
+		"name": "Tek Defense Generator",
+                "culture": 3,
+                "uniques": ["[+2 Faith] [in all cities]", "[+2 Science] [in capital]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+		"requiredTech": "Shield Generator"
+	},
+        {
+		"name": "Tek Protector",
+                "cityHealth": 20,
+                "uniques": ["[+2 Faith] [in all cities]", "[+2 Science] [in capital]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+                "requiredBuilding": "Tek Resource Organization",
+		"requiredTech": "Shield Protector"
+	},
+        {
+		"name": "Element Works",
+                "science": 2,
+                "uniques": ["[+3 Production] [in capital]", "[+1 Faith] [in all cities]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+		"requiredTech": "Element Dust"
+	},
+        {
+		"name": "Tek Armor Fabricator",
+                "cityHealth": 5,
+                "uniques": ["[+3 Production] [in capital]", "[+1 Food] [in capital]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+                "requiredBuilding": "Element Works",
+		"requiredTech": "Tek Armor"
+	},
+        {
+		"name": "Tek Turrets",
+                "happiness": 2,
+                "faith": 1,
+                "uniques": ["[+2 Production] [in this city]", "Provides [2] [Tek Turret Resource]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+		"requiredTech": "Tek Turret"
+	},
+        {
+		"name": "Tek Turret Colocation",
+            "requiredResource": "Tek Turret Resource",
+		"requiredTech": "Tek Turret"
+		"uniques": [
+"Creates a [Turret] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+                ]
+	},
+        {
+		"name": "Pulse Cannons",
+                "uniques": ["Provides [5] [Pulse Cannon Resource]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+                "requiredBuilding": "Tek Turrets",
+		"requiredTech": "Pulse Cannon"
+	},
+        {
+		"name": "Sword Fighting University",
+                "science": 1,
+                "uniques": ["[+1 Culture] [in all cities]", "[+5]% Strength <when fighting in [Foreign Land] tiles>"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+		"requiredTech": "Tek Sword"
+	},
+        {
+		"name": "Defending Honor Studies",
+                "uniques": ["[+1 Science] [in all cities]", "[+5]% Strength <when fighting in [Foreign Land] tiles>"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+		"requiredTech": "Tek Shield"
+	},
+        {
+		"name": "Assault Teaching",
+                "uniques": ["[+2 Science] [in all cities]", "[+10]% Strength <when fighting in [Foreign Land] tiles>"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Tek"
+                "requiredBuilding": "Defending Honor Studies",
+		"requiredTech": "Tek Riffle"
+	},
+]

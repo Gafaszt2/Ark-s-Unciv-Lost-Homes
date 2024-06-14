@@ -1,0 +1,21 @@
+[
+        {
+                "name": "Cryogenic Empire",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Juliana´s Monarchy",
+                                "triggeredUniques": ["[+2 Food] from all [Cryofridge] buildings"]
+                        },
+                        {
+                                "text": "Republic",
+                                "triggeredUniques": ["[+1 Food] <in [Ranch] tiles>","[+1 Food] <in [Tundra] tiles>"]
+                        },
+			{
+                                "text": "Fascism",
+                                "triggeredUniques": ["[+55]% Production when constructing [Theropoda] units [in all cities]","Gifts of Gold to City-States generate [+44]% more Influence"]
+                      }
+                ]
+        }
+
+]
