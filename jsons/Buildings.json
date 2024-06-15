@@ -13,6 +13,58 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city", "Provides [2] [Fiber]"]
 	},
+        {
+		"name": "Cryogenic Empire Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Cryogenic Empire",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Cryogenic Empire] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	}, 
+        {
+		"name": "African Royalty Elections",
+                "replaces": "Palace",
+                "uniqueTo": "African Royalty",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [African Royalty] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Zare Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Zare",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Zare] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Smierc Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Smierc",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Smierc] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	}, 
 	{
 		"name": "Ark Monument",
 		"faith": 1,

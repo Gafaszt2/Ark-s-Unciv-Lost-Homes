@@ -1024,39 +1024,7 @@
 		"uniques": ["[+31]% Strength <vs [Siege] units>"],
 		"attackSound": "shot"
 	},
-        {
-		"name": "Great Prophet",
-		"unitType": "Civilian",
-		"uniques": [
-            "Can [Spread Religion] [4] times",
-			"Removes other religions when spreading religion",
-            "May found a religion",
-            "May enhance a religion",
-			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]", "Religious Unit", "Hidden when religion is disabled", "Unbuildable",
-			"Takes your religion over the one in their birth city"],
-		"movement": 2,
-		"religiousStrength": 1000
-	},
-        {
-		"name": "Missionary",
-		"unitType": "Civilian",
-		"uniques": ["Can [Spread Religion] [2] times", "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
-			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
-		"movement": 4,
-		"religiousStrength": 1000
-	},
-        {
-		"name": "Inquisitor",
-		"unitType": "Civilian",
-		"uniques": ["Prevents spreading of religion to the city it is next to",
-			"Can [Remove Foreign religions from your own cities] [1] times",
-			"Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]",
-			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
-		],
-		"movement": 3
-	},
-
+        
 // Uniques
 
         {
@@ -1087,6 +1055,30 @@
 		"hurryCostModifier": 20,
                 "obsoleteTech": "Tranq Arrow",
 		"attackSound": "tropeo"
+	},
+        {
+		"name": "Tylosaurus",
+                "replaces": "Dunkleosteous Rider",
+		"uniqueTo": "Imperial New Order of America",
+                "upgradesTo": "Mosa Rider",
+                "obsoleteTech": "Radio",
+		"unitType": "Marine Reptile",
+		"movement": 2,
+		"strength": 80,
+		"cost": 250,
+		"requiredTech": "GPS",
+		"attackSound": "marine"
+	},
+        {
+		"name": "Alpha Tylosaurus",
+                "replaces": "Mosa Rider",
+		"uniqueTo": "Imperial New Order of America",
+		"unitType": "Marine Reptile",
+		"movement": 2,
+		"strength": 150,
+		"cost": 450,
+		"requiredTech": "Radio",
+		"attackSound": "marine"
 	},
         {
           	"name": "Deinosuchus Rider",
@@ -1431,6 +1423,66 @@
 		"attackSound": "ravager"
 	},
         {
+		"name": "Maip Rider",
+                "replaces": "Prolibytherium",
+		"uniqueTo": "Indomitable South",
+		"unitType": "Theropoda",
+		"movement": 4,
+		"strength": 45,
+		"cost": 120,
+		"requiredTech": "Grenade",
+                "obsoleteTech": "Flak Armor",
+		"uniques": ["[+40]% Strength <vs [Siege] units>","Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "medcarno"
+	},
+        {
+		"name": "Neovenator Rider",
+                "replaces": "Rex Rider",
+		"uniqueTo": "Indomitable South",
+                "upgradesTo": "Giga Rider",
+		"unitType": "Theropoda",
+		"movement": 3,
+		"strength": 75,
+		"cost": 190,
+		"requiredTech": "Chain Bola",
+                "obsoleteTech": "Tek Shield",
+                "requiredResource": "Tyrannosaurus",
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 20,
+                "promotions": ["Rage"],
+		"attackSound": "medcarno"
+	},
+        {
+		"name": "Becklespinax",
+                "replaces": "Carcharodontosaurus Rider",
+		"uniqueTo": "Europa",
+                "upgradesTo": "Tek Rex Rider",
+		"unitType": "Theropoda",
+		"movement": 4,
+		"strength": 150,
+		"cost": 200,
+		"requiredTech": "Auto Torret",
+                "obsoleteTech": "Tek Shield",
+		"uniques": ["All adjacent units heal [+15] HP when healing","Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "medcarno"
+	},
+        {
+		"name": "Tek Becklespinax",
+                "replaces": "Tek Rex Rider",
+		"uniqueTo": "Europa",
+		"unitType": "Theropoda",
+		"movement": 3,
+		"strength": 300,
+		"cost": 390,
+		"requiredTech": "Tek Shield",
+                "obsoleteTech": "Tek Riffle",
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "medcarno"
+	},
+        {
 		"name": "Cerato Rider",
                  "replaces": "Theri Rider",
 		"uniqueTo": "Spiras",
@@ -1553,7 +1605,7 @@
 		"name": "Andrew Rider",
                 "replaces": "Diplodocus",
 		"uniqueTo": "Norsemen Corps",
-		"unitType": "Prey",
+		"unitType": "Mammal",
 		"movement": 4,
 		"strength": 25,
 		"cost": 90,
@@ -1564,6 +1616,39 @@
 		"hurryCostModifier": 20,
 		"attackSound": "ravager"
 	},
+        {
+		"name": "Tapejara Rider",
+                "replaces": "Kentrosaurus",
+		"uniqueTo": "Selva Empire",
+		"unitType": "Prey",
+		"movement": 5,
+		"strength": 10,
+		"cost": 30,
+                "requiredResource": "Wood",
+		"requiredTech": "Tranq Arrow",
+		"uniques": ["[+20]% Strength <vs cities>","Can move after attacking"],
+		"hurryCostModifier": 20,
+                "upgradesTo": "Theri Rider",
+                "promotions": ["Intimidation"],
+                "obsoleteTech": "Metal Hatchet",
+		"attackSound": "dinoherb"
+	},
+        {
+		"name": "Tek Tapejara Rider",
+                "replaces": "Tek Rex Rider",
+		"uniqueTo": "Selva Empire",
+		"unitType": "Theropoda",
+		"movement": 4,
+		"strength": 270,
+		"cost": 310,
+		"requiredTech": "Tek Shield",
+                "obsoleteTech": "Tek Riffle",
+		"uniques": ["[+20]% Strength <vs cities>","Can move after attacking"],
+		"hurryCostModifier": 20,
+                "promotions": ["Strong Genetics"],
+		"attackSound": "rex"
+	},  
+
         {
 		"name": "Tek Rex Rider",
 		"unitType": "Theropoda",
@@ -1576,7 +1661,7 @@
 		"hurryCostModifier": 20,
                 "promotions": ["Strong Genetics"],
 		"attackSound": "rex"
-	},
+	},  
         {
 		"name": "Reaper",
 		"unitType": "Fantasy",

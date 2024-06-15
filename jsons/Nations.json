@@ -29,7 +29,15 @@ With the beasts as her guard, her loyal throng, She built her empire, both vast 
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-                "uniqueName": "Tales of Ice and Swords",
+                "uniqueName": "Dreams of Snow and Swords",
+                "uniqueText": "Juliana´s Monarchy
+[+2 Food] from every [Tundra] and [+2 Food] from every [Snow]
+
+Republic
+[+1 Food] in [Ranch] tiles and [+1 Food] in [Tundra] tiles
+
+Fascism
+[+2 Food, +1 Science] in cities on [Tundra] tiles and [+2 Food, +1 Science] in cities on [Snow] tiles",
                 "uniques": ["[+2 Food, +1 Science] in cities on [Tundra] tiles","[+2 Food, +1 Science] in cities on [Snow] tiles"],
 
 		"outerColor": [218, 230, 237],
@@ -63,7 +71,15 @@ Under his rule, the new Africa was a land of opportunity, where every survivor c
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Humanity's Cradle",
-                "uniques": ["[+50]% XP gained from combat", "[-50]% maintenance costs"],
+                "uniqueText": "King Umbi´s Monarchy
++50% XP gained from combat and -50% maintenance costs
+
+Anarchy
+[+100]% Strength <vs [Barbarian] units>, Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture] and get Notified of new Barbarian encampments
+
+Libertarian
+[-50]% Gold cost of acquiring tiles [in all cities], New [Military] units start with [20] Experience [in all cities]",
+                "uniques": [""],
 
 		"outerColor": [247, 225, 114],
 		"innerColor": [191, 76, 10],
@@ -96,7 +112,15 @@ Anezka was a fair and just ruler. She established a council of advisors, ensurin
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Purity",
-                "uniques": ["[+2 Science, +2 Culture] [in all cities] <when not at war> <starting from the [Leather era]>","[+2 Science] [in capital] <when not at war> <starting from the [Smithy era]>"],
+                "uniqueText": "Anezka´s Oligarchy
+[+2 Science, +2 Culture] [in all cities] when not at war starting from the [Leather era] and [+2 Science] [in capital] when not at war starting from the [Smithy era]
+
+Fascism
+[+3 Production] from every [Academy] and [+1 Production] from every [Mine]
+
+Vegan Party
+[+1 Culture] from every [Ranch] with [1] to [1] neighboring [Jungle] tiles and [+1 Culture] from every [Mine] with [1] to [1] neighboring [Jungle] tiles",
+                "uniques": [""],
 
 		"outerColor": [107, 209, 153],
 		"innerColor": [31, 74, 161],
@@ -129,7 +153,15 @@ Despite the dangers of ARK, Karina insisted on maintaining peace. She believed i
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Forests of Europe",
-                "uniques": ["[+2 Culture] from [Forest] tiles [in all cities]","[+1 Culture] from [Jungle] tiles [in all cities]","[+1 Culture] from [Redwoods] tiles [in all cities]"],
+                "uniqueText": "Karina´s Republic
+[+2 Culture] from [Forest] tiles [in all cities] and [+1 Culture] from [Jungle] tiles [in all cities] and [+1 Culture] from [Redwoods] tiles [in all cities]
+
+Communist Party
+[+1 Production] from every [Mine] and [+1 Production] from every [Camp] in [Tundra] tiles
+
+Anarchy
+[+2 Food] from every [Camp] in [Tundra] tiles and [+2 Production] from every [Mine] in [Tundra] tiles",
+                "uniques": [""],
 
 		"outerColor": [230, 209, 156],
 		"innerColor": [66, 48, 35],
@@ -164,7 +196,7 @@ But as Spiras grew, so did its problems. Managing an empire was not as easy as c
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Hopes of a New World",
-                "uniques": ["[Great General] is earned [+35]% faster","[+50]% [Science] [in all cities] <during a Golden Age>","[+1 Faith] from [Forest] tiles [in all cities]"],
+                "uniques": ["[+1 Happiness] from [Forest] tiles [in all cities]","[+60]% [Science] [in all cities] <during a Golden Age>","[+40]% [Culture] [in all cities] <during a Golden Age>"],
 
 		"outerColor": [247, 135, 54],
 		"innerColor": [59, 35, 30],
@@ -198,7 +230,7 @@ With his followers, Mars built the first city, naming it Nova Roma. They establi
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "All Roads lead to Rome",
-                "uniques": ["[Great General] is earned [+30]% faster","[+1 Gold, +1 Production] from [Beach] tiles [in all cities]","[+1 Gold] from [Coast] tiles [in all cities]","[+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]>"],
+                "uniques": ["[Great General] is earned [+44]% faster","[+1 Gold, +1 Production] from [Beach] tiles [in all cities]","[+1 Gold] from [Coast] tiles [in all cities]","[+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]>"],
 
 		"outerColor": [250, 54, 40],
 		"innerColor": [252, 211, 114],
@@ -266,7 +298,7 @@ Under Micaela's rule, Kansallisvaltio flourished. She proved to be a strong and 
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Conquest Queen",
-                "uniques": ["Upon capturing a city, receive [2] times its [Culture] production as [Culture] immediately","Upon capturing a city, receive [2] times its [Science] production as [Science] immediately"],
+                "uniques": ["Upon capturing a city, receive [1] times its [Culture] production as [Culture] immediately","Upon capturing a city, receive [1] times its [Science] production as [Science] immediately"],
 
 		"outerColor": [135, 161, 160],
 		"innerColor": [20, 48, 47],
@@ -276,6 +308,130 @@ Under Micaela's rule, Kansallisvaltio flourished. She proved to be a strong and 
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+        {
+		"name": "Imperial New Order of America",
+		"leaderName": "Evolet",
+		"adjective": ["America"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Ascension",
 
+		"startIntroPart1": "Yet, challenges arose. The Broodmother Lysrix, a colossal arachnid, threatened their borders. The Megapithecus guarded ancient temples. And whispers spoke of an impending cataclysm, the Ascension, a test that would determine humanity’s fate.
+
+Evolet stood atop the highest peak, gazing at the three Obelisks. She felt their hum, their cosmic resonance. The Overseer’s final trial awaited. Would she ascend, transcending mortal limitations? Or would she fail, dooming her empire?.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Nationalism",
+                "uniques": ["[-50]% Culture cost of adopting new Policies", "[+40]% Production when constructing [Science] buildings [in all cities]"],
+
+		"outerColor": [54, 50, 168],
+		"innerColor": [35, 0, 48],
+		"cities": ["First Federation","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Europa",
+		"leaderName": "Camila",
+		"adjective": ["Europe"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Dark forces stirred the Corrupted Ones. Camila dispatched her elite guard the Silver Stags to protect New Europa. Their silver armor glinted in moonlight, their loyalty unwavering.
+The Ascension Trials, Whispers spoke of an Overseer’s final test, the Ascension. Camila trained, seeking enlightenment. She climbed the Obelisks, their light bathing her. Would she transcend, becoming more than mortal?.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Romanticism",
+                "uniques": ["[+30]% Production when constructing [Water] units [in all cities] <starting from the [Smithy era]>","[+30]% Production when constructing [Civilian] units [in all cities] <starting from the [Smithy era]>", "[+25]% Strength <when fighting in [Friendly Land] tiles> <before the [Smithy era]>"],
+
+		"outerColor": [245, 240, 247],
+		"innerColor": [242, 14, 2],
+		"cities": ["Sailand","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Indomitable South",
+		"leaderName": "Pilamayquen",
+		"adjective": ["South"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "In the heart of the untamed jungle, Pilamayquen ruled over the Republic of Indomitable South. Her iron will matched the unyielding cliffs that surrounded her domain. Pilamayquen believed that strength was the key to survival. Her people, chiseled by hardship, toiled in the quarries, extracting precious minerals to fuel her war machine. Iron-clad soldiers enforced strict discipline, and dissent was met with swift punishment.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Codes of Moral",
+                "uniques": ["[+2 Culture, +1 Faith] in cities on [Jungle] tiles","[+2 Food, +1 Production] in cities on [Plains] tiles"],
+
+		"outerColor": [212, 237, 154],
+		"innerColor": [40, 46, 26],
+		"cities": ["Hacienda","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Selva Empire",
+		"leaderName": "Sofia",
+		"adjective": ["Sur"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Pilamayquen’s hunger for power knew no bounds. She coveted Sofia’s territory—the jungle’s resources, its ancient secrets, and the magic that flowed through its veins. Sofia resisted, seeing Pilamayquen’s republic as a blight upon the land, stripping it bare and leaving scars in its wake.
+
+Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felling trees and disrupting the delicate balance. Sofia retaliated by summoning storms, entangling soldiers in vines, and whispering curses that drove them mad. The clash of ideologies echoed through the canopy, shaking the very roots of the world.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Big Amazonia",
+                "uniques": ["[+1 Culture] from every specialist [in all cities]","[+2 Culture] per [3] social policies adopted", "[+2 Culture] in cities on [Fresh Water] tiles"],
+
+		"outerColor": [245, 37, 113],
+		"innerColor": [66, 6, 28],
+		"cities": ["Tropicalis","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
 
         ]

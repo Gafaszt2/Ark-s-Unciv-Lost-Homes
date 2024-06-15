@@ -1,19 +1,76 @@
 [
+{
+                "name": "Smierc",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Karina´s Republic",
+                                "triggeredUniques": ["[+2 Culture] from [Forest] tiles [in all cities] <for [100000] turns>","[+1 Culture] from [Jungle] tiles [in all cities] <for [100000] turns>","[+1 Culture] from [Redwoods] tiles [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Communist Party",
+                                "triggeredUniques": ["[+1 Production] from every [Mine] <for [100000] turns>", "[+1 Production] from every [Camp] <in [Tundra] tiles> <for [100000] turns>"]
+                        },
+			{
+                                "text": "Anarchy",
+                                "triggeredUniques": ["[+2 Food] from every [Camp] <in [Tundra] tiles> <for [100000] turns>", "[+2 Production] from every [Mine] <in [Tundra] tiles> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Zare",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Anezka´s Oligarchy",
+                                "triggeredUniques": ["[+2 Science, +2 Culture] [in all cities] <when not at war> <starting from the [Leather era]> <for [100000] turns>","[+2 Science] [in capital] <when not at war> <starting from the [Smithy era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Fascism",
+                                "triggeredUniques": ["[+3 Production] from every [Academy] <for [100000] turns>","[+1 Production] from every [Mine] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Vegan Party",
+                                "triggeredUniques": ["[+1 Culture] from every [Ranch] <with [1] to [1] neighboring [Jungle] tiles> <for [100000] turns>","[+1 Culture] from every [Mine] <with [1] to [1] neighboring [Jungle] tiles> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "African Royalty",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "King Umbi´s Monarchy",
+                                "triggeredUniques": ["[+50]% XP gained from combat <for [100000] turns>", "[-50]% maintenance costs <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Anarchy",
+                                "triggeredUniques": ["[+100]% Strength <vs [Barbarian] units> <for [100000] turns>",
+            "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture] <for [100000] turns>",
+            "Notified of new Barbarian encampments <for [100000] turns>"]
+                        },
+			{
+                                "text": "Libertarian",
+                                "triggeredUniques": ["[-50]% Gold cost of acquiring tiles [in all cities] <for [100000] turns>",
+			"New [Military] units start with [20] Experience [in all cities] <for [100000] turns>"]
+                        }
+                ]
+        },
         {
                 "name": "Cryogenic Empire",
                 "text": "Pick your unique",
                 "choices":[
                         {
                                 "text": "Juliana´s Monarchy",
-                                "triggeredUniques": ["[+2 Food] from all [Cryofridge] buildings"]
+                                "triggeredUniques": ["[+2 Food] from every [Tundra] <for [100000] turns>","[+2 Food] from every [Snow] <for [100000] turns>"]
                         },
                         {
                                 "text": "Republic",
-                                "triggeredUniques": ["[+1 Food] <in [Ranch] tiles>","[+1 Food] <in [Tundra] tiles>"]
+                                "triggeredUniques": ["[+1 Food] <in [Ranch] tiles> <for [100000] turns>","[+1 Food] <in [Tundra] tiles> <for [100000] turns>"]
                         },
 			{
                                 "text": "Fascism",
-                                "triggeredUniques": ["[+55]% Production when constructing [Theropoda] units [in all cities]","Gifts of Gold to City-States generate [+44]% more Influence"]
+                                "triggeredUniques": ["[+2 Food, +1 Science] in cities on [Tundra] tiles <for [100000] turns>","[+2 Food, +1 Science] in cities on [Snow] tiles <for [100000] turns>"]
                       }
                 ]
         }

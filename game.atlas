@@ -62,49 +62,49 @@ BuildingIcons/Fruit Market Price
   index: -1
 BuildingIcons/Mod Hunt Place
   rotate: false
-  xy: 4, 432
+  xy: 1408, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mosque
   rotate: false
-  xy: 220, 648
+  xy: 112, 540
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Neighborhood
   rotate: false
-  xy: 544, 972
+  xy: 436, 864
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Nuclear Plant
   rotate: false
-  xy: 1192, 1620
+  xy: 1084, 1512
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Palengke
   rotate: false
-  xy: 112, 432
+  xy: 4, 324
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Palisada
   rotate: false
-  xy: 220, 540
+  xy: 112, 432
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Restaurant
   rotate: false
-  xy: 652, 864
+  xy: 544, 756
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -214,16 +214,16 @@ NationIcons/Cryogenic Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Dormanta Imperios
+NationIcons/East People
   rotate: false
-  xy: 4, 864
+  xy: 436, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/East People
+NationIcons/Europa
   rotate: false
-  xy: 544, 1404
+  xy: 1084, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -256,14 +256,14 @@ NationIcons/Great Roman Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Imperial America
+NationIcons/Imperial New Order of America
   rotate: false
   xy: 976, 1620
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Imperio da Grandeza
+NationIcons/Indomitable South
   rotate: false
   xy: 1192, 1836
   size: 100, 100
@@ -277,51 +277,51 @@ NationIcons/Mega Korea
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Merveilleuse Commande
-  rotate: false
-  xy: 1300, 1836
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/New Mongolia
   rotate: false
-  xy: 868, 1296
+  xy: 760, 1188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Norsemen Corps
   rotate: false
-  xy: 1084, 1512
+  xy: 976, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Photogenia
   rotate: false
-  xy: 652, 972
+  xy: 544, 864
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Poctulemai
   rotate: false
-  xy: 1084, 1404
+  xy: 976, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Radical Feminism Society
   rotate: false
-  xy: 220, 432
+  xy: 112, 324
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Reef Kings
   rotate: false
-  xy: 544, 756
+  xy: 436, 648
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Selva Empire
+  rotate: false
+  xy: 1624, 1836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -440,7 +440,7 @@ ResourceIcons/Dilophosaur
   index: -1
 ResourceIcons/Equus
   rotate: false
-  xy: 1084, 1944
+  xy: 976, 1836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -482,105 +482,105 @@ ResourceIcons/Marble
   index: -1
 ResourceIcons/Nasutoceratops
   rotate: false
-  xy: 436, 864
+  xy: 328, 756
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Neovenator
   rotate: false
-  xy: 652, 1080
+  xy: 544, 972
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Opetiosaurus
   rotate: false
-  xy: 1300, 1728
+  xy: 1192, 1620
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Ouranosaurus
   rotate: false
-  xy: 1516, 1944
+  xy: 1408, 1836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Peridot
   rotate: false
-  xy: 544, 864
+  xy: 436, 756
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Pinacosaurus
   rotate: false
-  xy: 760, 1080
+  xy: 652, 972
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Platecarpus
   rotate: false
-  xy: 868, 1188
+  xy: 760, 1080
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Postosuchus
   rotate: false
-  xy: 1192, 1512
+  xy: 1084, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Prionosuchus
   rotate: false
-  xy: 1300, 1620
+  xy: 1192, 1512
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Reeds
   rotate: false
-  xy: 436, 648
+  xy: 328, 540
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Ruby
   rotate: false
-  xy: 868, 1080
+  xy: 760, 972
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Sapphire
   rotate: false
-  xy: 1084, 1296
+  xy: 976, 1188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Sea Scales
   rotate: false
-  xy: 1408, 1620
+  xy: 1300, 1512
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Seagrass
   rotate: false
-  xy: 1516, 1728
+  xy: 1408, 1620
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Seashells
   rotate: false
-  xy: 1624, 1836
+  xy: 1516, 1728
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2820,56 +2820,56 @@ UnitIcons/Diplocaulus
   index: -1
 UnitIcons/Draconial Jeep
   rotate: false
-  xy: 112, 972
+  xy: 4, 864
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dragon
   rotate: false
-  xy: 220, 1080
+  xy: 112, 972
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Drill Platysuchus
   rotate: false
-  xy: 328, 1188
+  xy: 220, 1080
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Durodon
   rotate: false
-  xy: 436, 1296
+  xy: 328, 1188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elasmosaurus
   rotate: false
-  xy: 652, 1512
+  xy: 544, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elasmotherium
   rotate: false
-  xy: 760, 1620
+  xy: 652, 1512
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elite Reaper
   rotate: false
-  xy: 868, 1728
+  xy: 760, 1620
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Enforcer
   rotate: false
-  xy: 976, 1836
+  xy: 868, 1728
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -3023,140 +3023,140 @@ UnitIcons/Mapusaurus
   index: -1
 UnitIcons/Mesosaurus
   rotate: false
-  xy: 1408, 1944
+  xy: 1300, 1836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Moerder
   rotate: false
-  xy: 112, 540
+  xy: 4, 432
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Napoleon
   rotate: false
-  xy: 328, 756
+  xy: 220, 648
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Neovenator Rider
   rotate: false
-  xy: 760, 1188
+  xy: 652, 1080
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Nigersaurus
   rotate: false
-  xy: 976, 1404
+  xy: 868, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ophiacodon
   rotate: false
-  xy: 1408, 1836
+  xy: 1300, 1728
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Oxalaia
   rotate: false
-  xy: 4, 324
+  xy: 1516, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Patagotitan Machine Gun
   rotate: false
-  xy: 328, 648
+  xy: 220, 540
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Patagotitan Steel Armor
   rotate: false
-  xy: 436, 756
+  xy: 328, 648
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Plotosaurus
   rotate: false
-  xy: 976, 1296
+  xy: 868, 1188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Prionosuchus Rider
   rotate: false
-  xy: 1408, 1728
+  xy: 1300, 1620
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Protest
   rotate: false
-  xy: 1516, 1836
+  xy: 1408, 1728
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Protoceratops
   rotate: false
-  xy: 1624, 1944
+  xy: 1516, 1836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pukyongosaurus
   rotate: false
-  xy: 4, 216
+  xy: 1624, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Qianzhousaurus
   rotate: false
-  xy: 112, 324
+  xy: 4, 216
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Redwood Troop
   rotate: false
-  xy: 328, 540
+  xy: 220, 432
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rock Elemental
   rotate: false
-  xy: 760, 972
+  xy: 652, 864
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rugops
   rotate: false
-  xy: 976, 1188
+  xy: 868, 1080
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Saurosuchus
   rotate: false
-  xy: 1192, 1404
+  xy: 1084, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Scutosaurus
   rotate: false
-  xy: 1300, 1512
+  xy: 1192, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
