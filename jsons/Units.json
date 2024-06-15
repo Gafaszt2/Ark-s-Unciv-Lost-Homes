@@ -1,141 +1,5 @@
 [
-
-	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
-
-	/* Ancient Era */
-        	{
-		"name": "Great Artist",
-		"unitType": "Civilian",
-		"uniques": ["Can be purchased with [Faith] [in all cities]","Can be purchased for [1000] [Faith] [in all cities]",
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
-            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Great Scientist",
-		"unitType": "Civilian",
-		"uniques": ["Can be purchased with [Faith] [in all cities]","Can be purchased for [1000] [Faith] [in all cities]",
-            "Can hurry technology research",
-            "Can instantly construct a [Academy] improvement <by consuming this unit>",
-            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Great Merchant",
-		"unitType": "Civilian",
-		"uniques": ["Can be purchased with [Faith] [in all cities]","Can be purchased for [1000] [Faith] [in all cities]","Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
-			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Great Engineer",
-		"unitType": "Civilian",
-		"uniques": ["Can be purchased with [Faith] [in all cities]","Can be purchased for [1000] [Faith] [in all cities]","Can speed up construction of a building",
-            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
-            "Great Person - [Production]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Great Prophet",
-		"unitType": "Civilian",
-		"uniques": ["Can be purchased with [Faith] [in all cities]","Can be purchased for [1000] [Faith] [in all cities]",
-            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
-			"Removes other religions when spreading religion",
-            "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
-            "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
-			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
-			"Unbuildable", "Religious Unit", "Hidden when religion is disabled",
-			"Takes your religion over the one in their birth city"],
-		"movement": 2,
-		"religiousStrength": 1000
-	},
-        {
-		"name": "Missionary",
-		"unitType": "Civilian",
-		"uniques": [
-            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
-            "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
-			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
-		"movement": 4,
-		"religiousStrength": 1000
-	},
-	{
-		"name": "Inquisitor",
-		"unitType": "Civilian",
-		"uniques": ["Prevents spreading of religion to the city it is next to",
-			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
-            "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
-		],
-		"movement": 3
-	},
-	{
-		"name": "Great General",
-		"unitType": "Civilian",
-		"uniques": ["Can be purchased with [Faith] [in all cities]","Can be purchased for [1000] [Faith] [in all cities]",
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Settler",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 150,
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [3] population"],
-		"hurryCostModifier": 20
-	},
-                {
-		"name": "Work Boats",
-		"unitType": "Civilian Water",
-		"movement": 4,
-		"cost": 45,
-		"uniques": ["May create improvements on water resources","Uncapturable",
-            "Automation is a primary action"]
-	},
-	{
-		"name": "Bob",
-                "requiredResource": "Fiber",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 10,
-		"cost": 45,
-		"attackSound": "nonmetalhit"
-                "upgradesTo": "Survivor",
-		"obsoleteTech": "Bow and Arrow",
-                "uniques": ["Can build [Land] improvements on tiles","Requires at least [1] population"],
-        },
-        {
-		"name": "HLNA",
-               "requiredResource": "Tek",
-		"unitType": "Scout",
-		"movement": 6,
-		"strength": 20,
-                "uniques": ["Never appears as a Barbarian unit"],
-		"cost": 50,
-		"attackSound": "nonmetalhit"
-		"obsoleteTech": "Cryopod",
-        },
-        {
-		"name": "Dilophosaurus",
-                "replaces": "Bob",
-		"uniqueTo": "Barbarians",
-		"unitType": "Theropoda",
-		"movement": 2,
-		"strength": 8,
-		"cost": 45,
-		"attackSound": "raptor"
-                "upgradesTo": "Survivor",
-		"obsoleteTech": "Bow and Arrow",
-        },
-        {
+	        {
 		"name": "Raptor Rider",
 		"unitType": "Theropoda",
 		"movement": 3,
@@ -193,12 +57,12 @@
                 "replaces": "Raptor Rider",
 		"uniqueTo": "Kansallisvaltio",
 		"movement": 3,
-		"strength": 13,
+		"strength": 16,
 		"cost": 75,
 		"requiredTech": "Slingshot",
                 "upgradesTo": "Kapro Rider",
                 "obsoleteTech": "Tranq Arrow",
-		"uniques": ["Can move after attacking", "[+16]% Strength <vs [Wounded] units>"],
+		"uniques": ["Can move after attacking", "[+15]% Strength <vs [Theropoda] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "chalico"
 	},
@@ -343,13 +207,13 @@
                 "replaces": "Kapro Rider",
 		"uniqueTo": "Kansallisvaltio",
 		"unitType": "Amphibious",
-		"movement": 2,
-		"strength": 20,
-		"cost": 79,
+		"movement": 3,
+		"strength": 27,
+		"cost": 100,
 		"requiredTech": "Professional Domestication",
                 "upgradesTo": "Stego Rider",
                 "obsoleteTech": "Tranq Arrow",
-		"uniques": ["Can move after attacking", "[+5]% Strength <vs [Land] units>"],
+		"uniques": ["Can move after attacking", "[+15]% Strength <vs [Prey] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "ravager"
 	},
@@ -1341,11 +1205,11 @@
         {
 		"name": "Lyviatan Rider",
                 "replaces": "Basilo Rider",
-		"uniqueTo": "New Incan Empire",
+		"uniqueTo": "Norsemen Corps",
 		"unitType": "Cetaceous",
-		"movement": 3,
-		"strength": 38,
-		"cost": 85,
+		"movement": 4,
+		"strength": 60,
+		"cost": 200,
 		"requiredTech": "Raft",
 		"attackSound": "marine"
 	},
@@ -1467,21 +1331,6 @@
 		"attackSound": "ravager"
 	},
         {
-		"name": "African Forest Elephant",
-                 "replaces": "Kapro Rider",
-		"uniqueTo": "Matriarchy of the Great Sunlight",
-		"unitType": "Mammal",
-		"movement": 2,
-		"strength": 22,
-		"cost": 82,
-		"requiredTech": "Professional Domestication",
-                "upgradesTo": "Stego Rider",
-                "obsoleteTech": "Tranq Arrow",
-		"uniques": ["Can move after attacking", "[+10]% Strength <when fighting in [Plains] tiles>"],
-		"hurryCostModifier": 20,
-		"attackSound": "elephant"
-	},
-        {
 		"name": "Maewing",
                 "replaces": "Ptera Rider",
 		"uniqueTo": "Pure Genesis",
@@ -1595,228 +1444,6 @@
 		"attackSound": "medcarno"
 	},
         {
-		"name": "Mohawk Warrior",
-                 "replaces": "Theri Rider",
-		"uniqueTo": "The Great Warpath",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 35,
-		"cost": 85,
-		"requiredTech": "Metal Hatchet",
-		"uniques": ["Can move after attacking", "Earn [10]% of killed [Military] unit's [Strength] as [Science]"],
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-	},
-        {
-		"name": "Galley",
-		"unitType": "Melee Water",
-		"uniqueTo": "Renjuta Malta",
-		"movement": 3,
-		"strength": 11,
-		"cost": 40,
-		"uniques": ["Cannot enter ocean tiles"],
-		"obsoleteTech": "Raft",
-		"attackSound": "nonmetalhit"
-	},
-        {
-		"name": "Spearman",
-                "replaces": "Survivor",
-		"uniqueTo": "Renjuta Malta",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 21,
-		"cost": 52,
-		"attackSound": "nonmetalhit"
-                "requiredTech": "Bow and Arrow",
-                "upgradesTo": "Crossbow Survivor",
-                "obsoleteTech": "Crossbow",
-                "uniques": ["Can build [Land] improvements on tiles", "Requires at least [1] population"],
-	},
-        {
-		"name": "Swordsman",
-		"replaces": "Survivor",
-		"uniqueTo": "Nuovo regno d Italia",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 28,
-		"cost": 60,
-		"attackSound": "nonmetalhit"
-                "requiredTech": "Bow and Arrow",
-                "upgradesTo": "Crossbow Survivor",
-                "obsoleteTech": "Crossbow",
-                "uniques": ["Can build [Land] improvements on tiles", "Requires at least [1] population"],
-	},
-        {
-		"name": "Ballista",
-                "replaces": "MiniCannon",
-		"uniqueTo": "Nuovo regno d Italia",
-		"unitType": "Siege",
-		"movement": 2,
-		"strength": 14,
-		"rangedStrength": 15,
-		"cost": 211,
-		"requiredTech": "Metal House",
-                "requiredResource": "Chitin",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
-		"attackSound": "throw"
-	},
-        {
-		"name": "Chu-Ko-Nu",
-                "replaces": "Crossbow Survivor",
-		"uniqueTo": "Shang Tianguo",
-		"unitType": "Archery",
-		"movement": 2,
-		"strength": 25,
-                "rangedStrength": 28,
-		"cost": 83,
-		"attackSound": "nonmetalhit"
-                "requiredTech": "Crossbow",
-                "upgradesTo": "Flak Survivor",
-                "obsoleteTech": "Flak Armor",
-                "requiredResource": "Metal",
-                "uniques": ["Can build [Land] improvements on tiles", "Requires at least [1] population"],
-	},
-        {
-		"name": "Samurai",
-		"replaces": "Survivor",
-		"uniqueTo": "Hiji zuru Teikoku",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 28,
-		"cost": 60,
-		"attackSound": "nonmetalhit"
-                "requiredTech": "Bow and Arrow",
-                "upgradesTo": "Crossbow Survivor",
-                "obsoleteTech": "Crossbow",
-                "uniques": ["Can build [Land] improvements on tiles", "Requires at least [1] population", "May create improvements on water resources", "[+10]% Strength <when fighting in [Coast] tiles>"],
-	},
-        {
-		"name": "Cossack",
-                "replaces": "Purlovia Rider",
-		"uniqueTo": "New Rus",
-		"unitType": "Mounted",
-		"movement": 2,
-		"strength": 38,
-		"cost": 80,
-		"requiredTech": "Sword",
-		"uniques": ["Can move after attacking", "[+5]% Strength <when fighting in [Tundra] tiles>"],
-		"hurryCostModifier": 20,
-		"attackSound": "horse"
-	},
-        {
-		"name": "Conquistador",
-                "replaces": "Purlovia Rider",
-		"uniqueTo": "Nueva Hispania",
-		"unitType": "Mounted",
-		"movement": 2,
-		"strength": 38,
-		"cost": 80,
-		"requiredTech": "Sword",
-		"uniques": ["Can move after attacking", "[+5]% Strength <when fighting in [Foreign Land] tiles>"],
-		"hurryCostModifier": 20,
-		"attackSound": "horse"
-	},
-        {
-		"name": "Hussar",
-                "replaces": "Purlovia Rider",
-		"uniqueTo": "New Romania",
-		"unitType": "Mounted",
-		"movement": 2,
-		"strength": 38,
-		"cost": 80,
-		"requiredTech": "Sword",
-		"uniques": ["Can move after attacking", "[+5]% Strength <when fighting in [Hill] tiles>"],
-		"hurryCostModifier": 20,
-		"attackSound": "horse"
-	},
-        {
-		"name": "Musketeer",
-                "replaces": "Sniper",
-		"uniqueTo": "New Brittania",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 50,
-		"rangedStrength": 70,
-		"cost": 290,
-                "requiredResource": "Metal",
-		"requiredTech": "Assault Riffle",
-		"uniques": ["[+33]% Strength <vs [Siege] units>", "[+5]% Strength <when fighting in [Foreign Land] tiles>"],
-		"attackSound": "shot"
-	},
-         {
-		"name": "Tercio",
-                "replaces": "Sniper",
-		"uniqueTo": "Nueva Hispania",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 50,
-		"rangedStrength": 70,
-		"cost": 290,
-                "requiredResource": "Metal",
-		"requiredTech": "Assault Riffle",
-		"uniques": ["[+33]% Strength <vs [Siege] units>", "[+11]% Strength <vs [Mounted] units>"],
-		"attackSound": "shot"
-	},
-        {
-		"name": "Skirmisher",
-                "replaces": "Camuflage Survivor",
-		"uniqueTo": "New Romania",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 34,
-                "rangedStrength": 22,
-		"cost": 80,
-		"attackSound": "nonmetalhit"
-                "requiredTech": "Polymer",
-                "uniques": ["[+50]% Strength <vs [Mounted] units>"],
-        },
-        {
-		"name": "Longbowman",
-                 "replaces": "Crossbow Survivor",
-		"uniqueTo": "New Brittania",
-		"unitType": "Archery",
-		"movement": 2,
-		"strength": 35,
-                "rangedStrength": 32,
-		"cost": 81,
-		"attackSound": "nonmetalhit"
-                "requiredTech": "Crossbow",
-                "upgradesTo": "Flak Survivor",
-                 "uniques": ["Can build [Land] improvements on tiles", "Requires at least [1] population"],
-                "obsoleteTech": "Flak Armor",
-                "requiredResource": "Wood",
-        },
-        {
-		"name": "Horse Archer",
-                "replaces": "Raptor Rider",
-		"uniqueTo": "New Huns",
-		"unitType": "Mounted",
-		"movement": 3,
-		"strength": 18,
-		"cost": 79,
-		"requiredTech": "Slingshot",
-                "upgradesTo": "Kapro Rider",
-                "obsoleteTech": "Tranq Arrow",
-		"uniques": ["Can move after attacking"],
-		"hurryCostModifier": 20,
-		"attackSound": "horse"
-	},
-        {
-		"name": "Camel Archer",
-                "replaces": "Raptor Rider",
-		"uniqueTo": "Matriarchy of the Great Sunlight",
-		"unitType": "Mounted",
-		"movement": 3,
-		"strength": 15,
-		"cost": 79,
-		"requiredTech": "Slingshot",
-                "upgradesTo": "Kapro Rider",
-                "obsoleteTech": "Tranq Arrow",
-		"uniques": ["Can move after attacking", "[+5]% Strength <when fighting in [Desert] tiles>", "[+5]% Strength <when fighting in [Hill] tiles>"],
-		"hurryCostModifier": 20,
-		"attackSound": "horse"
-	},
-        {
 		"name": "Barbaridactylus",
                 "replaces": "Raptor Rider",
 		"uniqueTo": "Zare",
@@ -1831,64 +1458,7 @@
 		"hurryCostModifier": 20,
 		"attackSound": "tropeo"
 	},
-         {
-		"name": "Battering Ram",
-                "replaces": "MiniCannon",
-		"uniqueTo": "New Huns",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 18,
-		"cost": 199,
-		"requiredTech": "Metal House",
-                "requiredResource": "Chitin",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit"
-	},
-        {
-		"name": "Great Artist",
-		"unitType": "Civilian",
-		"uniques": [
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
-            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Great Scientist",
-		"unitType": "Civilian",
-		"uniques": [
-            "Can hurry technology research",
-            "Can instantly construct a [Academy] improvement <by consuming this unit>",
-            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Great Merchant",
-		"unitType": "Civilian",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
-			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Great Engineer",
-		"unitType": "Civilian",
-		"uniques": ["Can speed up construction of a building",
-            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
-            "Great Person - [Production]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-        {
-		"name": "Great General",
-		"unitType": "Civilian",
-		"uniques": [
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-         {
+                  {
 		"name": "Gaucho",
                 "replaces": "Survivor",
 		"uniqueTo": "Democracy of the South",
@@ -1978,6 +1548,21 @@
 		"uniques": ["[+50]% Strength <vs [Theropoda] units>","Can move after attacking"],
 		"hurryCostModifier": 20,
 		"attackSound": "chalico"
+	},
+        {
+		"name": "Andrew Rider",
+                "replaces": "Diplodocus",
+		"uniqueTo": "Norsemen Corps",
+		"unitType": "Prey",
+		"movement": 4,
+		"strength": 25,
+		"cost": 90,
+		"requiredTech": "Professional Domestication",
+                "upgradesTo": "Stego Rider",
+                "obsoleteTech": "Tranq Arrow",
+		"uniques": ["[-15]% Strength <when defending>","Can move after attacking","[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "ravager"
 	},
         {
 		"name": "Tek Rex Rider",

@@ -175,7 +175,6 @@ But as Spiras grew, so did its problems. Managing an empire was not as easy as c
         "spyNames": ["Sir Charles"]
 	},
 {
-		//nations
 		"name": "Great Roman Empire",
 		"leaderName": "Mars",
 		"adjective": ["Roman"],
@@ -186,7 +185,7 @@ But as Spiras grew, so did its problems. Managing an empire was not as easy as c
 
 Mars began to gather followers, survivors like him who were lost and looking for purpose. He shared his vision with them, of a new Roman Empire in the world of ARK. They were inspired by his leadership and the promise of a civilized society amidst the chaos.
 
-With his followers, Mars built the first city, naming it "Nova Roma". They established laws, built roads, arenas, and grand buildings reminiscent of ancient Rome. Mars, taking the title of "Caesar", led his people with wisdom and courage.",
+With his followers, Mars built the first city, naming it Nova Roma. They established laws, built roads, arenas, and grand buildings reminiscent of ancient Rome. Mars, taking the title of Caesar, led his people with wisdom and courage.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -204,6 +203,74 @@ With his followers, Mars built the first city, naming it "Nova Roma". They estab
 		"outerColor": [250, 54, 40],
 		"innerColor": [252, 211, 114],
 		"cities": ["Mars Throne","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Norsemen Corps",
+		"leaderName": "Elianna",
+		"adjective": ["Norsemen"],
+		"startBias": ["Forest","Coast"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Elianna, despite her humble background, felt a calling. She approached the Norsemen and expressed her desire to lead them. The Norsemen, skeptical at first, decided to give her a chance. They set forth a series of trials, each more challenging than the last.
+
+The first trial was a test of strength. Elianna was to wrestle a wild Megalodon, a creature known for its ferocity. With determination in her eyes, Elianna dove into the ocean. After a fierce struggle, she emerged victorious, earning the respect of the Norsemen.
+
+The second trial was a test of wisdom. Elianna was to solve the riddle of the ancient Obelisk, a task that had baffled the wisest of scholars. With patience and perseverance, Elianna deciphered the riddle, revealing the secrets of the Obelisk.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Men of the North",
+                "uniques": ["[+1 Gold, +1 Production] from [Coast] tiles [in all cities]","[+1 Production] from [Coast] tiles [in capital]"],
+
+		"outerColor": [73, 115, 128],
+		"innerColor": [225, 245, 244],
+		"cities": ["Eliheilm","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Kansallisvaltio",
+		"leaderName": "Micaela",
+		"adjective": ["Kansa"],
+		"startBias": ["Forest","Tundra"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Life in the kingdom was peaceful and prosperous under their rule. However, this peace was short-lived. One fateful night, the king was murdered in cold blood. The kingdom was thrown into chaos, and Micaela was left to pick up the pieces.
+
+Despite her grief, Micaela rose to the occasion. She took charge of the kingdom, leading with the same wisdom and justice as her late husband. She implemented new laws, ensured the safety of her people, and brought the murderers to justice.
+
+Under Micaela's rule, Kansallisvaltio flourished. She proved to be a strong and capable leader, earning the respect and admiration of her people. Micaela's story is a testament to her strength and resilience, proving that even in the face of adversity, one can rise to greatness.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Conquest Queen",
+                "uniques": ["Upon capturing a city, receive [2] times its [Culture] production as [Culture] immediately","Upon capturing a city, receive [2] times its [Science] production as [Science] immediately"],
+
+		"outerColor": [135, 161, 160],
+		"innerColor": [20, 48, 47],
+		"cities": ["Deer Skull","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
