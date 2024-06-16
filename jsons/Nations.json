@@ -38,7 +38,7 @@ Republic
 
 Fascism
 [+2 Food, +1 Science] in cities on [Tundra] tiles and [+2 Food, +1 Science] in cities on [Snow] tiles",
-                "uniques": ["[+2 Food, +1 Science] in cities on [Tundra] tiles","[+2 Food, +1 Science] in cities on [Snow] tiles"],
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [218, 230, 237],
 		"innerColor": [66, 72, 122],
@@ -79,7 +79,7 @@ Anarchy
 
 Libertarian
 [-50]% Gold cost of acquiring tiles [in all cities], New [Military] units start with [20] Experience [in all cities]",
-                "uniques": [""],
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [247, 225, 114],
 		"innerColor": [191, 76, 10],
@@ -120,7 +120,7 @@ Fascism
 
 Vegan Party
 [+1 Culture] from every [Ranch] with [1] to [1] neighboring [Jungle] tiles and [+1 Culture] from every [Mine] with [1] to [1] neighboring [Jungle] tiles",
-                "uniques": [""],
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [107, 209, 153],
 		"innerColor": [31, 74, 161],
@@ -161,7 +161,7 @@ Communist Party
 
 Anarchy
 [+2 Food] from every [Camp] in [Tundra] tiles and [+2 Production] from every [Mine] in [Tundra] tiles",
-                "uniques": [""],
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [230, 209, 156],
 		"innerColor": [66, 48, 35],
