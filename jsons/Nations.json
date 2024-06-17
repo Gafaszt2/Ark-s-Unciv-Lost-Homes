@@ -29,7 +29,7 @@ With the beasts as her guard, her loyal throng, She built her empire, both vast 
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-                "uniqueName": "Dreams of Snow and Swords",
+                "uniqueName": "Arctic Flower",
                 "uniqueText": "Juliana´s Monarchy
 [+2 Food] from every [Tundra] and [+2 Food] from every [Snow]
 
@@ -196,7 +196,15 @@ But as Spiras grew, so did its problems. Managing an empire was not as easy as c
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Hopes of a New World",
-                "uniques": ["[+1 Happiness] from [Forest] tiles [in all cities]","[+60]% [Science] [in all cities] <during a Golden Age>","[+40]% [Culture] [in all cities] <during a Golden Age>"],
+                "uniqueText": "Mila´s Fascism
+[+1 Happiness] from [Forest] tiles [in all cities] and [+60]% [Science] [in all cities] and [+40]% [Culture] [in all cities]
+
+Nomad´s Travels
+[2] free [Settler] units appear and [2] free [Bob] units appear
+
+Sailor´s Republic
+[+2 Gold] from [Coast] tiles [in all cities] and [+2 Production] from [Megalodon] tiles [in all cities] and [+2 Production] from [Basilosaurus] tiles [in all cities] and [+2 Production] from [Biotoxin] tiles [in all cities]",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [247, 135, 54],
 		"innerColor": [59, 35, 30],
@@ -230,7 +238,15 @@ With his followers, Mars built the first city, naming it Nova Roma. They establi
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "All Roads lead to Rome",
-                "uniques": ["[Great General] is earned [+44]% faster","[+1 Gold, +1 Production] from [Beach] tiles [in all cities]","[+1 Gold] from [Coast] tiles [in all cities]","[+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]>"],
+                "uniqueText": "Mars´s Speech
+[Great General] is earned [+44]% faster and [+1 Gold, +1 Production] from [Beach] tiles [in all cities] and [+1 Gold] from [Coast] tiles [in all cities] and [+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]>
+
+Republic
+[Great General] is earned [+44]% faster and [+2 Gold, +2 Food] from [Beach] tiles [in all cities]
+
+Monarchy
+[+1 Gold] per [2] social policies adopted and [+1 Faith] per [1] social policies adopted",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [250, 54, 40],
 		"innerColor": [252, 211, 114],
@@ -264,7 +280,15 @@ The second trial was a test of wisdom. Elianna was to solve the riddle of the an
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Men of the North",
-                "uniques": ["[+1 Gold, +1 Production] from [Coast] tiles [in all cities]","[+1 Production] from [Coast] tiles [in capital]"],
+                "uniqueText": "Elianna´s Tyranny
+[+1 Gold, +1 Production] from [Coast] tiles [in all cities] and [+1 Production] from [Ocean] tiles [in all cities] and [+1 Production] from [Coast] tiles [in capital]
+
+Anarchy
+[+1] Movement <for [Water] units> and [+10]% Strength <for [Water] units> and No movement cost to pillage <for [All] units> and Earn [50]% of the damage done to [Water] units as [Gold] and Earn [50]% of killed [Military Water] unit's [Strength] as [Gold]
+
+Aristocracy
+[Great Scientist] is earned [50]% faster and [+1 Gold] from every [Ranch] and [+1 Gold] from every [Luxury resource]",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [73, 115, 128],
 		"innerColor": [225, 245, 244],
@@ -298,7 +322,15 @@ Under Micaela's rule, Kansallisvaltio flourished. She proved to be a strong and 
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Conquest Queen",
-                "uniques": ["Upon capturing a city, receive [1] times its [Culture] production as [Culture] immediately","Upon capturing a city, receive [1] times its [Science] production as [Science] immediately"],
+                "uniqueText": "Micaela´s Monarchy
+Upon capturing a city, receive [1] times its [Culture] production as [Culture] immediately and Upon capturing a city, receive [1] times its [Science] production as [Science] immediately
+
+Libertarian
+[+2 Culture] from every [Luxury resource] and [+1 Culture] from every [Ark Monument]
+
+Piracy
+[+1 Gold, +1 Production] from all [Food] buildings and [+1 Gold] from every [Ark Monument]",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [135, 161, 160],
 		"innerColor": [20, 48, 47],
@@ -330,7 +362,15 @@ Evolet stood atop the highest peak, gazing at the three Obelisks. She felt their
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Nationalism",
-                "uniques": ["[-50]% Culture cost of adopting new Policies", "[+40]% Production when constructing [Science] buildings [in all cities]"],
+                "uniqueText": "Evolet´s Cosmoverse
+[-50]% Culture cost of adopting new Policies and [+40]% Production when constructing [Science] buildings [in all cities]
+
+Socialism
+[+1 Food, +1 Production] from [Camp] tiles [in all cities] and [+1 Production] from [Camp] tiles [in capital]
+
+Fascism
+[+2 Culture] from [Ranch] tiles [in capital]",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [54, 50, 168],
 		"innerColor": [35, 0, 48],
@@ -361,7 +401,15 @@ The Ascension Trials, Whispers spoke of an Overseer’s final test, the Ascensio
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Romanticism",
-                "uniques": ["[+30]% Production when constructing [Water] units [in all cities] <starting from the [Smithy era]>","[+30]% Production when constructing [Civilian] units [in all cities] <starting from the [Smithy era]>", "[+25]% Strength <when fighting in [Friendly Land] tiles> <before the [Smithy era]>"],
+                "uniqueText": "Camila´s Democracy
+[+30]% Production when constructing [Water] units [in all cities] and [+55]% Production when constructing [Sword] units [in all cities] and [+25]% Strength <when fighting in [Friendly Land] tiles> <before the [Smithy era]>
+
+Militarism
+[+55]% Production when constructing [Sword] units [in all cities] and [+44]% Production when constructing [Gunpowder] units [in all cities]
+
+Peace
+Enables Defensive Pacts and Enables Open Borders agreements and [+30]% Strength for cities",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [245, 240, 247],
 		"innerColor": [242, 14, 2],
@@ -391,7 +439,15 @@ The Ascension Trials, Whispers spoke of an Overseer’s final test, the Ascensio
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Codes of Moral",
-                "uniques": ["[+2 Culture, +1 Faith] in cities on [Jungle] tiles","[+2 Food, +1 Production] in cities on [Plains] tiles"],
+                "uniqueText": "Pilamayquen´s Militarism
+[+2 Culture, +1 Faith] in cities on [Jungle] tiles and [+2 Food, +1 Production] in cities on [Plains] tiles
+
+Native Representant
+[+2 Culture] in cities on [Forest] tiles and [+2 Food] in cities on [Tundra] tiles
+
+Democracy
+[+2 Culture] in cities on [Beach] tiles and [+1 Science] in cities on [Beach] tiles",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [212, 237, 154],
 		"innerColor": [40, 46, 26],
@@ -423,7 +479,15 @@ Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felli
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Big Amazonia",
-                "uniques": ["[+1 Culture] from every specialist [in all cities]","[+2 Culture] per [3] social policies adopted", "[+2 Culture] in cities on [Fresh Water] tiles"],
+                "uniqueText": "Sofia´s Constitutional Monarchy
+[+1 Culture] from every specialist [in all cities] and [+2 Culture] per [2] social policies adopted and [+2 Culture] in cities on [Fresh Water] tiles
+
+Theocracy
+[+2 Faith] [in all cities] and [+3 Faith] [in capital]
+
+Federacy
+Enables conversion of city production to [Culture] and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Smithy era]>",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [245, 37, 113],
 		"innerColor": [66, 6, 28],

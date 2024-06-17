@@ -1,5 +1,149 @@
 [
 {
+                "name": "Selva Empire",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Sofia´s Constitutional Monarchy",
+                                "triggeredUniques": ["[+1 Culture] from every specialist [in all cities] <for [100000] turns>","[+2 Culture] per [2] social policies adopted <for [100000] turns>", "[+2 Culture] in cities on [Fresh Water] tiles <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Theocracy",
+                                "triggeredUniques": ["[+2 Faith] [in all cities] <for [100000] turns>","[+3 Faith] [in capital] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Federacy",
+                                "triggeredUniques": ["Enables conversion of city production to [Culture] <for [100000] turns>","Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> <for [100000] turns>","Production to [Culture] conversion in cities changed by [+25]% <starting from the [Smithy era]> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Indomitable South",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Pilamayquen´s Militarism",
+                                "triggeredUniques": ["[+2 Culture, +1 Faith] in cities on [Jungle] tiles <for [100000] turns>","[+2 Food, +1 Production] in cities on [Plains] tiles <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Native Representant",
+                                "triggeredUniques": ["[+2 Culture] in cities on [Forest] tiles <for [100000] turns>","[+2 Food] in cities on [Tundra] tiles <for [100000] turns>"]
+                        },
+			{
+                                "text": "Democracy",
+                                "triggeredUniques": ["[+2 Culture] in cities on [Beach] tiles <for [100000] turns>","[+1 Science] in cities on [Beach] tiles <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Europa",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Camila´s Democracy",
+                                "triggeredUniques": ["[+30]% Production when constructing [Water] units [in all cities] <starting from the [Smithy era]> <for [100000] turns>","[+55]% Production when constructing [Sword] units [in all cities] <starting from the [Smithy era]> <for [100000] turns>", "[+25]% Strength <when fighting in [Friendly Land] tiles> <before the [Smithy era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Militarism",
+                                "triggeredUniques": ["[+55]% Production when constructing [Sword] units [in all cities] <for [100000] turns>","[+44]% Production when constructing [Gunpowder] units [in all cities] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Peace",
+                                "triggeredUniques": ["Enables Defensive Pacts <for [100000] turns>","Enables Open Borders agreements <for [100000] turns>","[+30]% Strength for cities <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Imperial New Order of America",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Evolet´s Cosmoverse",
+                                "triggeredUniques": ["[-50]% Culture cost of adopting new Policies <for [100000] turns>", "[+40]% Production when constructing [Science] buildings [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Socialism",
+                                "triggeredUniques": ["[+1 Food, +1 Production] from [Camp] tiles [in all cities] <for [100000] turns>","[+1 Production] from [Camp] tiles [in capital] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Fascism",
+                                "triggeredUniques": ["[+2 Culture] from [Ranch] tiles [in capital] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Kansallisvaltio",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Micaela´s Monarchy",
+                                "triggeredUniques": ["Upon capturing a city, receive [1] times its [Culture] production as [Culture] immediately <for [100000] turns>","Upon capturing a city, receive [1] times its [Science] production as [Science] immediately <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Libertarian",
+                                "triggeredUniques": ["[+2 Culture] from every [Luxury resource] <for [100000] turns>","[+1 Culture] from every [Ark Monument] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Piracy",
+                                "triggeredUniques": ["[+1 Gold, +1 Production] from all [Food] buildings <for [100000] turns>","[+1 Gold] from every [Ark Monument] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Norsemen Corps",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Elianna´s Tyranny",
+                                "triggeredUniques": ["[+1 Gold, +1 Production] from [Coast] tiles [in all cities] <for [100000] turns>","[+1 Production] from [Ocean] tiles [in all cities] <for [100000] turns>","[+1 Production] from [Coast] tiles [in capital] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Anarchy",
+                                "triggeredUniques": ["[+1] Movement <for [Water] units> <for [100000] turns>","[+10]% Strength <for [Water] units> <for [100000] turns>", "No movement cost to pillage <for [All] units> <for [100000] turns>", "Earn [50]% of the damage done to [Water] units as [Gold] <for [100000] turns>", "Earn [50]% of killed [Military Water] unit's [Strength] as [Gold] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Aristocracy",
+                                "triggeredUniques": ["[Great Scientist] is earned [50]% faster <for [100000] turns>","[+1 Gold] from every [Ranch] <for [100000] turns>","[+1 Gold] from every [Luxury resource] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Great Roman Empire",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Mars´s Speech",
+                                "triggeredUniques": ["[Great General] is earned [+44]% faster <for [100000] turns>","[+1 Gold, +1 Production] from [Beach] tiles [in all cities] <for [100000] turns>","[+1 Gold] from [Coast] tiles [in all cities] <for [100000] turns>","[+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Republic",
+                                "triggeredUniques": ["[Great General] is earned [+44]% faster <for [100000] turns>","[+2 Gold, +2 Food] from [Beach] tiles [in all cities] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Monarchy",
+                                "triggeredUniques": ["[+1 Gold] per [2] social policies adopted <for [100000] turns>","[+1 Faith] per [1] social policies adopted <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Spiras",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Mila´s Fascism",
+                                "triggeredUniques": ["[+1 Happiness] from [Forest] tiles [in all cities] <for [100000] turns>","[+60]% [Science] [in all cities] <during a Golden Age> <for [100000] turns>","[+40]% [Culture] [in all cities] <during a Golden Age> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Nomad´s Travels",
+                                "triggeredUniques": ["[2] free [Settler] units appear","[2] free [Bob] units appear"]
+                        },
+			{
+                                "text": "Sailor´s Republic",
+                                "triggeredUniques": ["[+2 Gold] from [Coast] tiles [in all cities] <for [100000] turns>","[+2 Production] from [Megalodon] tiles [in all cities] <for [100000] turns>","[+2 Production] from [Basilosaurus] tiles [in all cities] <for [100000] turns>","[+2 Production] from [Biotoxin] tiles [in all cities] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Smierc",
                 "text": "Pick your unique",
                 "choices":[
