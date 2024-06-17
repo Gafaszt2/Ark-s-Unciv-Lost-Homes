@@ -1282,32 +1282,6 @@
 		"attackSound": "theri"
 	},
         {
-		"name": "Amargasaurus",
-                "replaces": "Rex Rider",
-		"uniqueTo": "Lost Island",
-		"unitType": "Prey",
-		"movement": 2,
-		"strength": 70,
-		"cost": 190,
-		"requiredTech": "Chain Bola",
-		"uniques": ["[+20]% Strength <when fighting in [Snow] tiles>", "[+10]% Strength <when fighting in [Desert] tiles>"],
-		"hurryCostModifier": 20,
-		"attackSound": "dinoherb"
-	},
-         {
-		"name": "Dinopithecus",
-                "replaces": "Theri Rider",
-		"uniqueTo": "Lost Island",
-		"unitType": "Mammal",
-		"movement": 3,
-		"strength": 41,
-		"cost": 99,
-		"requiredTech": "Metal Hatchet",
-		"uniques": ["Can move after attacking", "[+10]% Strength <when fighting in [Jungle] tiles>"],
-		"hurryCostModifier": 20,
-		"attackSound": "ravager"
-	},
-        {
 		"name": "Shadowmane",
                  "replaces": "Kapro Rider",
 		"uniqueTo": "Pure Genesis",
@@ -1379,37 +1353,7 @@
                 "obsoleteTech": "Sword",
 		"attackSound": "chalico"
 	},
-        {
-		"name": "Velonasaur",
-                "replaces": "Shotgun Survivor",
-		"uniqueTo": "Extinction",
-		"unitType": "Theropoda",
-		"movement": 2,
-		"strength": 40,
-		"rangedStrength": 70,
-		"cost": 320,
-		"requiredTech": "Assault Riffle",
-		"uniques": ["[+31]% Strength <vs [Siege] units>"],
-		"attackSound": "theri"
-	},
-        {
-		"name": "Snow Owl",
-                "replaces": "Ptera Rider",
-		"uniqueTo": "Extinction",
-		"unitType": "Flying",
-		"movement": 4,
-		"strength": 27,
-		"cost": 81,
-		"requiredTech": "Spike Wall",
-                "requiredResource": "Chitin",
-		"uniques": ["Can move after attacking"],
-		"hurryCostModifier": 20,
-                "promotions": ["Medic"],
-                "upgradesTo": "Carno Rider",
-                "obsoleteTech": "Smithy",
-		"attackSound": "tropeo"
-	},
-        {
+                {
 		"name": "DireWolf Rider",
                 "replaces": "Purlovia Rider",
 		"uniqueTo": "Spiras",
