@@ -497,5 +497,86 @@ Enables conversion of city production to [Culture] and Production to [Culture] c
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+        {
+		"name": "The Skyscraper",
+		"leaderName": "Alessandra",
+		"adjective": ["Skyscraper"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Pilamayquen’s hunger for power knew no bounds. She coveted Sofia’s territory—the jungle’s resources, its ancient secrets, and the magic that flowed through its veins. Sofia resisted, seeing Pilamayquen’s republic as a blight upon the land, stripping it bare and leaving scars in its wake.
+
+Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felling trees and disrupting the delicate balance. Sofia retaliated by summoning storms, entangling soldiers in vines, and whispering curses that drove them mad. The clash of ideologies echoed through the canopy, shaking the very roots of the world.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Big Amazonia",
+                "uniqueText": "Sofia´s Constitutional Monarchy
+[+1 Culture] from every specialist [in all cities] and [+2 Culture] per [2] social policies adopted and [+2 Culture] in cities on [Fresh Water] tiles
+
+Theocracy
+[+2 Faith] [in all cities] and [+3 Faith] [in capital]
+
+Federacy
+Enables conversion of city production to [Culture] and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Smithy era]>",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+		"outerColor": [245, 37, 113],
+		"innerColor": [66, 6, 28],
+		"cities": ["Skylord City","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Photogenia",
+		"leaderName": "Theodora",
+		"adjective": ["Photogenia"],
+		"startBias": ["Beach"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Pilamayquen’s hunger for power knew no bounds. She coveted Sofia’s territory—the jungle’s resources, its ancient secrets, and the magic that flowed through its veins. Sofia resisted, seeing Pilamayquen’s republic as a blight upon the land, stripping it bare and leaving scars in its wake.
+
+Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felling trees and disrupting the delicate balance. Sofia retaliated by summoning storms, entangling soldiers in vines, and whispering curses that drove them mad. The clash of ideologies echoed through the canopy, shaking the very roots of the world.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Big Amazonia",
+                "uniqueText": "Sofia´s Constitutional Monarchy
+[+1 Culture] from every specialist [in all cities] and [+2 Culture] per [2] social policies adopted and [+2 Culture] in cities on [Fresh Water] tiles
+
+Theocracy
+[+2 Faith] [in all cities] and [+3 Faith] [in capital]
+
+Federacy
+Enables conversion of city production to [Culture] and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Smithy era]>",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+		"outerColor": [242, 228, 138],
+		"innerColor": [28, 28, 25],
+		"cities": ["Conztantias","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+
 
         ]

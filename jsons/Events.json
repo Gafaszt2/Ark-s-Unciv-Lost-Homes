@@ -1,5 +1,24 @@
 [
 {
+                "name": "The Skyscraper",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Alessandra´s Oligarchy",
+                                "triggeredUniques": ["[-25]% [Science] [in all cities] <for [100000] turns>","[+25]% [Culture] [in all cities] <for [100000] turns>","[+1 Science] per [2] social policies adopted <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Tirany",
+                                "triggeredUniques": ["[+30]% [Science] [in all cities] <for [100000] turns>","[+20]% [Culture] [in all cities] <for [100000] turns>","[-20]% [Happiness] [in all cities] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Socialism",
+                                "triggeredUniques": ["Double quantity of [Metal] produced <for [100000] turns>","Double quantity of [Biotoxin] produced <for [100000] turns>","[+15]% Strength for cities <for [100000] turns>"]
+                        }
+                ]
+        },
+
+{
                 "name": "Selva Empire",
                 "text": "Pick your unique",
                 "choices":[
