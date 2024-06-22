@@ -1,4 +1,41 @@
 [
+
+{
+                "name": "Tenochtitlan",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Quetzal´s Empire",
+                                "triggeredUniques": ["[+2 Science, +1 Faith] from every [Tumash Temple] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["[+1 Culture, +2 Faith] in cities on [Fresh Water] tiles <for [100000] turns>","[+1 Gold, +2 Culture] in cities on [Jungle] tiles <for [100000] turns>"]
+                        },
+			{
+                                "text": "Anarchy",
+                                "triggeredUniques": ["May buy items in puppet cities <for [100000] turns>","Cities are razed [3] times as fast <for [100000] turns>","No movement cost to pillage <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Photogenia",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Theodora´s Monarchy",
+                                "triggeredUniques": ["[+20]% Strength for cities <for [100000] turns>","[+1 Culture, +1 Food] in cities on [Beach] tiles <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Aristocracy",
+                                "triggeredUniques": ["[+25]% [Culture] [in all cities] <for [100000] turns>","[+3 Culture] in cities on [Beach] tiles <for [100000] turns>"]
+                        },
+			{
+                                "text": "Fascism",
+                                "triggeredUniques": ["[+1 Production] from every specialist [in all cities] <for [100000] turns>","[+2 Production] from every specialist [in capital] <for [100000] turns>"]
+                        }
+                ]
+        },
 {
                 "name": "The Skyscraper",
                 "text": "Pick your unique",
@@ -32,7 +69,7 @@
                         },
 			{
                                 "text": "Federacy",
-                                "triggeredUniques": ["Enables conversion of city production to [Culture] <for [100000] turns>","Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> <for [100000] turns>","Production to [Culture] conversion in cities changed by [+25]% <starting from the [Smithy era]> <for [100000] turns>"]
+                                "triggeredUniques": ["Enables conversion of city production to [Culture] <for [100000] turns>","Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> <for [100000] turns>","Production to [Culture] conversion in cities changed by [+35]% <starting from the [Smithy era]> <for [100000] turns>"]
                         }
                 ]
         },

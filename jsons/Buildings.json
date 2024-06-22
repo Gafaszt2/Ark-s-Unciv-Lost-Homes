@@ -183,6 +183,33 @@
 		"uniques": ["Triggers a [The Skyscraper] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
+		"name": "Photogenia Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Photogenia",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Photogenia] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Tenochtitlan Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Tenochtitlan",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Tenochtitlan] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+
+        {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
                 "uniqueTo": "Cryogenic Empire",

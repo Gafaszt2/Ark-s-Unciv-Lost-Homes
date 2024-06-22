@@ -122,8 +122,8 @@ Vegan Party
 [+1 Culture] from every [Ranch] with [1] to [1] neighboring [Jungle] tiles and [+1 Culture] from every [Mine] with [1] to [1] neighboring [Jungle] tiles",
                 "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
-		"outerColor": [107, 209, 153],
-		"innerColor": [31, 74, 161],
+		"outerColor": [156, 255, 230],
+		"innerColor": [10, 50, 250],
 		"cities": ["Floating Rock","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -504,9 +504,9 @@ Enables conversion of city production to [Culture] and Production to [Culture] c
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "Pilamayquen’s hunger for power knew no bounds. She coveted Sofia’s territory—the jungle’s resources, its ancient secrets, and the magic that flowed through its veins. Sofia resisted, seeing Pilamayquen’s republic as a blight upon the land, stripping it bare and leaving scars in its wake.
+		"startIntroPart1": "But her greatest achievement was unity. The skyscrapers, once divided by rivalries, now stood as a harmonious whole. Alessandra’s rule was marked by collaboration, not conquest. She held council meetings atop the highest towers, where architects debated the future of their realm.
 
-Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felling trees and disrupting the delicate balance. Sofia retaliated by summoning storms, entangling soldiers in vines, and whispering curses that drove them mad. The clash of ideologies echoed through the canopy, shaking the very roots of the world.",
+And so, Alessandra ruled, the woman who had ascended from the streets to the stars. Her legacy echoed through the ages, inspiring future builders, dreamers, and adventurers. The skyscrapers whispered her name in the wind, and even the wyverns circled above in reverence.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -518,15 +518,15 @@ Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felli
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-                "uniqueName": "Big Amazonia",
-                "uniqueText": "Sofia´s Constitutional Monarchy
-[+1 Culture] from every specialist [in all cities] and [+2 Culture] per [2] social policies adopted and [+2 Culture] in cities on [Fresh Water] tiles
+                "uniqueName": "Survival of the Fittest",
+                "uniqueText": "Alessandra´s Oligarchy
+[-25]% [Science] [in all cities] and [+25]% [Culture] [in all cities] and [+1 Science] per [2] social policies adopted
 
-Theocracy
-[+2 Faith] [in all cities] and [+3 Faith] [in capital]
+Tirany
+[+30]% [Science] [in all cities] and [+20]% [Culture] [in all cities] and [-20]% [Happiness] [in all cities]
 
-Federacy
-Enables conversion of city production to [Culture] and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Smithy era]>",
+Socialism
+Double quantity of [Metal] produced and Double quantity of [Biotoxin] produced and [+15]% Strength for cities",
                 "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
 		"outerColor": [245, 37, 113],
@@ -544,9 +544,7 @@ Enables conversion of city production to [Culture] and Production to [Culture] c
 		"startBias": ["Beach"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "Pilamayquen’s hunger for power knew no bounds. She coveted Sofia’s territory—the jungle’s resources, its ancient secrets, and the magic that flowed through its veins. Sofia resisted, seeing Pilamayquen’s republic as a blight upon the land, stripping it bare and leaving scars in its wake.
-
-Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felling trees and disrupting the delicate balance. Sofia retaliated by summoning storms, entangling soldiers in vines, and whispering curses that drove them mad. The clash of ideologies echoed through the canopy, shaking the very roots of the world.",
+		"startIntroPart1": "Once an adventurer and dreamer, stumbled upon an uncharted island. Its cliffs kissed the clouds, and its shores shimmered with iridescent sands. She claimed it as her own—a canvas for her vision. Photogenia was born.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -558,18 +556,18 @@ Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felli
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-                "uniqueName": "Big Amazonia",
-                "uniqueText": "Sofia´s Constitutional Monarchy
-[+1 Culture] from every specialist [in all cities] and [+2 Culture] per [2] social policies adopted and [+2 Culture] in cities on [Fresh Water] tiles
+                "uniqueName": "For God and the Queen",
+                "uniqueText": "Theodora´s Monarchy
+[+20]% Strength for cities and [+1 Culture, +1 Food] in cities on [Beach] tiles
 
-Theocracy
-[+2 Faith] [in all cities] and [+3 Faith] [in capital]
+Aristocracy
+[+25]% [Culture] [in all cities] and [+3 Culture] in cities on [Beach] tiles
 
-Federacy
-Enables conversion of city production to [Culture] and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Smithy era]>",
+Fascism
+[+1 Production] from every specialist [in all cities] and [+2 Production] from every specialist [in capital]",
                 "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
-		"outerColor": [242, 228, 138],
+		"outerColor": [245, 230, 66],
 		"innerColor": [28, 28, 25],
 		"cities": ["Conztantias","Arat","Prime",
 			"Federal",
@@ -577,6 +575,45 @@ Enables conversion of city production to [Culture] and Production to [Culture] c
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+        {
+		"name": "Tenochtitlan",
+		"leaderName": "Quetzal",
+		"adjective": ["Tenochtitlan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Ascension",
 
+		"startIntroPart1": "But power attracts darkness. A rival faction sought to exploit the city’s secrets, threatening to plunge ARK into chaos. Quetzal faced trials of courage, wisdom, and sacrifice. He battled corrupted creatures, deciphered celestial maps, and ultimately confronted the shadowy High Priest of Chaos.
+
+In the final showdown, Quetzal ascended the tallest ziggurat, wings ablaze with ancient fire. The High Priest mocked him, but Quetzal knew the truth: he was the bridge between worlds, the embodiment of balance. With a single stroke of his wing, he banished the High Priest, sealing the city’s secrets once more.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Feathered Snake",
+                "uniqueText": "Quetzal´s Empire
+[+2 Science, +1 Faith] from every [Tumash Temple]
+
+Democracy
+[+1 Culture, +2 Faith] in cities on [Fresh Water] tiles and [+1 Gold, +2 Culture] in cities on [Jungle] tiles
+
+Anarchy
+May buy items in puppet cities and Cities are razed [3] times as fast and No movement cost to pillage",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+		"outerColor": [90, 245, 66],
+		"innerColor": [24, 51, 14],
+		"cities": ["Serpent","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
 
         ]

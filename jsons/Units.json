@@ -29,34 +29,6 @@
 		"hurryCostModifier": 20,
 		"attackSound": "ravager"
 	},
-                {
-		"name": "Koolasuchus",
-                "replaces": "Theri Rider",
-		"uniqueTo": "New Aztec Empire",
-		"unitType": "Amphibious",
-		"movement": 1.5,
-		"strength": 42,
-		"cost": 92,
-		"requiredTech": "Metal Hatchet",
-                "obsoleteTech": "Sword",
-		"uniques": ["Can move after attacking"],
-		"hurryCostModifier": 20,
-		"attackSound": "croc"
-	},
-        {
-		"name": "Purrusaurus",
-                "replaces": "Prolibytherium",
-		"uniqueTo": "New Aztec Empire",
-		"unitType": "Amphibious",
-		"movement": 4,
-		"strength": 50,
-		"cost": 300,
-		"requiredTech": "Grenade",
-                "obsoleteTech": "Flak Armor",
-		"uniques": ["[+30]% Strength <vs [Theropoda] units>","Can move after attacking"],
-		"hurryCostModifier": 20,
-		"attackSound": "croc"
-	},
 {
 		"name": "Rock Drake",
                 "replaces": "Tropeo Rider",
