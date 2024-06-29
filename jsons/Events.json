@@ -1,5 +1,22 @@
 [
-
+{
+                "name": "Radical North",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Irma´s Fascism",
+                                "triggeredUniques": ["[+1 Science] from every [Ranch] <starting from the [Electric era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Monarchy",
+                                "triggeredUniques": ["[+2 Culture] from every [Ragnarok Temple] <starting from the [Electric era]> <for [100000] turns>"]
+                        },
+			{
+                                "text": "Federacy",
+                                "triggeredUniques": ["[+1 Culture] from every [Bounus resource] <for [100000] turns>"]
+                        }
+                ]
+        },
 {
                 "name": "Tenochtitlan",
                 "text": "Pick your unique",

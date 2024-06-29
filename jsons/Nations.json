@@ -529,8 +529,8 @@ Socialism
 Double quantity of [Metal] produced and Double quantity of [Biotoxin] produced and [+15]% Strength for cities",
                 "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
-		"outerColor": [245, 37, 113],
-		"innerColor": [66, 6, 28],
+		"outerColor": [31, 56, 46],
+		"innerColor": [138, 255, 208],
 		"cities": ["Skylord City","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -610,6 +610,46 @@ May buy items in puppet cities and Cities are razed [3] times as fast and No mov
 		"outerColor": [90, 245, 66],
 		"innerColor": [24, 51, 14],
 		"cities": ["Serpent","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Radical North",
+		"leaderName": "Irma",
+		"adjective": ["Radical North"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "But power attracts darkness. A rival faction sought to exploit the city’s secrets, threatening to plunge ARK into chaos. Quetzal faced trials of courage, wisdom, and sacrifice. He battled corrupted creatures, deciphered celestial maps, and ultimately confronted the shadowy High Priest of Chaos.
+
+In the final showdown, Quetzal ascended the tallest ziggurat, wings ablaze with ancient fire. The High Priest mocked him, but Quetzal knew the truth: he was the bridge between worlds, the embodiment of balance. With a single stroke of his wing, he banished the High Priest, sealing the city’s secrets once more.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "The New Nation",
+                "uniqueText": "Irma´s Fascism
+[+1 Science] from every [Ranch] <starting from the [Electric era]>
+
+Monarchy
+[+2 Culture] from every [Ragnarok Temple] <starting from the [Electric era]>
+
+Federacy
+[+1 Culture] from every [Bounus resource]",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+		"outerColor": [15, 15, 15],
+		"innerColor": [255, 41, 41],
+		"cities": ["Destorias","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],

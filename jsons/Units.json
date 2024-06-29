@@ -1,5 +1,34 @@
 [
         {
+		"name": "Trike Rider",
+                "replaces": "Kapro Rider",
+		"uniqueTo": "Radical North",
+		"unitType": "Prey",
+		"movement": 1,
+		"strength": 30,
+		"cost": 90,
+		"requiredTech": "Professional Domestication",
+                "upgradesTo": "Stego Rider",
+                "obsoleteTech": "Tranq Arrow",
+		"uniques": ["[+15]% Strength <vs [Sword] units>","Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "dinoherb"
+	},
+        {
+		"name": "Genyodectes",
+                "replaces": "Stego Rider",
+		"uniqueTo": "Radical North",
+		"unitType": "Theropoda",
+		"movement": 2,
+		"strength": 48,
+		"cost": 115,
+		"requiredTech": "Tranq Arrow",
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 20,
+                "obsoleteTech": "Sword",
+		"attackSound": "medcarno"
+	},
+        {
 		"name": "Megaloceros Rider",
 		"unitType": "Mammal",
                 "replaces": "Raptor Rider",
@@ -170,19 +199,6 @@
                 "requiredResource": "Metal",
                 "promotions": ["Imperator"],
 		"attackSound": "chalico"
-	},
-        {
-		"name": "Trike Rider",
-                "replaces": "Purlovia Rider",
-		"uniqueTo": "Mercenaries",
-		"unitType": "Prey",
-		"movement": 2,
-		"strength": 40,
-		"cost": 120,
-		"requiredTech": "Sword",
-		"uniques": ["May capture killed [Mounted] units"],
-		"hurryCostModifier": 20,
-		"attackSound": "dinoherb"
 	},
         {
 		"name": "Herrera Rider",
