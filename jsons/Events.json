@@ -1,5 +1,59 @@
 [
 {
+                "name": "Wisdomenland",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Margaret´s Anarchy",
+                                "triggeredUniques": ["[+1 Production] from every [Ranch] <with [1] to [6] neighboring [Tundra] tiles> <for [100000] turns>","[+1 Food] from every [Ranch] <with [1] to [6] neighboring [Forest] tiles> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Corporalism",
+                                "triggeredUniques": ["[+1 Science] from every [Ranch] <with [1] to [6] neighboring [Snow] tiles> <for [100000] turns>"]
+                        },
+			{
+                                "text": "Theocracy",
+                                "triggeredUniques": ["[+3 Faith] from every [Trading post] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Mana",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Happa´s Communialism",
+                                "triggeredUniques": ["[+2 Production] from every [Luxury resource] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Communism",
+                                "triggeredUniques": ["[+2 Food, +1 Culture] in cities on [Beach] tiles <for [100000] turns>","[+2 Food, +2 Culture] in cities on [Snowy Beach] tiles <for [100000] turns>"]
+                        },
+			{
+                                "text": "Nomadism",
+                                "triggeredUniques": ["New [Water] units start with [10] Experience [in all cities] <for [100000] turns>","No movement cost to pillage <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Helius",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Carlz´s Empire",
+                                "triggeredUniques": ["New [Sword] units start with [10] Experience [in all cities] <for [100000] turns>","[+50]% Golden Age length <for [100000] turns>","[+10]% Strength decreasing with distance from the capital <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Federacy",
+                                "triggeredUniques": ["New [Prey] units start with [35] Experience [in all cities] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Libertarian",
+                                "triggeredUniques": ["New [Theropoda] units start with [25] Experience [in all cities] <for [100000] turns>","[+50]% Strength decreasing with distance from the capital <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Radical North",
                 "text": "Pick your unique",
                 "choices":[
@@ -248,7 +302,7 @@
                         },
 			{
                                 "text": "Vegan Party",
-                                "triggeredUniques": ["[+1 Culture] from every [Ranch] <with [1] to [1] neighboring [Jungle] tiles> <for [100000] turns>","[+1 Culture] from every [Mine] <with [1] to [1] neighboring [Jungle] tiles> <for [100000] turns>"]
+                                "triggeredUniques": ["[+1 Culture] from every [Ranch] <with [1] to [6] neighboring [Jungle] tiles> <for [100000] turns>","[+1 Culture] from every [Mine] <with [1] to [6] neighboring [Jungle] tiles> <for [100000] turns>"]
                         }
                 ]
         },

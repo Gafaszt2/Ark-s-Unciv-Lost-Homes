@@ -372,7 +372,7 @@ Fascism
 [+2 Culture] from [Ranch] tiles [in capital]",
                 "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
-		"outerColor": [54, 50, 168],
+		"outerColor": [183, 159, 245],
 		"innerColor": [35, 0, 48],
 		"cities": ["First Federation","Arat","Prime",
 			"Federal",
@@ -459,7 +459,7 @@ Democracy
 	},
         {
 		"name": "Selva Empire",
-		"leaderName": "Sofia",
+		"leaderName": "Sophia",
 		"adjective": ["Sur"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Ascension",
@@ -622,9 +622,7 @@ May buy items in puppet cities and Cities are razed [3] times as fast and No mov
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "But power attracts darkness. A rival faction sought to exploit the city’s secrets, threatening to plunge ARK into chaos. Quetzal faced trials of courage, wisdom, and sacrifice. He battled corrupted creatures, deciphered celestial maps, and ultimately confronted the shadowy High Priest of Chaos.
-
-In the final showdown, Quetzal ascended the tallest ziggurat, wings ablaze with ancient fire. The High Priest mocked him, but Quetzal knew the truth: he was the bridge between worlds, the embodiment of balance. With a single stroke of his wing, he banished the High Priest, sealing the city’s secrets once more.",
+		"startIntroPart1": "Irma’s vision was simple: survival at any cost. She built massive fortifications, turning her base into an impregnable fortress. Her followers admired her strength and cunning, but secretly feared her wrath. Irma’s motto? Obey or be devoured.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -650,6 +648,115 @@ Federacy
 		"outerColor": [15, 15, 15],
 		"innerColor": [255, 41, 41],
 		"cities": ["Destorias","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Helius",
+		"leaderName": "Carlz Albert",
+		"adjective": ["Helius"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Carlz Albert was an enigma—an eccentric survivor with a penchant for psychological warfare. His tribe, the Helius, specialized in manipulating their enemies’ minds. They used hallucinogenic mushrooms, hypnotic dances, and cryptic symbols to sow chaos.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "The Cave Empire",
+                "uniqueText": "Carlz´s Empire
+New [Sword] units start with [10] Experience [in all cities] and [+50]% Golden Age length and [+10]% Strength decreasing with distance from the capital
+
+Federacy
+New [Prey] units start with [35] Experience [in all cities]
+
+Libertarian
+New [Theropoda] units start with [25] Experience [in all cities] and [+50]% Strength decreasing with distance from the capital",
+		"outerColor": [215, 230, 60],
+		"innerColor": [22, 48, 30],
+		"cities": ["Yellow Cloud","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Mana",
+		"leaderName": "Happa Venata",
+		"adjective": ["Mana"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Happa Venata hailed from a distant island chain, where warriors were born in the salt spray and raised on legends of sea monsters. His tribe, the Mana, revered the ocean and its primal power.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Shores of Faith and Wisdom",
+                "uniqueText": "Happa´s Communialism
+[+2 Production] from every [Luxury resource]
+
+Communism
+[+2 Food, +1 Culture] in cities on [Beach] tiles and [+2 Food, +2 Culture] in cities on [Snowy Beach] tiles
+
+Nomadism
+New [Water] units start with [10] Experience [in all cities] and No movement cost to pillage",
+		"outerColor": [19, 63, 94],
+		"innerColor": [71, 177, 252],
+		"cities": ["Manaism Voyage","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Wisdomenland",
+		"leaderName": "Margaret",
+		"adjective": ["Wisdom"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Margaret’s icy gaze hid a warmth that melted hearts. She believed in unity, even as rival factions clashed. Her dream? A united ARK, where every survivor had a voice. She wore a cloak of polar bear fur, symbolizing her commitment to balance.
+As whispers spread of a hidden ARK sanctuary—a place untouched by the chaos—Margaret vowed to lead her people there. She’d negotiate with the fiercest allosaurs and soothe the angriest rexes. Her legacy? Not power, but peace.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Trivial Concerns",
+                "uniqueText": "Margaret´s Anarchy
+[+2 Production] from every [Ranch] <with [1] to [6] neighboring [Tundra] tiles> and [+1 Food] from every [Ranch] <with [1] to [6] neighboring [Forest] tiles>
+
+Corporalism
+[+2 Science] from every [Ranch] <with [1] to [6] neighboring [Snow] tiles> 
+
+Theocracy
+[+3 Faith] from every [Trading post]",
+		"outerColor": [29, 30, 59],
+		"innerColor": [255, 212, 249],
+		"cities": ["Greenland","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
