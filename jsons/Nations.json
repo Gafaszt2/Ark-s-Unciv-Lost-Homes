@@ -72,7 +72,7 @@ Under his rule, the new Africa was a land of opportunity, where every survivor c
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Humanity's Cradle",
                 "uniqueText": "King Umbi´s Monarchy
-+50% XP gained from combat and -50% maintenance costs
++10% XP gained from combat and -44% maintenance costs
 
 Anarchy
 [+100]% Strength <vs [Barbarian] units>, Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture] and get Notified of new Barbarian encampments
@@ -762,5 +762,44 @@ Theocracy
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+        
+        {
+		"name": "Drevnost",
+		"leaderName": "Ivar",
+		"adjective": ["Drevnost"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Ascension",
 
+		"startIntroPart1": "The heart of Drevnost was the Great Hall, a cavernous chamber adorned with crude paintings depicting battles against the titanic titanosaur and the elusive broodmother. Here, the tribe gathered to feast on roasted dodo legs, share stories of their exploits, and plan their next daring raid on a rival tribe.
+
+Ivar’s closest companion was Nadia, a fierce warrior with a scar across her left eye. She had saved him from a pack of sabertooths during his early days in Drevnost, and their bond grew stronger with each shared hunt. Nadia’s laughter echoed through the camp, a rare sound in a world where danger lurked around every corner.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Ancient People´s Cold Hearts",
+                "uniqueText": "Ivar´s Empire
+[+2 Production] from all [Production] buildings
+
+Nadia´s Communism
+[+1 Gold, +2 Culture] from all [Science] buildings
+
+Democracy
+[+2 Faith] from all [Food] buildings",
+		"outerColor": [72, 66, 245],
+		"innerColor": [214, 212, 250],
+		"cities": ["Big Hammer","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        
         ]

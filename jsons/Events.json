@@ -1,5 +1,23 @@
 [
 {
+                "name": "Drevnost",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Ivar´s Empire",
+                                "triggeredUniques": ["[+2 Production] from all [Production] buildings <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Nadia´s Communism",
+                                "triggeredUniques": ["[+1 Gold, +2 Culture] from all [Science] buildings <for [100000] turns>"]
+                        },
+			{
+                                "text": "Democracy",
+                                "triggeredUniques": ["[+2 Faith] from all [Food] buildings <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Wisdomenland",
                 "text": "Pick your unique",
                 "choices":[
@@ -312,7 +330,7 @@
                 "choices":[
                         {
                                 "text": "King Umbi´s Monarchy",
-                                "triggeredUniques": ["[+50]% XP gained from combat <for [100000] turns>", "[-50]% maintenance costs <for [100000] turns>"]
+                                "triggeredUniques": ["[+10]% XP gained from combat <for [100000] turns>", "[-44]% maintenance costs <for [100000] turns>"]
                         },
                         {
                                 "text": "Anarchy",

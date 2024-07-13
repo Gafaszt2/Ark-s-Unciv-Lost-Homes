@@ -1,5 +1,36 @@
 [
          {
+		"name": "Velociraptor",
+                "replaces": "Castoroides",
+		"uniqueTo": "Drevnost",
+		"unitType": "Theropoda",
+		"movement": 5,
+		"strength": 30,
+		"cost": 80,
+		"requiredTech": "Professional Domestication",
+                "upgradesTo": "Stego Rider",
+                "requiredResource": "Wood",
+                "obsoleteTech": "Tranq Arrow",
+		"uniques": ["Can move after attacking","[+30]% Strength <vs [Sword] units>","[+25]% Strength <vs [Prey] units>"],
+		"hurryCostModifier": 20,
+		"attackSound": "raptor"
+	},
+        {
+		"name": "Tarbosaurus Rider",
+                "replaces": "Rex Rider",
+		"uniqueTo": "Drevnost",
+                "upgradesTo": "Giga Rider",
+		"unitType": "Theropoda",
+		"movement": 2,
+		"strength": 75,
+		"cost": 230,
+		"requiredTech": "Chain Bola",
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 20,
+                "promotions": ["Strong Genetics","Imperator","Cold Weather Lover"],
+		"attackSound": "rex"
+	},
+         {
 		"name": "Maiasaura Rider",
                 "replaces": "Bronto Rider",
 		"uniqueTo": "Wisdomenland",
@@ -444,20 +475,6 @@
 		"hurryCostModifier": 20,
 		"attackSound": "tropeo"
 	},
-                  {
-		"name": "Gaucho",
-                "replaces": "Survivor",
-		"uniqueTo": "Democracy of the South",
-		"unitType": "Sword",
-		"movement": 3,
-		"strength": 15,
-		"cost": 57,
-		"attackSound": "horse"
-                "requiredTech": "Bow and Arrow",
-                "upgradesTo": "Crossbow Survivor",
-                "obsoleteTech": "Crossbow",
-                "uniques": ["Can build [Land] improvements on tiles", "Requires at least [1] population"],
-        },
         {
 		"name": "Quetzalcoatlus",
                 "replaces": "Giga Rider",
