@@ -747,10 +747,10 @@ As whispers spread of a hidden ARK sanctuary—a place untouched by the chaos—
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Trivial Concerns",
                 "uniqueText": "Margaret´s Anarchy
-[+2 Production] from every [Ranch] <with [1] to [6] neighboring [Tundra] tiles> and [+1 Food] from every [Ranch] <with [1] to [6] neighboring [Forest] tiles>
+[+2 Production] from every [Ranch] with [1] to [6] neighboring [Tundra] tiles and [+1 Food] from every [Ranch] with [1] to [6] neighboring [Forest] tiles
 
 Corporalism
-[+2 Science] from every [Ranch] <with [1] to [6] neighboring [Snow] tiles> 
+[+2 Science] from every [Ranch] with [1] to [6] neighboring [Snow] tiles 
 
 Theocracy
 [+3 Faith] from every [Trading post]",
@@ -796,6 +796,47 @@ Democracy
 		"outerColor": [72, 66, 245],
 		"innerColor": [214, 212, 250],
 		"cities": ["Big Hammer","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Lost Homes",
+		"leaderName": "Smith",
+		"adjective": ["Lost Homes"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Smith’s quest began. He sought out the elders, listened to their stories, and learned their grievances. The Stoneclaw chieftain spoke of ancestral grudges, the Sandstriders of nomadic wanderlust, the Forest Whisperers of ancient spirits, and the Coralborn of lost seafaring routes.
+But not all welcomed unity. The fanatical Firebrand Cult, worshipers of the fiery wyverns, plotted chaos. Their leader, High Inquisitor Voss, saw Smith as a threat to their dominion. Battles erupted—sword against flame, claw against scale.
+At the volcanic peak, Smith faced Voss. Flames danced around them, and the island trembled. Voss sneered, Unity is weakness. We thrive on discord!
+
+Smith raised his sword, its blade shimmering with the combined essence of the tribes. Unity is strength, he declared. The Ark chose me to mend its fractured soul.
+
+Their duel shook the heavens. Smith’s armor absorbed Voss’s flames, and Talon swooped down, distracting the wyverns. Elara chanted ancient incantations, and Kael’s cannons roared.
+
+In the end, Smith stood victorious. The Firebrand Cult disbanded, and the Council of Nations ratified the Treaty of Lost Homes. The tribes shared knowledge, trade routes, and laughter. The Ark pulsed with newfound harmony..",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Honor or Death",
+                "uniqueText": "Smith´s Empire
+[+1 Science] from every [Mine] starting from the [Smithy era] and [+1 Science] from every [Mine] starting from the [Electric era] and [+1 Production] from every [Ranch] starting from the [Tek era]
+
+Voss´s Corruption
+[+2 Culture] from every [Mine] starting from the [Smithy era]",
+		"outerColor": [255, 44, 20],
+		"innerColor": [18, 9, 8],
+		"cities": ["Union Sword","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],

@@ -8,6 +8,14 @@
 		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "Eliminates combat penalty for attacking across a coast"],
         }
 {
+		"name": "Teeth like Daggers",
+		"uniques": ["[1] additional attacks per turn"],
+        }
+{
+		"name": "Flexible Bones",
+		"uniques": ["[+20]% XP gained from combat","[+5]% to Flank Attack bonuses"],
+        }
+{
 		"name": "Golden",
 		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Gold]"],
         }

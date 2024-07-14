@@ -16,6 +16,35 @@
 		"attackSound": "raptor"
 	},
         {
+		"name": "Nothosaurus",
+                "replaces": "Ichtyosaurus Rider",
+		"uniqueTo": "Lost Homes",
+                "upgradesTo": "Megalodon Rider",
+		"unitType": "Marine Reptile",
+		"movement": 3,
+		"strength": 25,
+		"cost": 50,
+                "promotions": ["Teeth like Daggers"],
+		"requiredTech": "Spyglass",
+		"attackSound": "marine"
+	},
+        {
+		"name": "Irritator Rider",
+                "replaces": "Baryonix Rider",
+		"uniqueTo": "Lost Homes",
+		"unitType": "Theropoda",
+		"movement": 3,
+		"strength": 30,
+		"cost": 70,
+		"requiredTech": "Smithy",
+		"uniques": ["Can move after attacking"],
+                "promotions": ["Flexible Bones"],
+		"hurryCostModifier": 20,
+                "upgradesTo": "Stego Rider",
+                "obsoleteTech": "Tranq Arrow",
+		"attackSound": "spino"
+	},
+        {
 		"name": "Tarbosaurus Rider",
                 "replaces": "Rex Rider",
 		"uniqueTo": "Drevnost",

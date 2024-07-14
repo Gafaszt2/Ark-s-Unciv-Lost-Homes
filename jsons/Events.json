@@ -1,5 +1,19 @@
 [
 {
+                "name": "Lost Homes",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Smith´s Empire",
+                                "triggeredUniques": ["[+1 Science] from every [Mine] <starting from the [Smithy era]> <for [100000] turns>","[+1 Science] from every [Mine] <starting from the [Electric era]> <for [100000] turns>","[+1 Production] from every [Ranch] <starting from the [Tek era]> <for [100000] turns>"]
+                        },
+			{
+                                "text": "Voss´s Corruption",
+                                "triggeredUniques": ["[+2 Culture] from every [Mine] <starting from the [Smithy era]> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Drevnost",
                 "text": "Pick your unique",
                 "choices":[
