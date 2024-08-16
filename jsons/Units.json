@@ -1,5 +1,34 @@
 [
          {
+		"name": "Zeppelin",
+                "replaces": "Final Electric Cannon",
+		"uniqueTo": "The Steampunkers",
+		"unitType": "Siege",
+		"movement": 1,
+		"strength": 210,
+		"cost": 400,
+		"requiredTech": "Flamethrower",
+                "obsoleteTech": "Island Bosses",
+                "requiredResource": "Steel",
+		"uniques": ["Consumes [3] [Steel]","[+40]% Strength <vs [Fantasy] units>","[+70]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"attackSound": "bombing"
+	},
+         {
+		"name": "Plateosaurus Rider",
+                "replaces": "Tyrannotitan Rider",
+		"uniqueTo": "The Steampunkers",
+		"unitType": "Sauropodomorpha",
+		"movement": 2,
+		"strength": 80,
+		"cost": 190,
+		"requiredTech": "Assault Riffle",
+                "requiredResource": "Steel",
+                "promotions": ["Steampunker","Chivalry"],
+		"uniques": ["Can move after attacking","[+10]% Strength <vs [Wounted] units>","[+10]% Strength <vs [Gunpowder] units>","[+33]% Strength <vs [Fantasy] units>","Never appears as a Barbarian unit"],
+		"hurryCostModifier": 20,
+		"attackSound": "dinoherb"
+	},
+         {
 		"name": "Velociraptor",
                 "replaces": "Castoroides",
 		"uniqueTo": "Drevnost",

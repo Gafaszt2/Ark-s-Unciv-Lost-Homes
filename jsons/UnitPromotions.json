@@ -16,6 +16,10 @@
 		"uniques": ["[+20]% XP gained from combat","[+5]% to Flank Attack bonuses"],
         }
 {
+		"name": "Steampunker",
+		"uniques": ["[+25]% XP gained from combat"],
+        }
+{
 		"name": "Golden",
 		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Gold]"],
         }

@@ -287,6 +287,19 @@
 		"uniques": ["Triggers a [Lost Homes] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
+		"name": "The Steampunkers Elections",
+                "replaces": "Palace",
+                "uniqueTo": "The Steampunkers",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [The Steampunkers] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
                 "uniqueTo": "Cryogenic Empire",

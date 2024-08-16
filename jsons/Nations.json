@@ -842,5 +842,48 @@ Voss´s Corruption
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+{
+		"name": "The Steampunkers",
+		"leaderName": "Daria",
+		"adjective": ["Steampunk"],
+		"startBias": ["Montano"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "She knew what had to be done. With a determined look, she ordered her crew to stabilize the zeppelin. The mystics chanted ancient incantations, and Daria stepped into the portal. The world shifted around her, and she emerged on the other side a place of fractured reality, where gravity played tricks and time flowed like molten metal.
+
+Daria’s mechanical arm hummed, resonating with the energy of the portal. She felt the presence of the trapped souls—the survivors who had become one with this fractured realm. They whispered their gratitude, urging her forward.
+
+And so, Daria pressed on. She explored crystalline forests, battled against corrupted creatures, and deciphered inscriptions etched into the very fabric of reality. She discovered artifacts—keys to unlocking the secrets of Aberration—and sent them back to her zeppelin.
+
+As the months passed, the Steampunkers awaited her return. They patched up the zeppelin, upgraded its engines, and kept the fires burning. Daria’s legend grew—the fearless captain who sailed through the skies and delved into the abyss.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Machinery",
+                "uniqueText": "Daria´s Royalty
+[+2 Production] from every [Foundry] and [+2 Culture] from every [Foundry] and [-3 Gold] from every [Foundry]
+
+Miguel´s Fascism
+[+1 Production] from every [Hill] and [+1 Gold] from every [Hill] starting from the [Smithy era] and [+1 Production] from every [Mine] starting from the [Electric era]
+
+Fabian´s Democracy
+[+1 Science] from all [Food] buildings starting from the [Electric era]",
+		"outerColor": [46, 21, 4],
+		"innerColor": [247, 178, 67],
+		"cities": ["Cogsworth","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+
         
         ]

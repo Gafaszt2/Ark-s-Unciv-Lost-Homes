@@ -1,5 +1,23 @@
 [
 {
+                "name": "The Steampunkers",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Daria´s Royalty",
+                                "triggeredUniques": ["[+2 Production] from every [Foundry] <for [100000] turns>","[+2 Culture] from every [Foundry] <for [100000] turns>","[-3 Gold] from every [Foundry] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Miguel´s Fascism",
+                                "triggeredUniques": ["[+1 Production] from every [Hill] <for [100000] turns>", "[+1 Gold] from every [Hill] <starting from the [Smithy era]> <for [100000] turns>","[+1 Production] from every [Mine] <starting from the [Electric era]> <for [100000] turns>"]
+                        },
+			{
+                                "text": "Fabian´s Democracy",
+                                "triggeredUniques": ["[+1 Science] from all [Food] buildings <starting from the [Electric era]> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Lost Homes",
                 "text": "Pick your unique",
                 "choices":[
