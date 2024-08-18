@@ -1,5 +1,37 @@
 [
 {
+                "name": "Titanforge",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "General E´s Anarchy",
+                                "triggeredUniques": ["Cannot build [Gunpowder] units <for [100000] turns>","[+60]% Strength for cities <for [100000] turns>","[+50]% Strength decreasing with distance from the capital <for [100000] turns>"]
+                        },
+                        {
+                                "text": "General E´s Monarchy",
+                                "triggeredUniques": ["[+1 Gold, +2 Faith] per every [3] [Science] <for [100000] turns>","[+1 Production] per every [6] [Gold] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Mighty Caliphate",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Amelia´s Tribalism",
+                                "triggeredUniques": ["[+2 Culture] from every [Mosque] <for [100000] turns>","[+3 Faith] from every [Mosque] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Tyranny",
+                                "triggeredUniques": ["[+2 Gold] from every [Plantation] <for [100000] turns>"]
+                        },
+			{
+                                "text": "Monarchy",
+                                "triggeredUniques": ["[2] free [Carno Rider] units appear <starting from the [Smithy era]> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "The Steampunkers",
                 "text": "Pick your unique",
                 "choices":[

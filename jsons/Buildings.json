@@ -300,6 +300,32 @@
 		"uniques": ["Triggers a [The Steampunkers] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
+		"name": "Mighty Caliphate Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Mighty Caliphate",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [The Steampunkers] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Titanforge Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Titanforge",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Titanforge] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
                 "uniqueTo": "Cryogenic Empire",
@@ -309,4 +335,15 @@
 		"hurryCostModifier": 20,
 		"uniques": ["Destroyed when the city is captured"]
 	},
+        {
+		"name": "Mosque",
+                "replaces": "Rockwell Stories",
+                "uniqueTo": "Mighty Caliphate",
+                "greatPersonPoints": {"Great Prophet": 1},
+		"faith": 2,
+                "uniques": ["[1] population in a random city"]
+		"hurryCostModifier": 20,
+		"requiredTech": "Campfire"
+	},
+
         ]

@@ -1,5 +1,51 @@
 [
          {
+		"name": "Alamosaurus",
+                "replaces": "Giga Rider",
+		"uniqueTo": "Titanforge",
+                "upgradesTo": "Tek Rex Rider",
+		"unitType": "Sauropodomorpha",
+		"movement": 2,
+		"strength": 350,
+		"cost": 400,
+		"requiredTech": "Auto Torret",
+		"uniques": ["Consumes [1] [Steel]","[+15]% Strength <vs cities> <when attacking>","Consumes [1] [Biotoxin]","Can move after attacking"],
+		"hurryCostModifier": 20,
+                "promotions": ["Titan"],
+		"attackSound": "dinoherb"
+	},
+         {
+		"name": "Avimimus Rider",
+                "replaces": "Dinopithecus Rider",
+		"uniqueTo": "Titanforge",
+		"unitType": "Theropoda",
+		"movement": 4,
+		"strength": 27,
+		"cost": 85,
+		"requiredTech": "Stone Irrigation Pipe",
+		"uniques": ["[+20]% Strength <when fighting in [Jungle] tiles>","[+40]% Strength <vs [Gunpowder] units>","[-44]% Strength <vs cities> <when attacking>","[+20]% Strength <when fighting in [Redwoods] tiles>","Can move after attacking"],
+		"hurryCostModifier": 20,
+                "obsoleteTech": "Crossbow",
+		"attackSound": "dinoherb"
+	},
+         {
+		"name": "Postosuchus Rider",
+                "replaces": "Bajadasaurus Rider",
+		"uniqueTo": "Mighty Caliphate",
+		"unitType": "Amphibious",
+		"movement": 3,
+		"strength": 68,
+		"cost": 60,
+		"requiredTech": "Fabricator",
+                "requiredResource": "Steel",
+		"uniques": ["All healing effects doubled","No movement cost to pillage","Can move after attacking","[+25]% Strength <vs [Sword] units>","[+25]% Strength <vs [Theropoda] units>","[+25]% Strength <vs [Ophidia] units>","Never appears as a Barbarian unit"],
+		"hurryCostModifier": 20,
+                "promotions": ["Chivalry"],
+                "upgradesTo": "Cryodrakon Rider",
+                "obsoleteTech": "Canteen",
+		"attackSound": "medcarno"
+	},
+         {
 		"name": "Zeppelin",
                 "replaces": "Final Electric Cannon",
 		"uniqueTo": "The Steampunkers",
@@ -10,7 +56,7 @@
 		"requiredTech": "Flamethrower",
                 "obsoleteTech": "Island Bosses",
                 "requiredResource": "Steel",
-		"uniques": ["Consumes [3] [Steel]","[+40]% Strength <vs [Fantasy] units>","[+70]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"uniques": ["Consumes [3] [Steel]","[+70]% Strength <vs [Fantasy] units>","[+70]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"attackSound": "bombing"
 	},
          {

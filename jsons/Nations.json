@@ -884,6 +884,80 @@ Fabian´s Democracy
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+{
+		"name": "Mighty Caliphate",
+		"leaderName": "Amelia",
+		"adjective": ["Caliphate"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Ascension",
 
+		"startIntroPart1": "Amelia’s quest for power led her to the heart of the desert, where she discovered an ancient forge hidden within a sand-swept cavern. There, she met the enigmatic blacksmith, Al’Azir, who claimed to be a descendant of the Djinn. Al’Azir revealed the secrets of forging armor that could withstand even the fiercest dragon’s breath.
+
+Amelia spent months laboring over the forge, hammering molten steel into intricate plates. She adorned Zar’qal with a full suit of armor, each piece etched with protective runes. The helmet bore the likeness of a fearsome hawk, symbolizing vigilance and foresight. The chestplate featured a coiled serpent, signifying resilience.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Holy Site",
+                "uniqueText": "Amelia´s Tribalism
+[+2 Culture] from every [Mosque] and [+3 Faith] from every [Mosque]
+
+Tyranny
+[+2 Gold] from every [Plantation]
+
+Monarchy
+[2] free [Carno Rider] units appear starting from the [Smithy era]",
+		"outerColor": [63, 89, 63],
+		"innerColor": [153, 224, 153],
+		"cities": ["Qawium","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Titanforge",
+		"leaderName": "General E",
+		"adjective": ["Titans"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "They saw a united Titanforge—an empire where tradition and innovation coexisted, where the Obsidian Throne and the Steam Council ruled together.
+
+And so, they made a pact. The Monarchy would embrace change, and the Anarchy would honor tradition. The Titan’s Heart pulsed as one, binding their destinies.
+
+From that day forth, the Titanforge Empire forged a new path—a delicate balance between order and chaos, guided by the whispers of Titans and the clanging of steam hammers.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Balance or Death",
+                "uniqueText": "General E´s Anarchy
+Cannot build [Gunpowder] units and [+60]% Strength for cities and [+50]% Strength decreasing with distance from the capital
+
+General E´s Monarchy
+[+1 Gold, +2 Faith] per every [3] [Science] and [+1 Production] per every [6] [Gold]",
+		"outerColor": [149, 217, 230],
+		"innerColor": [27, 33, 56],
+		"cities": ["Forewell","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
         
         ]
