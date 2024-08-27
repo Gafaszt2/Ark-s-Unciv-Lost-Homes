@@ -959,5 +959,119 @@ General E´s Monarchy
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
-        
+        {
+		"name": "Golden Mountain",
+		"leaderName": "Spipaku Mama",
+		"adjective": ["Golden Mountain"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "One of Spipaku Mama’s greatest achievements was her ability to tame the wild creatures of Scorched Earth. She formed a bond with a mighty Wyvern, a dragon-like beast that ruled the skies. Together, they soared above the dunes, scouting for resources and protecting the fortress from threats. Her other tamed creatures, including Thorny Dragons and Morellatops, became essential allies in her quest for dominance.
+Despite her growing power, Spipaku Mama faced constant threats. Rival tribes sought to claim her fortress, and the land itself seemed to conspire against her with sandstorms and extreme temperatures. But Spipaku Mama’s leadership and strategic mind kept his people safe. She led daring raids on enemy camps, securing vital resources and expanding hheris territory.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Argentavis´s Nest",
+                "uniqueText": "Spipaku Mama´s Heliolatry
+[+1 Faith] from every [Hill] and [+1 Faith] from every [Luxury Resource] and [+10]% Strength when fighting in [Hill] tiles
+
+Monarchy
+[+2 Gold] from every [Mountain] and [+2 Faith] from every [Hill] and [+10]% Strength when fighting in [Aberrant Pink Zone] tiles
+
+Fascism
+[+2 Science] from every [Volcano] and [+1 Gold] from every [Desert] and [+5]% Strength when fighting in [Desert] tiles",
+		"outerColor": [92, 89, 66],
+		"innerColor": [237, 223, 116],
+		"cities": ["Quechua","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "The Falls",
+		"leaderName": "Amalia",
+		"adjective": ["Falls"],
+		"startBias": ["Swamp Zone"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "The inevitable confrontation came when both Amalia and Joana sought control over a region rich in rare resources. Their armies met on the battlefield, and the clash was fierce. Amalia, riding her majestic Crystal Wyvern, led her forces with unmatched bravery. Joana, on her Bloodstalker, used her agility and tactical prowess to counter Amalia’s advances.
+
+As the battle raged on, both leaders realized that their forces were evenly matched. The conflict threatened to destroy the very land they sought to control. In a moment of clarity, Amalia and Joana called for a truce. They met in the heart of the battlefield, surrounded by their warriors, and negotiated a peace.
+
+Recognizing the futility of their conflict and the potential for mutual benefit, Amalia and Joana agreed to a pact of neutrality. They divided the contested region and established trade routes between their territories. This alliance allowed both domains to prosper, and the land of Crystal Isles entered a period of unprecedented peace and growth.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Bull´s Plaza",
+                "uniqueText": "Amalia´s Monarchy
+[+50]% [Science] during a Golden Age
+
+Republic
+[+35]% [Science] in cities with a [Wonder]
+
+Communism
+[+50]% [Production] during the [Leather era]",
+		"outerColor": [130, 62, 47],
+		"innerColor": [255, 186, 117],
+		"cities": ["Plaza Primera","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Plains Horn",
+		"leaderName": "Northen",
+		"adjective": ["Plains Horn"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Fjordur was not without its challenges. Northen encountered rival tribes and dangerous predators, each vying for control of the land’s precious resources. One of his greatest adversaries was a fierce chieftain named Bjorn, who ruled the icy realm of Jotunheim. Their clashes were intense, with each battle testing Northen’s leadership and strategic skills.
+
+Realizing that constant conflict would only lead to mutual destruction, Northen sought a different path. He approached Bjorn with an offer of peace, proposing an alliance that would benefit both tribes. After much negotiation, they agreed to a truce, dividing the territories and establishing trade routes. This alliance allowed both tribes to prosper and focus on the greater threats that loomed over Fjordur.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Spiritual Plain´s Horsemen",
+                "uniqueText": "Northen´s Communialism
+[+1 Culture] from every [Plains] and [+1 Culture] from every [Mountain]
+
+Tribalism
+[+2 Culture] from every [Forest] and [1] free [Great General] units appear
+
+Colonialism
+[+1 Culture] from every [Aberrant Blue Zone] and [+1 Culture] from every [Aberrant Pink Zone]",
+		"outerColor": [56, 36, 0],
+		"innerColor": [237, 211, 164],
+		"cities": ["Horse Head","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
         ]

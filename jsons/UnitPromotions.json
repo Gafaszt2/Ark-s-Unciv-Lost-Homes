@@ -1,5 +1,13 @@
 [
 {
+		"name": "Random Dice",
+		"uniques": ["[+35]% Strength <with [35]% chance> <when above [1] HP> <when attacking>","[-5]% Strength <with [35]% chance> <when above [1] HP> <when attacking>"],
+        }
+{
+		"name": "Shadow Ambusher",
+		"uniques": ["[+20]% Strength <when fighting in [Aberrant Green Zone] tiles>","[+15]% Strength <when fighting in [Aberrant Blue Zone] tiles>","[+15]% Strength <when fighting in [Aberrant Pink Zone] tiles>"],
+        }
+{
 		"name": "Cold Weather Lover",
 		"uniques": ["[+15]% Strength <when fighting in [Snow] tiles>","[+15]% Strength <when fighting in [Tundra] tiles>","[+15]% Strength <when fighting in [Snowy Beach] tiles>","[-15]% Strength <when fighting in [Desert] tiles>"],
         }

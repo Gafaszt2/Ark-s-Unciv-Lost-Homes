@@ -1,5 +1,59 @@
 [
 {
+                "name": "Plains Horn",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Northen´s Communialism",
+                                "triggeredUniques": ["[+1 Culture] from every [Plains] <for [100000] turns>","[+1 Culture] from every [Mountain] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Tribalism",
+                                "triggeredUniques": ["[+2 Culture] from every [Forest] <for [100000] turns>","[1] free [Great General] units appear <starting from the [Leather era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Colonialism",
+                                "triggeredUniques": ["[+1 Culture] from every [Aberrant Blue Zone] <for [100000] turns>","[+1 Culture] from every [Aberrant Pink Zone] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "The Falls",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Amalia´s Monarchy",
+                                "triggeredUniques": ["[+50]% [Science] <during a Golden Age> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Republic",
+                                "triggeredUniques": ["[+35]% [Science] <in cities with a [Wonder]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Communism",
+                                "triggeredUniques": ["[+50]% [Production] <during the [Leather era]> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Golden Mountain",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Spipaku Mama´s Heliolatry",
+                                "triggeredUniques": ["[+1 Faith] from every [Hill] <for [100000] turns>","[+1 Faith] from every [Luxury Resource] <for [100000] turns>","[+10]% Strength <when fighting in [Hill] tiles> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Monarchy",
+                                "triggeredUniques": ["[+2 Gold] from every [Mountain] <for [100000] turns>","[+2 Faith] from every [Hill] <for [100000] turns>","[+10]% Strength <when fighting in [Aberrant Pink Zone] tiles> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Fascism",
+                                "triggeredUniques": ["[+2 Science] from every [Volcano] <for [100000] turns>","[+1 Gold] from every [Desert] <for [100000] turns>","[+5]% Strength <when fighting in [Desert] tiles> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Titanforge",
                 "text": "Pick your unique",
                 "choices":[

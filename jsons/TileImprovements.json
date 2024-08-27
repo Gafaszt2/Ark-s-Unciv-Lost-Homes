@@ -1,0 +1,23 @@
+[
+        {
+		"name": "Teepee",
+                "replaces": "Ranch",
+		"uniqueTo": "Plains Horn",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+                "techRequired": "Torch",
+		"turnsToBuild": 5,
+		"uniques": ["[-1 Food] for each adjacent [Ranch]","[+1 Faith] for each adjacent [Plains]","Can also be built on tiles adjacent to fresh water"],
+		"shortcutKey": "F"
+	},
+        {
+		"name": "Plaza",
+                "replaces": "Ragnarok Temple",
+		"uniqueTo": "The Falls",
+                "gold": 1,
+		"terrainsCanBeBuiltOn": ["Tundra","Snow","Grassland","Snowy Beach"],
+		"turnsToBuild": 7,
+                "techRequired": "Campfire",
+		"uniques": ["[+1 Gold] for each adjacent [Camp]","[+1 Gold] for each adjacent [Ranch]","[+1 Gold] for each adjacent [Luxury resource]","[+2 Culture] <after discovering [Dock]>"],
+	},
+	]
