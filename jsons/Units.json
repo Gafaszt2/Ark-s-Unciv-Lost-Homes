@@ -1,5 +1,36 @@
 [
          {
+		"name": "Phorusrhacidae Rider",
+                "replaces": "Moschops",
+		"uniqueTo": "Old Railway Cave",
+                "requiredResource": "Thatch",
+		"unitType": "Therapsida",
+		"movement": 3,
+		"strength": 25,
+		"cost": 85,
+		"requiredTech": "Slingshot",
+                "upgradesTo": "Kapro Rider",
+                "obsoleteTech": "Professional Domestication",
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>","[+15]% Strength <when fighting in [Aberrant Green Zone] tiles> <when attacking>","Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "medcarno"
+	},
+        {
+		"name": "Utahraptor Rider",
+                "replaces": "Gigantopithecus Rider",
+		"uniqueTo": "Old Railway Cave",
+		"unitType": "Mammal",
+		"movement": 5,
+		"strength": 45,
+		"cost": 1,
+		"requiredTech": "Gunpowder",
+                "obsoleteTech": "Dock",
+		"uniques": ["Unbuildable","Can be purchased with [Gold] [in all cities]","Can be purchased for [400] [Gold] [in all cities]","Can move after attacking","Only available <if [House of Mercenaries] is constructed> <in this city>"],
+                "promotions": ["Imperator"],
+		"hurryCostModifier": 20,
+		"attackSound": "raptor"
+	},
+         {
 		"name": "Barsboldia Rider",
                 "replaces": "Theri Rider",
 		"uniqueTo": "Plains Horn",

@@ -1,5 +1,23 @@
 [
 {
+                "name": "Old Railway Cave",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Alehim´s Socialism",
+                                "triggeredUniques": ["[+2 Gold, +2 Production] from [Hill] tiles [in all cities] <starting from the [Smithy era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["Gain a free [Regular Lands] [in all cities] <starting from the [Smithy era]> <for [100000] turns>","[+1 Gold, +2 Production] from [Forest] tiles [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Libertarian",
+                                "triggeredUniques": ["[+1 Gold, +2 Production] from [Aberrant Green Zone] tiles [in all cities] <for [100000] turns>","[+1 Gold, +2 Production] from [Fungic Wood] tiles [in all cities] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Plains Horn",
                 "text": "Pick your unique",
                 "choices":[
@@ -72,7 +90,7 @@
                 "text": "Pick your unique",
                 "choices":[
                         {
-                                "text": "Amelia´s Tribalism",
+                                "text": "Hafsa´s Teocracy",
                                 "triggeredUniques": ["[+2 Culture] from every [Mosque] <for [100000] turns>","[+3 Faith] from every [Mosque] <for [100000] turns>"]
                         },
                         {

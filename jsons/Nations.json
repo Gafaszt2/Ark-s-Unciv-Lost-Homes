@@ -886,14 +886,14 @@ Fabian´s Democracy
 	},
 {
 		"name": "Mighty Caliphate",
-		"leaderName": "Amelia",
+		"leaderName": "Hafsa",
 		"adjective": ["Caliphate"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "Amelia’s quest for power led her to the heart of the desert, where she discovered an ancient forge hidden within a sand-swept cavern. There, she met the enigmatic blacksmith, Al’Azir, who claimed to be a descendant of the Djinn. Al’Azir revealed the secrets of forging armor that could withstand even the fiercest dragon’s breath.
+		"startIntroPart1": "Hafsa’s quest for power led her to the heart of the desert, where she discovered an ancient forge hidden within a sand-swept cavern. There, she met the enigmatic blacksmith, Al’Azir, who claimed to be a descendant of the Djinn. Al’Azir revealed the secrets of forging armor that could withstand even the fiercest dragon’s breath.
 
-Amelia spent months laboring over the forge, hammering molten steel into intricate plates. She adorned Zar’qal with a full suit of armor, each piece etched with protective runes. The helmet bore the likeness of a fearsome hawk, symbolizing vigilance and foresight. The chestplate featured a coiled serpent, signifying resilience.",
+Hafsa spent months laboring over the forge, hammering molten steel into intricate plates. She adorned Zar’qal with a full suit of armor, each piece etched with protective runes. The helmet bore the likeness of a fearsome hawk, symbolizing vigilance and foresight. The chestplate featured a coiled serpent, signifying resilience.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -906,7 +906,7 @@ Amelia spent months laboring over the forge, hammering molten steel into intrica
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Holy Site",
-                "uniqueText": "Amelia´s Tribalism
+                "uniqueText": "Hafsa´s Teocracy
 [+2 Culture] from every [Mosque] and [+3 Faith] from every [Mosque]
 
 Tyranny
@@ -916,7 +916,7 @@ Monarchy
 [2] free [Carno Rider] units appear starting from the [Smithy era]",
 		"outerColor": [63, 89, 63],
 		"innerColor": [153, 224, 153],
-		"cities": ["Qawium","Arat","Prime",
+		"cities": ["Dehenhe","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
@@ -1069,6 +1069,48 @@ Colonialism
 		"outerColor": [56, 36, 0],
 		"innerColor": [237, 211, 164],
 		"cities": ["Horse Head","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Old Railway Cave",
+		"leaderName": "Alhemin",
+		"adjective": ["Legendary"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Alhemin awoke with a start, his body aching from the cold, hard ground beneath him. As he opened his eyes, he found himself in a strange, bioluminescent world. The air was thick with the scent of mushrooms and the distant sounds of unknown creatures. He had no memory of how he got there, but he knew one thing for certain: he had to survive.
+
+The Green Zone, also known as the Fertile Region, was the safest area in this new world, but it was still fraught with dangers. Alhemin quickly learned to avoid the Raptors and Basilisks that roamed the area. He scavenged for resources, gathering fungal wood, mushrooms, and crystals to build his first shelter.
+
+Days turned into weeks as Alhemin honed his survival skills. He crafted weapons and tools, tamed creatures to aid him, and built a formidable base. His knowledge of the land grew, and he discovered the Mushroom Forest and the Fallen Nexus, rich with resources but guarded by the fearsome Karkinos, a giant prehistoric crab.
+
+Alhemin’s journey was far from over, but he had carved out a place for himself in this strange new world. With determination and courage, he faced the unknown, ready to conquer whatever challenges lay ahead.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "The Fruits of our Forests",
+                "uniqueText": "Alehim´s Socialism
+[+2 Gold, +2 Production] from [Hill] tiles [in all cities] starting from the [Smithy era]
+
+Democracy
+Gain a free [Regular Lands] [in all cities] starting from the [Smithy era] and [+1 Gold, +2 Production] from [Forest] tiles [in all cities]
+
+Libertarian
+[+1 Gold, +2 Production] from [Aberrant Green Zone] tiles [in all cities] and [+1 Gold, +2 Production] from [Fungic Wood] tiles [in all cities]",
+		"outerColor": [42, 54, 44],
+		"innerColor": [211, 245, 229],
+		"cities": ["Fungic Trees","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
