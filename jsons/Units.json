@@ -1,5 +1,18 @@
 [
          {
+		"name": "Timonya Rider",
+                "replaces": "Ichtyosaurus Rider",
+		"uniqueTo": "Funxolotl Nation",
+                "upgradesTo": "Megalodon Rider",
+		"unitType": "Marine Amphibious",
+		"movement": 3,
+		"strength": 20,
+		"cost": 50,
+                "uniques": ["[+15]% Strength <when fighting in [Coast] tiles> <when attacking>","[-20]% Strength <when fighting in [Ocean] tiles> <when attacking>","Can move after attacking"],
+		"requiredTech": "Spyglass",
+		"attackSound": "marine"
+	},
+         {
 		"name": "Phorusrhacidae Rider",
                 "replaces": "Moschops",
 		"uniqueTo": "Old Railway Cave",

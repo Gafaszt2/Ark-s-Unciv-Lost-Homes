@@ -1,5 +1,23 @@
 [
 {
+                "name": "Funxolotl Nation",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Basil´s Pacifism",
+                                "triggeredUniques": ["Double quantity of [Basilosaurus] produced <for [100000] turns>","[+25]% [Science] <during a Golden Age> <for [100000] turns>","[+35]% [Culture] <during a Golden Age> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Ecology",
+                                "triggeredUniques": ["[+2 Gold, +1 Production] from [Twilight Forest] tiles [in all cities] <for [100000] turns>","[+1 Science, +1 Faith] from [Forest] tiles [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Monarchy",
+                                "triggeredUniques": ["[+3 Gold, +3 Faith] from [Mountain] tiles [in all cities] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Old Railway Cave",
                 "text": "Pick your unique",
                 "choices":[

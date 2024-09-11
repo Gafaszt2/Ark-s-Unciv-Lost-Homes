@@ -1116,4 +1116,44 @@ Libertarian
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+{
+		"name": "Funxolotl Nation",
+		"leaderName": "Basil",
+		"adjective": ["Basil"],
+		"startBias": ["Twilight Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Basil awoke in a world bathed in eerie blue light, the Bio-Luminescent Region of Ark Aberration. The air was thick with humidity, and the ground was covered in glowing mushrooms and strange plants. He had no recollection of how he arrived, but he knew he had to adapt quickly to survive.
+
+The Blue Zone, known for its beauty and danger, was home to some of the most fearsome creatures in Aberration. Basil quickly learned to navigate the treacherous terrain, avoiding the Reapers and Nameless that lurked in the shadows. He scavenged for resources, gathering blue gems, metal, and fungal wood to build his first shelter.
+
+Basil’s journey was fraught with peril. He crafted a Hazard Suit to protect himself from the radiation and tamed a Ravager to help him traverse the rugged landscape. With his new companion, he explored the Luminous Marshlands, a region teeming with deadly creatures like the Aberrant Megalosaurus and the elusive Basilisk.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Vicotry isn´t measured by War",
+                "uniqueText": "Basil´s Pacifism
+Double quantity of [Basilosaurus] produced and [+25]% [Science] during a Golden Age and [+35]% [Culture] during a Golden Age
+
+Ecology
+[+2 Gold, +1 Production] from [Twilight Forest] tiles [in all cities] and [+1 Science, +1 Faith] from [Forest] tiles [in all cities]
+
+Monarchy
+[+3 Gold, +3 Faith] from [Mountain] tiles [in all cities]",
+		"outerColor": [82, 99, 74],
+		"innerColor": [232, 155, 0],
+		"cities": ["Bambolord Polonia","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
         ]
