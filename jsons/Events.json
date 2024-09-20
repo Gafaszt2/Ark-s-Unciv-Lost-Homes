@@ -1,5 +1,41 @@
 [
 {
+                "name": "Sol Suus",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Qaisar´s Monarchy",
+                                "triggeredUniques": ["City-State territory always counts as friendly territory <during a Golden Age> <for [100000] turns>","[+50]% City Strength from defensive buildings <during a Golden Age> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Communism",
+                                "triggeredUniques": ["Earn [20]% of killed [Wounded] unit's [Cost] as [Culture] <for [100000] turns>","Earn [80]% of killed [Wounded] unit's [Cost] as [Culture] <starting from the [Smithy era]> <for [100000] turns>","Earn [33]% of killed [Wounded] unit's [Cost] as [Culture] <starting from the [Tek era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Theocracy",
+                                "triggeredUniques": ["[+50]% [Faith] [in all cities] <during a Golden Age> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Zarodnik",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Siezna´s Monarchy",
+                                "triggeredUniques": ["May capture killed [Wounded] units <during a Golden Age> <for [100000] turns>","[+15]% XP gained from combat <during a Golden Age> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Fascism",
+                                "triggeredUniques": ["Empire enters a [25]-turn Golden Age <starting from the [Leather era]> <for [100000] turns>","Empire enters a [25]-turn Golden Age <starting from the [Smithy era]> <for [100000] turns>","Empire enters a [25]-turn Golden Age <starting from the [Electric era]> <for [100000] turns>","Empire enters a [25]-turn Golden Age <starting from the [Tek era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Cosmoverse",
+                                "triggeredUniques": ["[+2 Gold] per [3] population [in all cities] <for [100000] turns>","[+1 Culture] per [2] population [in capital] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Funxolotl Nation",
                 "text": "Pick your unique",
                 "choices":[
@@ -108,7 +144,7 @@
                 "text": "Pick your unique",
                 "choices":[
                         {
-                                "text": "Hafsa´s Teocracy",
+                                "text": "Amelia´s Teocracy",
                                 "triggeredUniques": ["[+2 Culture] from every [Mosque] <for [100000] turns>","[+3 Faith] from every [Mosque] <for [100000] turns>"]
                         },
                         {

@@ -886,7 +886,8 @@ Fabian´s Democracy
 	},
 {
 		"name": "Mighty Caliphate",
-		"leaderName": "Hafsa",
+		"leaderName": "Amelia",
+                "personality": "Amelia",
 		"adjective": ["Caliphate"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Ascension",
@@ -906,7 +907,7 @@ Hafsa spent months laboring over the forge, hammering molten steel into intricat
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Holy Site",
-                "uniqueText": "Hafsa´s Teocracy
+                "uniqueText": "Amelia´s Teocracy
 [+2 Culture] from every [Mosque] and [+3 Faith] from every [Mosque]
 
 Tyranny
@@ -916,7 +917,7 @@ Monarchy
 [2] free [Carno Rider] units appear starting from the [Smithy era]",
 		"outerColor": [63, 89, 63],
 		"innerColor": [153, 224, 153],
-		"cities": ["Dehenhe","Arat","Prime",
+		"cities": ["Qawium","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
@@ -1156,4 +1157,91 @@ Monarchy
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+{
+		"name": "Zarodnik",
+		"leaderName": "Siezna",
+		"adjective": ["Zarodnik"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "With careful planning and a bit of luck, Siezna managed to locate a herd of Pachyrhinosaurus. She observed them from a distance, learning their patterns and behaviors. After days of preparation, she finally made her move. Using a combination of tranquilizer darts and soothing herbs, she successfully tamed a strong and majestic Pachyrhinosaurus, whom she named Luna.
+
+With Luna by her side, Siezna felt a surge of confidence. The bond between them grew stronger with each passing day. Luna’s unique abilities proved invaluable, allowing Siezna to navigate through dangerous territories and avoid unnecessary conflicts.
+
+Together, they explored the vast landscapes of Valguero, from the dense forests to the sprawling plains. Siezna and Luna faced numerous challenges, from packs of hungry raptors to the treacherous cliffs of the White Cliffs region. But with Luna’s strength and Siezna’s cunning, they overcame every obstacle.
+
+Siezna’s journey eventually led her to cross paths with Qaisar and Brutus. Recognizing their shared goals, they decided to join forces. The two teams complemented each other perfectly, with Brutus’s brute strength and Luna’s calming presence creating a balanced and formidable alliance.
+
+Their combined efforts brought them closer to their ultimate goal: defeating the Ark’s Masters. Siezna’s strategic mind and Luna’s unique abilities played a crucial role in their battles. Together, they faced the Masters in a final, epic showdown.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Design",
+                "uniqueText": "Siezna´s Monarchy
+May capture killed [Wounded] units during a Golden Age and [+15]% XP gained from combat during a Golden Age
+
+Fascism
+Empire enters a [25]-turn Golden Age starting from the [Leather era], [Smithy era], [Electric era] and [Tek era]
+
+Cosmoverse
+[+2 Gold] per [3] population [in all cities] and [+1 Culture] per [2] population [in capital]",
+		"outerColor": [74, 6, 1],
+		"innerColor": [255, 226, 224],
+		"cities": ["Cathedral","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Sol Suus",
+		"leaderName": "Qaisar",
+		"adjective": ["Qaisar"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Naked and vulnerable, Qaisar knew he had to act quickly. He gathered his courage and began to explore his surroundings. The lush forests and rolling hills were teeming with life, both friendly and hostile. He needed a companion, something strong and reliable to help him survive.
+
+After days of careful observation and planning, Qaisar set his sights on an Auroch, a massive, ancient bovine creature known for its strength and resilience. With a combination of stealth, patience, and a few well-placed tranquilizer arrows, he managed to tame the beast. He named it Brutus.
+
+With Brutus by his side, Qaisar felt a newfound sense of confidence. Together, they traversed the diverse landscapes of Valguero, from the dense jungles to the icy peaks. They encountered many challenges, from packs of raptors to the elusive and dangerous Giganotosaurus. But with Brutus’s strength and Qaisar’s cunning, they overcame each obstacle.
+
+Their ultimate goal was to defeat the Ark’s Masters, the powerful beings who controlled this world. Qaisar knew that to do so, he would need to gather allies and resources. He built a small base, crafted weapons and armor, and formed alliances with other survivors.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Achaemenid Legacy",
+                "uniqueText": "Qaisar´s Monarchy
+City-State territory always counts as friendly territory during a Golden Age and [+50]% City Strength from defensive buildings during a Golden Age
+
+Communism
+Earn [20]% of killed [Wounded] unit's [Cost] as [Culture] and Earn [80]% of killed [Wounded] unit's [Cost] as [Culture] starting from the [Smithy era] and Earn [33]% of killed [Wounded] unit's [Cost] as [Culture] starting from the [Tek era]
+
+Theocracy
+[+50]% [Faith] [in all cities] during a Golden Age",
+		"outerColor": [47, 82, 117],
+		"innerColor": [255, 214, 153],
+		"cities": ["Mighty Power","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+
         ]

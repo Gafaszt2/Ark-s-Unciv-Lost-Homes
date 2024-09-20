@@ -1,5 +1,9 @@
 [
 {
+		"name": "Prey Eyes",
+		"uniques": ["[+1] Sight"],
+        }
+{
 		"name": "Random Dice",
 		"uniques": ["[+35]% Strength <with [35]% chance> <when above [1] HP> <when attacking>","[-5]% Strength <with [35]% chance> <when above [1] HP> <when attacking>"],
         }

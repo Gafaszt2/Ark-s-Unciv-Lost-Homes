@@ -391,6 +391,32 @@
 		"uniques": ["Triggers a [Funxolotl Nation] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
+		"name": "Zarodnik Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Zarodnik",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Zarodnik] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Sol Suus Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Sol Suus",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Sol Suus] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
                 "uniqueTo": "Cryogenic Empire",
@@ -418,5 +444,16 @@
 		"cost": 33,
 		"hurryCostModifier": 20,
 		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Landmark",
+                "replaces": "Courthouse",
+                "uniqueTo": "Zarodnik",
+		"maintenance": 2,
+                "science": 2,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Bookshelf"
 	},
         ]
