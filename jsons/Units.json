@@ -1,5 +1,20 @@
 [
          {
+		"name": "Afrovenator Rider",
+                "replaces": "Allo Rider",
+		"uniqueTo": "Makaya",
+		"unitType": "Theropoda",
+		"movement": 3,
+		"strength": 50,
+		"cost": 50,
+		"requiredTech": "Sword",
+                "obsoleteTech": "Fabricator",
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+		"hurryCostModifier": 20,
+                "promotions": ["Africa Predator"],
+		"attackSound": "altbigcarno"
+	},
+         {
 		"name": "Eoraptor",
                 "replaces": "Moschops",
 		"uniqueTo": "Sol Suus",
@@ -712,7 +727,7 @@
 		"requiredTech": "Metal Hatchet",
 		"uniques": ["Can move after attacking", "Earn [10]% of killed [Military] unit's [Strength] as [Culture]"],
 		"hurryCostModifier": 20,
-		"attackSound": "medcarno"
+		"attackSound": "altmedcarno"
 	},
         {
 		"name": "Barbaridactylus",

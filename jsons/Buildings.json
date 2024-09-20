@@ -24,7 +24,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Cryogenic Empire] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Cryogenic Empire] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	}, 
         {
 		"name": "African Royalty Elections",
@@ -37,7 +37,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [African Royalty] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [African Royalty] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Zare Elections",
@@ -50,7 +50,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Zare] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Zare] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Smierc Elections",
@@ -63,7 +63,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Smierc] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Smierc] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	}, 
         {
 		"name": "Spiras Elections",
@@ -76,7 +76,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Spiras] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Spiras] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Great Roman Empire Elections",
@@ -89,7 +89,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Great Roman Empire] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Great Roman Empire] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Norsemen Corps Elections",
@@ -102,7 +102,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Norsemen Corps] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Norsemen Corps] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Imperial New Order of America Elections",
@@ -115,7 +115,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Imperial New Order of America] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Imperial New Order of America] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Europa Elections",
@@ -128,7 +128,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Europa] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Europa] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Kansallisvaltio Elections",
@@ -141,7 +141,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Kansallisvaltio] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Kansallisvaltio] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Indomitable South Elections",
@@ -154,7 +154,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Indomitable South] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Indomitable South] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Selva Empire Elections",
@@ -167,7 +167,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Selva Empire] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Selva Empire] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "The Skyscraper Elections",
@@ -180,7 +180,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [The Skyscraper] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [The Skyscraper] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Photogenia Elections",
@@ -193,7 +193,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Photogenia] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Photogenia] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Tenochtitlan Elections",
@@ -206,7 +206,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Tenochtitlan] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Tenochtitlan] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Radical North Elections",
@@ -219,7 +219,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Radical North] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Radical North] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Helius Elections",
@@ -232,7 +232,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Helius] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Helius] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Mana Elections",
@@ -245,7 +245,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Mana] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Mana] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Wisdomenland Elections",
@@ -258,7 +258,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Wisdomenland] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Wisdomenland] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Drevnost Elections",
@@ -271,7 +271,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Drevnost] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Drevnost] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Lost Homes Elections",
@@ -284,7 +284,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Lost Homes] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Lost Homes] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "The Steampunkers Elections",
@@ -297,7 +297,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [The Steampunkers] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [The Steampunkers] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Mighty Caliphate Elections",
@@ -310,7 +310,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [The Steampunkers] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [The Steampunkers] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Titanforge Elections",
@@ -323,7 +323,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Titanforge] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Titanforge] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Golden Mountain Elections",
@@ -336,7 +336,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Golden Mountain] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Golden Mountain] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "The Falls Elections",
@@ -349,7 +349,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [The Falls] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [The Falls] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Plains Horn Elections",
@@ -362,7 +362,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Plains Horn] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Plains Horn] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Old Railway Cave Elections",
@@ -375,7 +375,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Old Railway Cave] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Old Railway Cave] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Funxolotl Nation Elections",
@@ -388,7 +388,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Funxolotl Nation] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Funxolotl Nation] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Zarodnik Elections",
@@ -401,7 +401,7 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Zarodnik] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Zarodnik] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Sol Suus Elections",
@@ -414,7 +414,13 @@
                 "gold": 5,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Triggers a [Sol Suus] event <hidden from users>","<hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+		"uniques": ["Triggers a [Sol Suus] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Makaya Elections",
+                "uniqueTo": "Makaya", 
+                "cost": 1,
+		"uniques": ["Triggers a [Makaya] event <hidden from users>","Provides [2] [Fiber] <hidden from users>"]
 	},
         {
 		"name": "Cryofridge",
@@ -455,5 +461,15 @@
 		"uniques": ["Remove extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Bookshelf"
+	},
+        {
+		"name": "River Village",
+                "replaces": "Water Recolection",
+                "uniqueTo": "Makaya",
+                "greatPersonPoints": {"Great Engineer": 1},
+		"food": 1,
+		"hurryCostModifier": 20,
+		"uniques": ["[30]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Waterskin"
 	},
         ]

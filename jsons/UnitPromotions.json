@@ -1,5 +1,9 @@
 [
 {
+		"name": "Africa Predator",
+		"uniques": ["[+15]% Strength <when fighting in [Jungle] tiles>","Eliminates combat penalty for attacking over a river","Heals [20] damage if it kills a unit"],
+        }
+{
 		"name": "Prey Eyes",
 		"uniques": ["[+1] Sight"],
         }

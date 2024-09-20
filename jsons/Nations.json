@@ -1243,5 +1243,47 @@ Theocracy
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+{
+		"name": "Makaya",
+		"leaderName": "Nlangu",
+		"adjective": ["Makaya"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Venturing inland, Nlangu entered the dense and dangerous jungles. The thick canopy and constant threat of predators required a more centralized and disciplined approach. Nlangu established the Jungle Dominion, ruled by a single monarch with absolute authority. The monarch, chosen through a series of trials and challenges, was responsible for maintaining order and protecting the inhabitants from the dangers lurking in the shadows.
+As Nlangu climbed higher into the rugged mountains, he encountered harsh conditions and scarce resources. The Mountain Clans were formed, each clan fiercely independent and self-reliant. The government here was a council of chieftains, each leading their own clan but coming together to make decisions that affected the entire region. The Mountain Clans valued strength and resilience, and their leaders were chosen based on their ability to survive and thrive in the harsh environment.
+Crossing the mountains, Nlangu arrived at the arid deserts of the island. The extreme heat and lack of water made survival a constant struggle. In this unforgiving land, Nlangu established the Desert Empire, ruled by an emperor with a strict and hierarchical government. The emperor’s word was law, and the people were organized into a rigid caste system to ensure efficiency and order. The Desert Empire thrived on trade and innovation, using their ingenuity to overcome the harsh conditions..",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Governments",
+                "uniques": ["Gain a free [Makaya Elections] [in all cities] <hidden from users>"],
+                "uniqueText": "
+This Civilization can pick a type of government on every city it founds.
+
+Mbanza
+[+1 Culture] from [Ranch] tiles [in this city]
+
+Muti
+[+40]% Production when constructing [Melee] units [in this city] and [+1 Culture] from [River] tiles [in this city]
+
+Lupaangu
+[+1 Gold, +2 Production] from [Coast] tiles [in this city] and [+2 Gold, +1 Production] from [River] tiles [in this city]",
+		"outerColor": [125, 255, 173],
+		"innerColor": [46, 48, 43],
+		"cities": ["River Craddle","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
 
         ]

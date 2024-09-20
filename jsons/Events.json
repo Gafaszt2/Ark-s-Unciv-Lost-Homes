@@ -1,5 +1,26 @@
 [
 {
+                "name": "Makaya",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Mbanza
+[+1 Culture] from [Ranch] tiles [in this city]",
+                                "triggeredUniques": ["[+1 Culture] from [Ranch] tiles [in this city] <for [100000] turns> <hidden from users>"]
+                        },
+                        {
+                                "text": "Muti
+[+40]% Production when constructing [Melee] units [in this city] and [+1 Culture] from [River] tiles [in this city]",
+                                "triggeredUniques": ["[+40]% Production when constructing [Melee] units [in this city] <for [100000] turns> <hidden from users>","[+1 Culture] from [River] tiles [in this city] <for [100000] turns> <hidden from users>"]
+                        },
+                        {
+                                "text": "Lupaangu
+[+1 Gold, +2 Production] from [Coast] tiles [in this city] and [+2 Gold, +1 Production] from [River] tiles [in this city]",
+                                "triggeredUniques": ["[+1 Gold, +2 Production] from [Coast] tiles [in this city] <for [100000] turns> <hidden from users>","[+2 Gold, +1 Production] from [River] tiles [in this city] <for [100000] turns> <hidden from users>"]
+                        }
+                ]
+        },
+{
                 "name": "Sol Suus",
                 "text": "Pick your unique",
                 "choices":[
