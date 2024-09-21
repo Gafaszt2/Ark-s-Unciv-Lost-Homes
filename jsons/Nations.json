@@ -1285,5 +1285,47 @@ Lupaangu
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+        {
+		"name": "Pampa",
+		"leaderName": "Colorado",
+		"adjective": ["Colorado"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Ascension",
 
+		"startIntroPart1": "One evening, as the sun dipped below the horizon, casting long shadows across the desert, Colorado spotted a majestic creature in the distance. It was an Equus, a wild horse with a sleek coat and a powerful build. The Equus moved gracefully, its mane flowing in the wind.
+
+Colorado knew that taming such a creature would greatly increase his chances of survival. He approached cautiously, offering the Equus some Rockarrots he had found earlier. The Equus eyed him warily but eventually accepted the offering. Over the next few days, Colorado continued to gain the Equus’s trust, feeding it and speaking to it in soothing tones.
+
+As Colorado and Storm ventured deeper into the desert, they encountered new challenges and forged new alliances. They met other survivors, each with their own stories of awakening and survival. Together, they built a thriving community, sharing knowledge and resources to withstand the harsh environment of Scorched Earth.
+
+Colorado’s journey was far from over, but with Storm by his side, he felt ready to face whatever challenges lay ahead. The bond between man and beast had become unbreakable, a testament to the power of trust and perseverance in the face of adversity.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Rich Soil",
+                "uniqueText": "
+Colorado´s Democracy
+[+1 Culture, +1 Faith] per [2] social policies adopted
+
+Communism
+[+2 Production] from [Ranch] tiles [in this city] during a Golden Age
+
+Colonialism
+[+40]% [Production] [in all cities] on foreign continents and [+20]% [Production] [in all cities] on foreign continents during a Golden Age",
+		"outerColor": [213, 237, 247],
+		"innerColor": [21, 26, 28],
+		"cities": ["Faith Ranch","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
         ]

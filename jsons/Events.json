@@ -1,5 +1,26 @@
 [
 {
+                "name": "Pampa",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Colorado´s Democracy
+[+1 Culture, +1 Faith] per [2] social policies adopted",
+                                "triggeredUniques": ["[+1 Culture, +1 Faith] per [2] social policies adopted <for [100000] turns> <hidden from users>"]
+                        },
+                        {
+                                "text": "Communism
+[+2 Production] from [Ranch] tiles [in this city] during a Golden Age",
+                                "triggeredUniques": ["[+2 Production] from [Ranch] tiles [in this city] <during a Golden Age> <for [100000] turns> <hidden from users>"]
+                        },
+                        {
+                                "text": "Colonialism
+[+40]% [Production] [in all cities] on foreign continents and [+20]% [Production] [in all cities] on foreign continents during a Golden Age",
+                                "triggeredUniques": ["[+40]% [Production] [in all cities] <on foreign continents> <for [100000] turns>","[+20]% [Production] [in all cities] <on foreign continents> <during a Golden Age> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Makaya",
                 "text": "Pick your unique",
                 "choices":[

@@ -423,6 +423,12 @@
 		"uniques": ["Triggers a [Makaya] event <hidden from users>","Provides [2] [Fiber] <hidden from users>"]
 	},
         {
+		"name": "Pampa Elections",
+                "uniqueTo": "Makaya", 
+                "cost": 1,
+		"uniques": ["Triggers a [Pampa] event <hidden from users>","Provides [2] [Fiber] <hidden from users>"]
+	},
+        {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
                 "uniqueTo": "Cryogenic Empire",

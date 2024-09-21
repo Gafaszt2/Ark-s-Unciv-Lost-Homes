@@ -1,5 +1,9 @@
 [
 {
+		"name": "Argentinian Biomes",
+		"uniques": ["[+10]% Strength <when fighting in [Jungle] tiles>","[+10]% Strength <when fighting in [Forest] tiles>","[+10]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Grassland] tiles>","[+10]% Strength <when fighting in [Plains] tiles>","[+10]% Strength <when fighting in [Desert] tiles>"],
+        }
+{
 		"name": "Africa Predator",
 		"uniques": ["[+15]% Strength <when fighting in [Jungle] tiles>","Eliminates combat penalty for attacking over a river","Heals [20] damage if it kills a unit"],
         }

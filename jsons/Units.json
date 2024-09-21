@@ -1,5 +1,35 @@
 [
          {
+		"name": "Thanatosdrakon Rider",
+                "replaces": "Diplodocus",
+		"uniqueTo": "Pampa",
+		"unitType": "Flying",
+		"movement": 5,
+		"strength": 30,
+		"cost": 80,
+		"requiredTech": "Professional Domestication",
+                "upgradesTo": "Stego Rider",
+                "obsoleteTech": "Tranq Arrow",
+		"uniques": ["Can move after attacking","[+25]% Strength <vs [Ophidia] units>","[+25]% Strength <vs [Mammal] units>"],
+		"hurryCostModifier": 20,
+		"attackSound": "tropeo"
+	},
+         {
+		"name": "Argentinosaurus Rider",
+                "replaces": "Mighty Titanosaurus",
+		"uniqueTo": "Pampa",
+		"unitType": "Sauropodomorpha",
+		"movement": 2,
+		"strength": 250,
+		"cost": 380,
+		"requiredTech": "Auto Torret",
+                "requiredResource": "Biotoxin",
+                "uniques": ["[+55]% Strength <vs [Giga Rider] units>"],
+		"promotions": ["Argentinian Biomes"],
+		"hurryCostModifier": 20,
+		"attackSound": "dinoherb"
+	},
+         {
 		"name": "Afrovenator Rider",
                 "replaces": "Allo Rider",
 		"uniqueTo": "Makaya",
@@ -99,7 +129,7 @@
 		"cost": 1,
 		"requiredTech": "Gunpowder",
                 "obsoleteTech": "Dock",
-		"uniques": ["Unbuildable","Can be purchased with [Gold] [in all cities]","Can be purchased for [400] [Gold] [in all cities]","Can move after attacking","Only available <if [House of Mercenaries] is constructed> <in this city>"],
+		"uniques": ["Unbuildable","Can be purchased with [Gold] [in all cities]","Can be purchased for [300] [Gold] [in all cities]","Can move after attacking","Only available <if [House of Mercenaries] is constructed> <in this city>"],
                 "promotions": ["Imperator"],
 		"hurryCostModifier": 20,
 		"attackSound": "raptor"
