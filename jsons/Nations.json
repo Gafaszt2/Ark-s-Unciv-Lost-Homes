@@ -239,10 +239,10 @@ With his followers, Mars built the first city, naming it Nova Roma. They establi
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "All Roads lead to Rome",
                 "uniqueText": "Mars´s Speech
-[Great General] is earned [+44]% faster and [+1 Gold, +1 Production] from [Beach] tiles [in all cities] and [+1 Gold] from [Coast] tiles [in all cities] and [+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]>
+[+2 Gold, +1 Production] from [Beach] tiles [in all cities] and [+1 Gold] from [Coast] tiles [in all cities] and [+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]>
 
 Republic
-[Great General] is earned [+44]% faster and [+2 Gold, +2 Food] from [Beach] tiles [in all cities]
+[+2 Gold, +2 Food] from [Beach] tiles [in all cities]
 
 Monarchy
 [+1 Gold] per [2] social policies adopted and [+1 Faith] per [1] social policies adopted",
@@ -1063,7 +1063,7 @@ Realizing that constant conflict would only lead to mutual destruction, Northen 
 [+1 Culture] from every [Plains] and [+1 Culture] from every [Mountain]
 
 Tribalism
-[+2 Culture] from every [Forest] and [1] free [Great General] units appear
+[+2 Culture] from every [Forest] and [1] free [Senior Sergeant] units appear
 
 Colonialism
 [+1 Culture] from every [Aberrant Blue Zone] and [+1 Culture] from every [Aberrant Pink Zone]",

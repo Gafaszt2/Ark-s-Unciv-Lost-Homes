@@ -123,7 +123,7 @@
                         },
                         {
                                 "text": "Tribalism",
-                                "triggeredUniques": ["[+2 Culture] from every [Forest] <for [100000] turns>","[1] free [Great General] units appear <starting from the [Leather era]> <for [100000] turns>"]
+                                "triggeredUniques": ["[+2 Culture] from every [Forest] <for [100000] turns>","[1] free [Senior Sergeant] units appear <starting from the [Leather era]> <for [100000] turns>"]
                         },
                         {
                                 "text": "Colonialism",
@@ -490,11 +490,11 @@
                 "choices":[
                         {
                                 "text": "Mars´s Speech",
-                                "triggeredUniques": ["[Great General] is earned [+44]% faster <for [100000] turns>","[+1 Gold, +1 Production] from [Beach] tiles [in all cities] <for [100000] turns>","[+1 Gold] from [Coast] tiles [in all cities] <for [100000] turns>","[+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]> <for [100000] turns>"]
+                                "triggeredUniques": ["[+2 Gold, +1 Production] from [Beach] tiles [in all cities] <for [100000] turns>","[+1 Gold] from [Coast] tiles [in all cities] <for [100000] turns>","[+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]> <for [100000] turns>"]
                         },
                         {
                                 "text": "Republic",
-                                "triggeredUniques": ["[Great General] is earned [+44]% faster <for [100000] turns>","[+2 Gold, +2 Food] from [Beach] tiles [in all cities] <for [100000] turns>"]
+                                "triggeredUniques": ["[+2 Gold, +2 Food] from [Beach] tiles [in all cities] <for [100000] turns>"]
                         },
 			{
                                 "text": "Monarchy",
