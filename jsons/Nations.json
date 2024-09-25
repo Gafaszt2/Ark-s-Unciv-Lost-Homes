@@ -1328,4 +1328,59 @@ Colonialism
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+        {
+		"name": "Blue Rave",
+		"leaderName": "Disco Woman",
+		"adjective": ["Blue da da bae"],
+		"startBias": ["Natural Lake"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "With a twirl and a spin, she hatched a bold plan,
+To live life on the edge, as a crime’s biggest fan.
+She’d steal the spotlight, and maybe some jewels,
+Outsmarting the law, breaking all the rules.
+
+Her first heist was grand, at the disco’s own vault,
+She danced through the lasers, without a single fault.
+With a wink and a smile, she grabbed all the gold,
+Leaving behind a trail, of stories to be told.
+
+The city was buzzing, with tales of her spree,
+Disco Woman, the legend, wild and free.
+She’d rob with a rhythm, and flee with a beat,
+Her crimes were a dance, no one could defeat.
+
+But deep in her heart, she knew it couldn’t last,
+The thrill of the chase, was fading fast.
+So she danced one last time, under the moon’s glow,
+And vanished in the night, like a star’s final show.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Mind Control",
+                "uniqueText": "
+Disco Woman´s Leeches
+May capture killed [Barbarian] units
+
+Disco Woman´s Arsenal
+[3] free [Acrocanthosaurus Rider] units appear starting from the [Smithy era] and [+25]% [Production] [in all cities]
+
+Disco Woman´s Nature
+[+33]% [Food] [in all cities] during a Golden Age",
+		"outerColor": [15, 30, 64],
+		"innerColor": [153, 240, 255],
+		"cities": ["Disco!","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
         ]

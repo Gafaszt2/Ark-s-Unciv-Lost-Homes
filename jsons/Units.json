@@ -1,5 +1,34 @@
 [
          {
+		"name": "Acrocanthosaurus Rider",
+                "uniqueTo": "Blue Rave",
+		"unitType": "Baryonix Rider",
+		"unitType": "Theropoda",
+		"movement": 4,
+		"strength": 50,
+		"cost": 90,
+		"requiredTech": "Smithy",
+		"uniques": ["[+30]% Strength <when fighting in [Hill] tiles>","Can move after attacking"],
+		"hurryCostModifier": 20,
+                "upgradesTo": "Stego Rider",
+                "obsoleteTech": "Tranq Arrow",
+		"attackSound": "altbigcarno"
+	},
+         {
+		"name": "Dance Virus",
+                "uniqueTo": "Blue Rave",
+		"unitType": "Biological Weapon",
+		"movement": 1,
+                "range": 9,
+		"strength": 200,
+		"cost": 700,
+                "requiredResource": "Tek",
+		"requiredTech": "Aberration Creatures",
+		"uniques": ["[+35]% Strength <vs [All] units> <during a Golden Age>"],
+		"hurryCostModifier": 20,
+		"attackSound": "reaper"
+	},
+         {
 		"name": "Thanatosdrakon Rider",
                 "replaces": "Diplodocus",
 		"uniqueTo": "Pampa",
@@ -896,5 +925,5 @@
 		"hurryCostModifier": 20,
                 "promotions": ["Strong Genetics"],
 		"attackSound": "dinoherb"
-	},  
+	},
 ]

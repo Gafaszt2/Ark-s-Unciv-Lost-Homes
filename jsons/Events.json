@@ -1,5 +1,23 @@
 [
 {
+                "name": "Blue Rave",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Disco Woman´s Leeches",
+                                "triggeredUniques": ["May capture killed [Barbarian] units <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Disco Woman´s Arsenal",
+                                "triggeredUniques": ["[3] free [Acrocanthosaurus Rider] units appear <starting from the [Smithy era]>","[+25]% [Production] [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Disco Woman´s Nature",
+                                "triggeredUniques": ["[+33]% [Food] [in all cities] <during a Golden Age> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Pampa",
                 "text": "Pick your unique",
                 "choices":[

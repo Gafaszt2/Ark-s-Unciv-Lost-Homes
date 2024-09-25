@@ -424,9 +424,29 @@
 	},
         {
 		"name": "Pampa Elections",
-                "uniqueTo": "Makaya", 
-                "cost": 1,
-		"uniques": ["Triggers a [Pampa] event <hidden from users>","Provides [2] [Fiber] <hidden from users>"]
+                "replaces": "Palace",
+                "uniqueTo": "Pampa",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Pampa] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Blue Rave Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Blue Rave",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Blue Rave] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
 		"name": "Cryofridge",
