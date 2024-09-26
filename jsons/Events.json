@@ -1,5 +1,59 @@
 [
 {
+                "name": "Zero",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Julius´s Republica",
+                                "triggeredUniques": ["Military Units gifted from City-States start with [+15] XP <for [100000] turns>","Military Units gifted from City-States start with [+25] XP <during a Golden Age> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Mars´s speech",
+                                "triggeredUniques": ["[+70]% Strength <vs [City-States]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Rome´s Consuil",
+                                "triggeredUniques": ["[+100]% Yield from every [Luxury resource] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Jupiter",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Anesthesia´s Populism",
+                                "triggeredUniques": ["When conquering an encampment, earn [250] Gold and recruit a Barbarian unit <with [90]% chance> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Theocracy",
+                                "triggeredUniques": ["[-60]% Gold cost of acquiring tiles [in all cities] <for [100000] turns>","[-20]% Gold cost of acquiring tiles [in capital] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "God of War Legacy",
+                                "triggeredUniques": ["[+50]% Strength <for [Sword] units> <during a Golden Age> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Hill Horde",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Khuchi´s Shamanism",
+                                "triggeredUniques": ["[+2 Culture] [in all cities] <before discovering [Fabricator]> <for [100000] turns>","[+1 Culture] [in capital] <before discovering [Fabricator]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["[Great Scientist] is earned [70]% faster <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Communism",
+                                "triggeredUniques": ["[+1 Production] from every [Strategic resource] <for [100000] turns>","Double quantity of [Allosaurus] produced <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Blue Rave",
                 "text": "Pick your unique",
                 "choices":[

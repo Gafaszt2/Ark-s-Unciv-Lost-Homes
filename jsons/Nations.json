@@ -1383,4 +1383,187 @@ Disco Woman´s Nature
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+		"name": "Hill Horde",
+		"leaderName": "Khuchi",
+		"adjective": ["Horde"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "With a twirl and a spin, she hatched a bold plan,
+To live life on the edge, as a crime’s biggest fan.
+She’d steal the spotlight, and maybe some jewels,
+Outsmarting the law, breaking all the rules.
+
+Her first heist was grand, at the disco’s own vault,
+She danced through the lasers, without a single fault.
+With a wink and a smile, she grabbed all the gold,
+Leaving behind a trail, of stories to be told.
+
+The city was buzzing, with tales of her spree,
+Disco Woman, the legend, wild and free.
+She’d rob with a rhythm, and flee with a beat,
+Her crimes were a dance, no one could defeat.
+
+But deep in her heart, she knew it couldn’t last,
+The thrill of the chase, was fading fast.
+So she danced one last time, under the moon’s glow,
+And vanished in the night, like a star’s final show.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Honour Parade",
+                "uniqueText": "
+Khuchi´s Shamanism
+[+2 Culture] [in all cities] <before discovering [Fabricator]> and [+1 Culture] [in capital] <before discovering [Fabricator]>
+
+Democracy
+[Great Scientist] is earned [70]% faster
+
+Communism
+[+1 Production] from every [Strategic resource] and Double quantity of [Allosaurus] produced",
+		"outerColor": [67, 77, 94],
+		"innerColor": [92, 152, 255],
+		"cities": ["Discordia","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Jupiter",
+		"leaderName": "Anesthesia",
+		"adjective": ["Jupiter"],
+		"startBias": ["Aberrant Blue Zone"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "With a twirl and a spin, she hatched a bold plan,
+To live life on the edge, as a crime’s biggest fan.
+She’d steal the spotlight, and maybe some jewels,
+Outsmarting the law, breaking all the rules.
+
+Her first heist was grand, at the disco’s own vault,
+She danced through the lasers, without a single fault.
+With a wink and a smile, she grabbed all the gold,
+Leaving behind a trail, of stories to be told.
+
+The city was buzzing, with tales of her spree,
+Disco Woman, the legend, wild and free.
+She’d rob with a rhythm, and flee with a beat,
+Her crimes were a dance, no one could defeat.
+
+But deep in her heart, she knew it couldn’t last,
+The thrill of the chase, was fading fast.
+So she danced one last time, under the moon’s glow,
+And vanished in the night, like a star’s final show.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Galactica",
+                "uniqueText": "
+Anesthesia´s Populism
+When conquering an encampment, earn [250] Gold and recruit a Barbarian unit <with [90]% chance>
+
+Theocracy
+[-60]% Gold cost of acquiring tiles [in all cities] and [-20]% Gold cost of acquiring tiles [in capital]
+
+God of War Legacy
+[+50]% Strength for [Sword] units during a Golden Age",
+		"outerColor": [255, 120, 199],
+		"innerColor": [43, 31, 61],
+		"cities": ["Onion Rings","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Zero",
+		"leaderName": "Julius",
+		"adjective": ["Zero"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "With a twirl and a spin, she hatched a bold plan,
+To live life on the edge, as a crime’s biggest fan.
+She’d steal the spotlight, and maybe some jewels,
+Outsmarting the law, breaking all the rules.
+
+Her first heist was grand, at the disco’s own vault,
+She danced through the lasers, without a single fault.
+With a wink and a smile, she grabbed all the gold,
+Leaving behind a trail, of stories to be told.
+
+The city was buzzing, with tales of her spree,
+Disco Woman, the legend, wild and free.
+She’d rob with a rhythm, and flee with a beat,
+Her crimes were a dance, no one could defeat.
+
+But deep in her heart, she knew it couldn’t last,
+The thrill of the chase, was fading fast.
+So she danced one last time, under the moon’s glow,
+And vanished in the night, like a star’s final show.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Prophecy over all Men´s Beasts",
+                "uniqueText": "
+Julius´s Republica
+Military Units gifted from City-States start with [+15] XP and Military Units gifted from City-States start with [+25] XP during a Golden Age
+
+Mars´s speech
+[+70]% Strength vs [City-States]
+
+Rome´s Consuil
+[+100]% Yield from every [Luxury resource]",
+		"outerColor": [179, 41, 48],
+		"innerColor": [36, 0, 29],
+		"cities": ["Capitalia Order","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
         ]

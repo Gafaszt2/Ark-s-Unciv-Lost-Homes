@@ -448,6 +448,47 @@
 		"cost": 1,
 		"uniques": ["Triggers a [Blue Rave] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
+
+
+{
+		"name": "Hill Horde Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Hill Horde",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Hill Horde] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+{
+		"name": "Jupiter Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Jupiter",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Jupiter] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+{
+		"name": "Zero Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Zero",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Zero] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
         {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
@@ -497,5 +538,41 @@
 		"hurryCostModifier": 20,
 		"uniques": ["[30]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Waterskin"
+	},
+        {
+		"name": "Farlands",
+                "replaces": "Regular Lands",
+                "uniqueTo": "Hill Horde",
+                "greatPersonPoints": {"Great Scientist": 1},
+                "maintenance": 1,
+                "faith": 3,
+                "requiredNearbyImprovedResources": ["Strategic resource"],
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Food] [in all cities]"],
+                "requiredBuilding": "Hunt Place"
+		"requiredTech": "Sleeping Bag"
+	},
+        {
+		"name": "Mediterranean Smithies",
+                "replaces": "Smithies",
+                "uniqueTo": "Jupiter",
+                "maintenance": 1,
+		"production": 2,
+                "requiredNearbyImprovedResources": ["Metal","Chitin"],
+		"hurryCostModifier": 50,
+		"uniques": ["[+2 Production] from [Chitin] tiles [in this city]", "[+2 Production] from [Metal] tiles [in this city]"],
+		"requiredBuilding": "Heavy Stone Working",
+                "requiredTech": "Smithy"
+	},
+        {
+		"name": "Captured Barracks",
+                "replaces": "Wooden Fort",
+                "uniqueTo": "Zero",
+                "cityStrength": 5,
+		"cityHealth": 110,
+		"gold": 2,
+                "production": 3,
+		"hurryCostModifier": 50,
+		"requiredTech": "Wooden Houses"
 	},
         ]
