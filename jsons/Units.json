@@ -313,7 +313,6 @@
 	},
          {
 		"name": "Zeppelin",
-                "replaces": "Final Electric Cannon",
 		"uniqueTo": "The Steampunkers",
 		"unitType": "Siege",
 		"movement": 1,
@@ -550,18 +549,18 @@
 		"attackSound": "ravager"
 	},
 {
-		"name": "Rock Drake",
-                "replaces": "Tropeo Rider",
+		"name": "Lemurosaurus Rider",
 		"uniqueTo": "The Skyscraper",
                 "upgradesTo": "Tek Rex Rider",
-		"unitType": "Fantasy",
-		"movement": 4.5,
-		"strength": 75,
-		"cost": 320,
+		"unitType": "Therapsida",
+		"movement": 2,
+		"strength": 70,
+		"cost": 200,
 		"requiredTech": "Auto Torret",
-		"uniques": ["[+50]% Strength <vs cities>", "Can move after attacking"],
+                "promotions": ["Adapted"],
+		"uniques": ["[+35]% Strength <vs [Flying] units>","[+35]% Strength <vs [Fantasy] units>","[+35]% Strength <vs [Mammal] units>", "Can move after attacking"],
 		"hurryCostModifier": 20,
-		"attackSound": "dragon"
+		"attackSound": "ravager"
 	},
         {
 		"name": "Electric Dragon",
