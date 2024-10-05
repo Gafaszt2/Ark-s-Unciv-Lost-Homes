@@ -489,6 +489,19 @@
 		"cost": 1,
 		"uniques": ["Triggers a [Zero] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
+{
+		"name": "Akbar Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Akbar",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Akbar] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
         {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",

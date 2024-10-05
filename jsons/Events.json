@@ -1,5 +1,25 @@
 [
 {
+                "name": "Akbar",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Gaby´s Tyranny",
+                                "triggeredUniques": ["[+2 Science] for every known Natural Wonder <for [100000] turns>"
+
+]
+                        },
+                        {
+                                "text": "Freedom",
+                                "triggeredUniques": ["Allied City-States will occasionally gift Great People <for [100000] turns>","Allied City-States provide [Happiness] equal to [+35]% of what they produce for themselves <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Anarchy",
+                                "triggeredUniques": ["Cannot build [Theropoda] units <for [100000] turns>","[+70]% Strength <for [Mammal] units> <during a Golden Age> <for [100000] turns>","[+50]% Strength <for [Testudines] units> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Zero",
                 "text": "Pick your unique",
                 "choices":[

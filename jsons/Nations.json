@@ -1,3 +1,4 @@
+
 [
 	//Spectator
 	{
@@ -1408,25 +1409,7 @@ Disco Woman´s Nature
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "With a twirl and a spin, she hatched a bold plan,
-To live life on the edge, as a crime’s biggest fan.
-She’d steal the spotlight, and maybe some jewels,
-Outsmarting the law, breaking all the rules.
-
-Her first heist was grand, at the disco’s own vault,
-She danced through the lasers, without a single fault.
-With a wink and a smile, she grabbed all the gold,
-Leaving behind a trail, of stories to be told.
-
-The city was buzzing, with tales of her spree,
-Disco Woman, the legend, wild and free.
-She’d rob with a rhythm, and flee with a beat,
-Her crimes were a dance, no one could defeat.
-
-But deep in her heart, she knew it couldn’t last,
-The thrill of the chase, was fading fast.
-So she danced one last time, under the moon’s glow,
-And vanished in the night, like a star’s final show.",
+		"startIntroPart1": "Khuchi, a proud Mongolian lord, awakens in a dense, prehistoric forest. His warrior instincts immediately take over as he crafts a spear from nearby materials. Memories of his homeland and the battles he fought flood his mind, but he knows he must focus on survival. As he explores the forest, he encounters fierce predators and learns to hunt and gather resources. Khuchi’s leadership skills shine as he builds a fortified camp and tames a pack of raptors to aid in his quest for dominance over this new land. His journey is one of strength, honor, and the relentless pursuit of survival.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -1463,25 +1446,7 @@ Communism
 		"startBias": ["Aberrant Blue Zone"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "With a twirl and a spin, she hatched a bold plan,
-To live life on the edge, as a crime’s biggest fan.
-She’d steal the spotlight, and maybe some jewels,
-Outsmarting the law, breaking all the rules.
-
-Her first heist was grand, at the disco’s own vault,
-She danced through the lasers, without a single fault.
-With a wink and a smile, she grabbed all the gold,
-Leaving behind a trail, of stories to be told.
-
-The city was buzzing, with tales of her spree,
-Disco Woman, the legend, wild and free.
-She’d rob with a rhythm, and flee with a beat,
-Her crimes were a dance, no one could defeat.
-
-But deep in her heart, she knew it couldn’t last,
-The thrill of the chase, was fading fast.
-So she danced one last time, under the moon’s glow,
-And vanished in the night, like a star’s final show.",
+		"startIntroPart1": "Anesthesia, once a glamorous Italian influencer, finds herself on a serene beach, far from the comforts of her previous life. Using her resourcefulness, she fashions a shelter from palm leaves and starts documenting her experiences in a makeshift journal. Her creativity and adaptability help her navigate the challenges of the island. She learns to fish, gather edible plants, and even befriends a gentle triceratops. Anesthesia’s journey is one of transformation, as she discovers inner strength and resilience she never knew she had. Her story is a testament to the power of adaptability and the human spirit.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -1518,25 +1483,7 @@ God of War Legacy
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "With a twirl and a spin, she hatched a bold plan,
-To live life on the edge, as a crime’s biggest fan.
-She’d steal the spotlight, and maybe some jewels,
-Outsmarting the law, breaking all the rules.
-
-Her first heist was grand, at the disco’s own vault,
-She danced through the lasers, without a single fault.
-With a wink and a smile, she grabbed all the gold,
-Leaving behind a trail, of stories to be told.
-
-The city was buzzing, with tales of her spree,
-Disco Woman, the legend, wild and free.
-She’d rob with a rhythm, and flee with a beat,
-Her crimes were a dance, no one could defeat.
-
-But deep in her heart, she knew it couldn’t last,
-The thrill of the chase, was fading fast.
-So she danced one last time, under the moon’s glow,
-And vanished in the night, like a star’s final show.",
+		"startIntroPart1": "Julius, a teenager obsessed with ancient Rome, wakes up near a rocky cliff. His knowledge of ancient engineering comes in handy as he constructs a rudimentary aqueduct to collect fresh water. Inspired by the grandeur of Rome, he dreams of building a new civilization on the island. Julius’s journey is filled with challenges as he faces dangerous creatures and harsh environments. However, his determination and ingenuity lead him to create a thriving settlement, complete with Roman-inspired architecture and infrastructure. His story is one of ambition, innovation, and the pursuit of greatness.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -1561,6 +1508,43 @@ Rome´s Consuil
 		"outerColor": [179, 41, 48],
 		"innerColor": [36, 0, 29],
 		"cities": ["Capitalia Order","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Akbar",
+		"leaderName": "Gaby",
+		"adjective": ["Akbar"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Gaby, a young girl from Iran with a passion for learning, wakes up in a lush valley. Her curiosity drives her to explore the island’s flora and fauna, quickly identifying edible plants and studying the behavior of the island’s creatures. Gaby’s knowledge of nature becomes invaluable as she discovers medicinal herbs and learns to tame gentle herbivores for transportation. Her journey is one of discovery and knowledge, as she uncovers the secrets of the island and its ancient civilization. Gaby’s story is a celebration of curiosity, intelligence, and the quest for understanding.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "History Repeates Itself",
+                "uniqueText": "
+Gaby´s Tyranny
+[+2 Science] for every known Natural Wonder
+
+Freedom
+Allied City-States will occasionally gift Great People and Allied City-States provide [Happiness] equal to [+35]% of what they produce for themselves
+
+Anarchy
+Cannot build [Theropoda] units and [+70]% Strength for [Mammal] units during a Golden Age and [+50]% Strength for [Testudines] units",
+		"outerColor": [34, 38, 36],
+		"innerColor": [52, 235, 149],
+		"cities": ["Ghutawium","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
