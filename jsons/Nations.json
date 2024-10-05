@@ -91,7 +91,6 @@ Libertarian
         "spyNames": ["Sir Charles"]
 	},
 {
-		//nations
 		"name": "Zare",
 		"leaderName": "Anezka",
 		"adjective": ["Zare"],
@@ -1545,6 +1544,61 @@ Cannot build [Theropoda] units and [+70]% Strength for [Mammal] units during a G
 		"outerColor": [34, 38, 36],
 		"innerColor": [52, 235, 149],
 		"cities": ["Ghutawium","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Thalassophobia",
+		"leaderName": "Candela",
+		"adjective": ["Thalassophobia"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "As Candela delves deeper into the city’s secrets, she encounters a massive sea creature that guards the city’s heart. Using her knowledge and the tools she has gathered, she manages to communicate with the guardian, earning its trust. The guardian reveals that the city holds the key to controlling the island’s waters and protecting its inhabitants from the dangers of the deep.
+
+With the guardian’s blessing, Candela takes on the role of the ocean’s protector. She uses the city’s technology to create safe havens along the coast and underwater, ensuring that other survivors can find refuge. Her bond with the sea creatures grows stronger, and she becomes a legend among the island’s inhabitants, known as the Ocean Nomad.
+
+Years pass, and Candela’s efforts transform the coastal regions of Ragnarok into thriving communities. Her legacy lives on as the protector of the seas, and her story inspires future generations to respect and cherish the ocean. The once perilous waters become a symbol of hope and resilience, thanks to Candela’s unwavering spirit and connection to the sea.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Sea City",
+                "uniqueText": "This Civilization can pick two government types
+
+First Uniques
+
+Democracy
+[-10]% Culture cost of natural border growth [in all cities]
+
+Racism
+May buy [Sword] units with [Faith] for [2] times their normal Production cost
+
+Populism
+[+1 Culture] per [4] population [in all cities]
+
+Second Uniques
+
+Economy Focus
+[+2 Gold] from [Coral Zone] tiles [in all cities] and [+1 Gold] from [Coast] tiles [in all cities] starting from the [Electric era]
+
+Cultural Focus
+[+2 Culture] from [Coral Zone] tiles [in all cities] and [+1 Culture] from [Coast] tiles [in all cities] starting from the [Electric era]
+
+Faith Focus
+[+2 Faith] from [Coral Zone] tiles [in all cities] and [+1 Faith] from [Coast] tiles [in all cities] starting from the [Electric era]",
+		"outerColor": [126, 134, 207],
+		"innerColor": [11, 11, 18],
+		"cities": ["Record Reef","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],

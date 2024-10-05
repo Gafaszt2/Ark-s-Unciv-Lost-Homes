@@ -1,13 +1,47 @@
 [
 {
+                "name": "Thalassophobia2",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Economy Focus",
+                                "triggeredUniques": ["[+2 Gold] from [Coral Zone] tiles [in all cities] <for [100000] turns>","[+1 Gold] from [Coast] tiles [in all cities] <starting from the [Electric era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Cultural Focus",
+                                "triggeredUniques": ["[+2 Culture] from [Coral Zone] tiles [in all cities] <for [100000] turns>","[+1 Culture] from [Coast] tiles [in all cities] <starting from the [Electric era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Faith Focus",
+                                "triggeredUniques": ["[+2 Faith] from [Coral Zone] tiles [in all cities] <for [100000] turns>","[+1 Faith] from [Coast] tiles [in all cities] <starting from the [Electric era]> <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Thalassophobia1",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["[-10]% Culture cost of natural border growth [in all cities] <for [100000] turns>","Triggers a [Thalassophobia2] event <hidden from users>"]
+                        },
+                        {
+                                "text": "Racism",
+                                "triggeredUniques": ["May buy [Sword] units with [Faith] for [2] times their normal Production cost <for [100000] turns>","Triggers a [Thalassophobia2] event <hidden from users>"]
+                        },
+                        {
+                                "text": "Populism",
+                                "triggeredUniques": ["[+1 Culture] per [4] population [in all cities] <for [100000] turns>","Triggers a [Thalassophobia2] event <hidden from users>"]
+                        }
+                ]
+        },
+{
                 "name": "Akbar",
                 "text": "Pick your unique",
                 "choices":[
                         {
                                 "text": "Gaby´s Tyranny",
-                                "triggeredUniques": ["[+2 Science] for every known Natural Wonder <for [100000] turns>"
-
-]
+                                "triggeredUniques": ["[+2 Science] for every known Natural Wonder <for [100000] turns>"]
                         },
                         {
                                 "text": "Freedom",

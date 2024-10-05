@@ -503,6 +503,19 @@
 		"uniques": ["Triggers a [Akbar] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
+		"name": "Thalassophobia Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Thalassophobia",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Thalassophobia1] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
                 "uniqueTo": "Cryogenic Empire",
@@ -587,5 +600,16 @@
                 "production": 3,
 		"hurryCostModifier": 50,
 		"requiredTech": "Wooden Houses"
+	},
+        {
+		"name": "Great Dock",
+                "replaces": "Great Amphitheater",
+                "uniqueTo": "Thalassophobia",
+                "isNationalWonder": true,
+		"hurryCostModifier": 50,
+                "food": 3,
+                "requiredResource": "Worker"
+		"uniques": ["[+1 Food] from [Coast] tiles [in this city]","[+1 Gold] from [Ocean] tiles [in this city]","[+2 Culture] from [Lakes] tiles [in this city]","[+2 Culture] from [Marsh] tiles [in this city]"],
+		"requiredTech": "Reservoir"
 	},
         ]
