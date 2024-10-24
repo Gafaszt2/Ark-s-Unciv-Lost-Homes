@@ -1,5 +1,37 @@
 [
 {
+                "name": "Geuzen",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Fascism",
+                                "triggeredUniques": ["Double quantity of [Fruit] produced <for [100000] turns>","Double quantity of [Rock Drake Egg] produced <for [100000] turns>","Double quantity of [Aquatic Mushroom] produced <for [100000] turns>","Earn [35]% of killed [Wounded] unit's [Cost] as [Gold] <for [100000] turns>","Earn [35]% of killed [Wounded] unit's [Cost] as [Culture] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["[-20]% Culture cost of adopting new Policies <for [100000] turns>","[-20]% Gold cost of acquiring tiles [in all cities] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Chaniora",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["[+1 Gold, +1 Science] per [2] population [in capital] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Libertarian",
+                                "triggeredUniques": ["[+1 Gold] per every [3] [Science] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Communism",
+                                "triggeredUniques": ["[+1 Production] per [2] social policies adopted <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Thalassophobia2",
                 "text": "Pick your unique",
                 "choices":[

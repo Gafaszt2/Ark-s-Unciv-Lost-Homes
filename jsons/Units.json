@@ -1,4 +1,57 @@
 [
+{
+		"name": "Punk Survivor",
+                "uniqueTo": "Geuzen",
+		"replaces": "Engineer",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 35,
+		"cost": 120,
+		"attackSound": "metalhit"
+                "requiredTech": "Pliers",
+                "uniques": ["[+30]% Strength <vs [Amphibious] units>","Can build [Land] improvements on tiles"],
+        },
+
+{
+		"name": "Archaeolemur",
+                "uniqueTo": "Geuzen",
+		"replaces": "Dodo",
+		"unitType": "Mammal",
+		"movement": 4,
+		"strength": 12,
+		"cost": 25,
+                "promotions": ["Holocene"],
+		"attackSound": "ravager"
+                "uniques": ["Never appears as a Barbarian unit"],
+        },
+         {
+		"name": "Panthera Leo Rider",
+                "uniqueTo": "Chaniora",
+		"replaces": "Cave Lion",
+		"unitType": "Mammal",
+		"movement": 4,
+		"strength": 80,
+		"cost": 130,
+		"requiredTech": "Auto Torret",
+                "promotions": ["Holocene"],
+                "obsoleteTech": "Tek Sword",
+		"uniques": ["[+60]% Strength <vs [Sword] units>","[+80]% Strength <vs [Gunpowder] units>","Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "feline"
+	},
+
+         {
+		"name": "Felis Catus",
+                "uniqueTo": "Chaniora",
+		"replaces": "Dodo",
+		"unitType": "Mammal",
+		"movement": 3,
+		"strength": 7,
+		"cost": 19,
+                "promotions": ["Holocene"],
+		"attackSound": "feline"
+                "uniques": ["Never appears as a Barbarian unit"],
+        },
          {
 		"name": "Valenictus Rider",
                 "uniqueTo": "Thalassophobia",

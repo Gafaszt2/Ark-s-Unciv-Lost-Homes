@@ -1604,4 +1604,84 @@ Faith Focus
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+{
+		"name": "Chaniora",
+		"leaderName": "Clara",
+		"adjective": ["Chaniora"],
+		"startBias": ["Snowy Beach"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "The golden rays of dawn pierced through the dense canopy, casting an ethereal glow on the awakening Midgard. Clara, once an ordinary woman, found herself standing at the edge of an unknown world, the remnants of her old life flickering like a distant dream. The air was thick with the scent of moss and blooming flowers, mingling with the distant roars of creatures yet unseen.
+
+With every step she took, Clara felt the island’s pulse, a heartbeat that resonated with her own. She was no longer bound by the mundane; she was a pioneer in a land untamed. Days turned into weeks as she harnessed her survival skills, transforming raw materials into shelter and forging alliances with other survivors who had awoken in this primal realm.
+
+One fateful twilight, Clara stumbled upon the lions of Midgard. Their golden eyes reflected her determination, their roars echoed her courage. She approached them not as a conqueror, but as a kindred spirit. Through patience and respect, she forged an unbreakable bond with these majestic beasts. Soon, her fledgling nation was known across Midgard for its fierce lion riders, warriors who commanded respect with every stride.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Land of Felines",
+                "uniqueText": "Democracy
+[+1 Production] per [2] social policies adopted
+
+Libertarian
+[+1 Gold] per every [3] [Science]
+
+Communism
+[+1 Culture] per [4] population [in all cities]",
+		"outerColor": [235, 64, 52],
+		"innerColor": [224, 204, 184],
+		"cities": ["Charnia","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Geuzen",
+		"leaderName": "Dominica",
+		"adjective": ["Geuzen"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Dominica's rise to power was swift and ruthless. She harnessed the chaos of the ARKs, bending the will of the creatures and survivors alike to her twisted ideals. Her followers, clad in punk attire, were a fearsome sight, their loyalty unwavering. They rode into battle on monstrous beasts, their war cries echoing through the valleys.
+
+Geuzen was a kingdom built on fear and control. Dominica's fascist regime left no room for dissent. Her spies were everywhere, and those who dared to oppose her were swiftly dealt with. The once peaceful lands of the ARKs trembled under her rule, as she sought to expand her dominion across the islands.
+
+But even in the darkest times, hope flickered. Clara and her lion riders stood as a beacon of resistance, their courage and unity a stark contrast to Dominica's tyranny. The clash between these two powerful women would shape the fate of the ARKs, a battle of ideals and wills that would be remembered for generations.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "The Real Deal",
+                "uniques": ["[-50]% construction time for [All] improvements"],
+                "uniqueText": "[-50]% construction time for [All] improvements
+
+Fascism
+Double quantity of [Fruit] produced and Double quantity of [Rock Drake Egg] produced and Double quantity of [Aquatic Mushroom] produced and Earn [35]% of killed [Wounded] unit's [Cost] as [Gold] and Earn [35]% of killed [Wounded] unit's [Cost] as [Culture]
+
+Democracy
+[-20]% Culture cost of adopting new Policies and [-20]% Gold cost of acquiring tiles [in all cities]",
+		"outerColor": [255, 64, 64],
+		"innerColor": [40, 30, 74],
+		"cities": ["Cool Rock","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
         ]

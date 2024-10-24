@@ -516,6 +516,32 @@
 		"uniques": ["Triggers a [Thalassophobia1] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
+		"name": "Chaniora Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Chaniora",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Chaniora] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Geuzen Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Geuzen",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Geuzen] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
                 "uniqueTo": "Cryogenic Empire",
