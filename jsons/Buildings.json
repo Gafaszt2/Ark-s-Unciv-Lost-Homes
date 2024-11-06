@@ -542,6 +542,71 @@
 		"uniques": ["Triggers a [Geuzen] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
         {
+		"name": "Saint Order Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Saint Order",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Saint Order] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Gondwana Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Gondwana",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Gondwana] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Teikoku Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Teikoku",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Teikoku] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Isi Sunday Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Isi Sunday",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Isi Sunday] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
+		"name": "Poison Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Poison",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Poison] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+        {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
                 "uniqueTo": "Cryogenic Empire",
@@ -637,5 +702,16 @@
                 "requiredResource": "Worker"
 		"uniques": ["[+1 Food] from [Coast] tiles [in this city]","[+1 Gold] from [Ocean] tiles [in this city]","[+2 Culture] from [Lakes] tiles [in this city]","[+2 Culture] from [Marsh] tiles [in this city]"],
 		"requiredTech": "Reservoir"
+	},
+        {
+		"name": "Dojo",
+                "replaces": "Place Mark",
+                "uniqueTo": "Teikoku",
+                "faith": 1,
+		"science": 1,
+                "greatPersonPoints": {"Great Scientist": 2},
+		"hurryCostModifier": 20,
+		"uniques": ["[+20]% Great Person generation [in this city]", "Cost increases by [14] per owned city"],
+		"requiredTech": "Campfire"
 	},
         ]

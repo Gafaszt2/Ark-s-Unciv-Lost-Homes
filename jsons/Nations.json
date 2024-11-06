@@ -97,6 +97,7 @@ Libertarian
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Ascension",
 
+
 		"startIntroPart1": "Zare was built to be a fortress, with high walls and watchtowers. But within its walls, it was a thriving community. Anezka encouraged trade and commerce, establishing Zare as a major trading hub in ARK.
 
 Anezka was a fair and just ruler. She established a council of advisors, ensuring that the decisions made were in the best interest of all the citizens of Zare. Under her rule, Zare grew in size and power, attracting more survivors who were drawn to its prosperity and security.",
@@ -1679,6 +1680,196 @@ Democracy
 		"outerColor": [255, 64, 64],
 		"innerColor": [40, 30, 74],
 		"cities": ["Cool Rock","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Saint Order",
+		"leaderName": "Flameria",
+		"adjective": ["Saint Order"],
+		"startBias": ["Montano"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Flameria's golden hair and piercing eyes masked a heart of iron and a will to dominate. She carved her empire into the Ark with fire and fury, ruling with an iron fist and a desire for absolute power. Her tyranny was feared by many, but her cunning and ruthlessness ensured that she stayed atop the food chain. In the brutal world of the Ark, she was a queen whose rule was absolute, her every command obeyed without question.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Parties",
+                "uniqueText": "
+Capitalism
+[+3 Gold, +1 Faith] from [Ragnarok Temple] tiles [in all cities]
+
+Fascism
+[+1 Gold, +2 Production] from [Tundra] tiles [in all cities]
+
+Democracy
+[+1 Faith, +1 Science] from [Tumash Temple] tiles [in all cities]
+",
+		"outerColor": [245, 218, 239],
+		"innerColor": [247, 73, 10],
+		"cities": ["Montano´s Hut","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Gondwana",
+		"leaderName": "Sol",
+		"adjective": ["Gondwana"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Sol emerged from the dense forests of the Ark, her skin kissed by the sun and her spirit as fierce as the land she hailed from. As a custodian of ancient wisdom and the natural world, she navigated the wilderness with unmatched skill. Using the stars as her guide and the flora as her medicine, she forged a deep connection with the land. Her survival was more than a struggle—it was a symbiotic dance with nature, where every leaf whispered secrets of resilience.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Coconut Survivors",
+                "uniqueText": "
+Libertarian
+[+2 Science, +2 Production] from all [Science] buildings starting from the [Electric era]
+
+Democracy
+[+2 Gold, +1 Production] from all [Gold] buildings
+
+Corporalism
+[+30]% Production when constructing [Land] units [in capital]
+",
+		"outerColor": [145, 194, 130],
+		"innerColor": [54, 30, 0],
+		"cities": ["Land of Koalas","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Teikoku",
+		"leaderName": "Rin",
+		"adjective": ["Teikoku"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Rin’s journey in the Ark was one of quiet strength and gentle wisdom. With a serene demeanor and an unwavering belief in peace, she sought harmony even in the chaotic world around her. She tamed creatures with kindness, built serene gardens in the heart of danger, and inspired those around her to seek tranquility over conflict. Her beauty wasn’t just in her appearance but in her soul, radiating a peaceful aura that brought solace to the harshest corners of the Ark.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Order and Education",
+                "uniqueText": "
+Capitalism
+[-69]% [Science] [in all cities] and [2] free random researchable Tech(s) from the [Ancient era] and [3] free random researchable Tech(s) from the [Leather era] and [3] free random researchable Tech(s) from the [Smithy era] and [2] free random researchable Tech(s) from the [Electric era] and [1] free random researchable Tech(s) from the [Tek era]
+
+Communism
+[+1 Science] from [Coast] tiles [in capital]
+
+Fascism
+[+35]% [Gold] [in all cities] and [+45]% [Gold] [in capital]
+",
+		"outerColor": [232, 170, 151],
+		"innerColor": [209, 3, 0],
+		"cities": ["Minami","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Isi Sunday",
+		"leaderName": "Amina",
+		"adjective": ["Isi Sunday"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Amina stood tall and proud, her presence commanding the respect of both humans and creatures alike. As a war chief from a lineage of warriors, she wore her heritage as proudly as her battle scars. The Ark became her battlefield, where she used her strategic mind and combat prowess to protect her tribe and conquer new territories. Her leadership was unyielding, her heart as fierce as the Savannah sun, and her loyalty to her people, unwavering.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Order and Education",
+                "uniqueText": "
+Tribalism
+[+1 Faith, +1 Science] from every [Tumash Temple]
+
+Communialism
+[+2 Food, +2 Gold] from all [Ark Monument] buildings
+
+Collectivism
+[+1 Culture, +2 Production] per [3] social policies adopted
+",
+		"outerColor": [123, 133, 181],
+		"innerColor": [26, 31, 56],
+		"cities": ["Lion Rock","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Poison",
+		"leaderName": "Hazel",
+		"adjective": ["Poison"],
+		"startBias": ["Fallout Land"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Hazel, with her sharp mind and an even sharper fascination for the deadly, roamed the Ark with a scientist’s curiosity. Her love for toxins and poisons turned her into a master of chemical warfare, crafting potions that could incapacitate or cure with a single drop. She navigated her survival through intellect, often using her poisons to fend off predators and adversaries, ensuring her place in the hierarchy of the Ark with a mix of fear and respect.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Poison Mistress",
+                "uniqueText": "
+Democracy
+Provides [5] [Scales] and Provides [4] [Leather]
+
+Colonialism
+[+2 Food,+1 Production,+1 Faith, +2 Gold] from all [Wonder] buildings
+
+Raj
+Provides [6] [Fruit]
+",
+		"outerColor": [197, 235, 174],
+		"innerColor": [36, 43, 32],
+		"cities": ["Hazelia","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],

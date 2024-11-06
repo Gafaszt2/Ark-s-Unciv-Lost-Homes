@@ -1,5 +1,95 @@
 [
 {
+                "name": "Poison",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["Provides [5] [Scales] <for [100000] turns>","Provides [4] [Leather] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Colonialism",
+                                "triggeredUniques": ["[+2 Food, +1 Production, +1 Faith, +2 Gold] from all [Wonder] buildings <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Raj",
+                                "triggeredUniques": ["Provides [6] [Fruit] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Isi Sunday",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Tribalism",
+                                "triggeredUniques": ["[+1 Faith, +1 Science] from every [Tumash Temple] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Communialism",
+                                "triggeredUniques": ["[+2 Food, +2 Gold] from all [Ark Monument] buildings <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Collectivism",
+                                "triggeredUniques": ["[+1 Culture, +2 Production] per [3] social policies adopted <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Teikoku",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Capitalism",
+                                "triggeredUniques": ["[-69]% [Science] [in all cities] <for [100000] turns>","[2] free random researchable Tech(s) from the [Ancient era]","[3] free random researchable Tech(s) from the [Leather era]","[3] free random researchable Tech(s) from the [Smithy era]","[2] free random researchable Tech(s) from the [Electric era]","[1] free random researchable Tech(s) from the [Tek era]"]
+                        },
+                        {
+                                "text": "Communism",
+                                "triggeredUniques": ["[+1 Science] from [Coast] tiles [in capital] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Fascism",
+                                "triggeredUniques": ["[+35]% [Gold] [in all cities] <for [100000] turns>","[+45]% [Gold] [in capital] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Saint Order",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Capitalism",
+                                "triggeredUniques": ["[+3 Gold, +1 Faith] from [Ragnarok Temple] tiles [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Fascism",
+                                "triggeredUniques": ["[+1 Gold, +2 Production] from [Tundra] tiles [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["[+1 Faith, +1 Science] from [Tumash Temple] tiles [in all cities] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
+                "name": "Gondwana",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Libertarian",
+                                "triggeredUniques": ["[+2 Science, +2 Production] from all [Science] buildings <starting from the [Electric era]> <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["[+2 Gold, +1 Production] from all [Gold] buildings <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Corporalism",
+                                "triggeredUniques": ["[+30]% Production when constructing [Land] units [in capital] <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Geuzen",
                 "text": "Pick your unique",
                 "choices":[
