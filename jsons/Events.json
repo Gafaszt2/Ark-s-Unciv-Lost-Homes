@@ -1,5 +1,19 @@
 [
 {
+                "name": "Really Basic",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Buggy",
+                                "triggeredUniques": ["[-20]% growth [in all cities] <for [100000] turns>","[-40]% Food consumption by specialists [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Basic",
+                                "triggeredUniques": ["Provides [1] [Metal] <for [100000] turns>","[-35]% unhappiness from the number of cities <for [100000] turns>"]
+                        }
+                ]
+        },
+{
                 "name": "Poison",
                 "text": "Pick your unique",
                 "choices":[

@@ -1,5 +1,35 @@
 [
 {
+		"name": "Albertosaurus",
+                "uniqueTo": "Really Basic",
+		"replaces": "Allo Rider",
+		"unitType": "Theropoda",
+		"movement": 3,
+		"strength": 80,
+		"cost": 60,
+                "requiredResource": "Metal",
+		"requiredTech": "Sword",
+                "promotions": ["Cretaceous"],
+                "obsoleteTech": "Fabricator",
+		"uniques": ["[+7]% Strength <vs [Mammal] units>","Can move after attacking","Never appears as a Barbarian unit"],
+		"hurryCostModifier": 20,
+		"attackSound": "medcarno"
+	},
+{
+		"name": "Epicyon",
+                "uniqueTo": "Really Basic",
+		"replaces": "Stegouros",
+		"unitType": "Mammal",
+		"movement": 2,
+		"strength": 40,
+		"cost": 130,
+                "promotions": ["Miocene"],
+		"requiredTech": "GPS",
+                "obsoleteTech": "Flamethrower",
+		"uniques": ["[+70]% Strength <vs [Sword] units>","[+70]% Strength <vs [Theropoda] units>","Never appears as a Barbarian unit"],
+		"attackSound": "ravager"
+	},
+{
 		"name": "African Wolf",
                 "uniqueTo": "Isi Sunday",
 		"replaces": "Raptor Rider",

@@ -10,6 +10,7 @@
 		//nations
 		"name": "Cryogenic Empire",
 		"leaderName": "Juliana",
+                "personality": "Juliana",
 		"adjective": ["Cryogenic"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Ascension",
@@ -1120,7 +1121,8 @@ Libertarian
 	},
 {
 		"name": "Funxolotl Nation",
-		"leaderName": "Basil",
+		"leaderName": "Basil", 
+                "personality": "Basil",
 		"adjective": ["Basil"],
 		"startBias": ["Twilight Forest"],
 		"preferredVictoryType": "Ascension",
@@ -1870,6 +1872,42 @@ Provides [6] [Fruit]
 		"outerColor": [197, 235, 174],
 		"innerColor": [36, 43, 32],
 		"cities": ["Hazelia","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		"name": "Really Basic",
+		"leaderName": "Buglord",
+                "personality": "Buglord",
+		"adjective": ["Really Basic"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Buglord was a very particular survivor that liked to take naps, eat fruits and make weapons, but one day he got elected for his tribe, so he rode on his albertosaurus and charged against the Island.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "I´m Friend",
+                "uniqueText": "
+Buggy
+[-20]% growth [in all cities] and [-40]% Food consumption by specialists [in all cities]
+
+Basic
+Provides [1] [Metal] and [-35]% unhappiness from the number of cities
+",
+		"outerColor": [179, 214, 255],
+		"innerColor": [41, 41, 41],
+		"cities": ["Yanks","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
