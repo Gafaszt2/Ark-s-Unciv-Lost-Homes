@@ -242,7 +242,7 @@
 "[+44]% Strength <when fighting in [Snow] tiles>",
 "[+22]% Strength <when fighting in [Tundra] tiles>",
 "[+22]% Strength <when fighting in [Snowy Beach] tiles>",
-"This Unit takes [5] damage <upon ending a turn in a [Desert] tile> <hidden from users>",
+"[This Unit] takes [5] damage <upon ending a turn in a [Desert] tile> <hidden from users>",
 "[+3] Movement <in [Ocean] tiles> <hidden from users>",
 "[+3] Movement <in [Lakes] tiles> <hidden from users>",
 "[+3] Movement <in [Coast] tiles> <hidden from users>","Can move after attacking"],

@@ -83,8 +83,8 @@ Libertarian
 [-50]% Gold cost of acquiring tiles [in all cities], New [Military] units start with [20] Experience [in all cities]",
                 "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
-		"outerColor": [247, 225, 114],
-		"innerColor": [191, 76, 10],
+		"outerColor": [77, 94, 70],
+		"innerColor": [233, 160, 12],
 		"cities": ["Golden Paradise","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -250,8 +250,8 @@ Monarchy
 [+1 Gold] per [2] social policies adopted and [+1 Faith] per [1] social policies adopted",
                 "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
 
-		"outerColor": [250, 54, 40],
-		"innerColor": [252, 211, 114],
+		"outerColor": [225, 48, 36],
+		"innerColor": [252, 215, 128],
 		"cities": ["Mars Throne","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -1507,8 +1507,8 @@ Mars´s speech
 
 Rome´s Consuil
 [+100]% Yield from every [Luxury resource]",
-		"outerColor": [179, 41, 48],
-		"innerColor": [36, 0, 29],
+		"outerColor": [182, 51, 58],
+		"innerColor": [34, 0, 27],
 		"cities": ["Capitalia Order","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -1639,8 +1639,8 @@ Libertarian
 
 Communism
 [+1 Culture] per [4] population [in all cities]",
-		"outerColor": [235, 64, 52],
-		"innerColor": [224, 204, 184],
+		"outerColor": [211, 57, 46],
+		"innerColor": [227, 209, 191],
 		"cities": ["Charnia","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -1717,8 +1717,8 @@ Fascism
 Democracy
 [+1 Faith, +1 Science] from [Tumash Temple] tiles [in all cities]
 ",
-		"outerColor": [245, 218, 239],
-		"innerColor": [247, 73, 10],
+		"outerColor": [245, 219, 239],
+		"innerColor": [234, 69, 9],
 		"cities": ["Montano´s Hut","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -1793,8 +1793,8 @@ Communism
 Fascism
 [+35]% [Gold] [in all cities] and [+45]% [Gold] [in capital]
 ",
-		"outerColor": [232, 170, 151],
-		"innerColor": [209, 3, 0],
+		"outerColor": [233, 174, 156],
+		"innerColor": [198, 2, 0],
 		"cities": ["Minami","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
