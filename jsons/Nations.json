@@ -1913,4 +1913,34 @@ Provides [1] [Metal] and [-35]% unhappiness from the number of cities
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+        {
+		"name": "Argentum",
+		"leaderName": "Panchita",
+		"adjective": ["Argentum"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Buglord was a very particular survivor that liked to take naps, eat fruits and make weapons, but one day he got elected for his tribe, so he rode on his albertosaurus and charged against the Island.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Alien Invader",
+"uniques": ["Gain [25]-[35] [Science] <upon entering a new era>","Gain [20]-[25] [Science] <upon entering a Golden Age>","Gain [10]-[15] [Science] <upon conquering a city>"],
+		"outerColor": [212, 235, 255],
+		"innerColor": [0, 119, 222],
+		"cities": ["Geos","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+
         ]

@@ -11,8 +11,16 @@
 		"shortcutKey": "F"
 	},
         {
+		"name": "Beer Bar",
+		"uniqueTo": "Argentum",
+                "happiness": 2,
+		"terrainsCanBeBuiltOn": ["Montano","Plains","Eldritch","Desert"],
+		"turnsToBuild": 7,
+                "techRequired": "Recipes",
+		"uniques": ["[+1 Happiness] for each adjacent [Forest]"],
+	},
+        {
 		"name": "Plaza",
-                "replaces": "Ragnarok Temple",
 		"uniqueTo": "The Falls",
                 "gold": 1,
 		"terrainsCanBeBuiltOn": ["Tundra","Snow","Grassland","Snowy Beach"],

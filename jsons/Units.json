@@ -1,5 +1,22 @@
 [
 {
+		"name": "Trilobite",
+                "uniqueTo": "Argentum",
+		"replaces": "Moschops",
+                "requiredResource": "Thatch",
+		"unitType": "Therapsida",
+		"movement": 2,
+		"strength": 23,
+		"cost": 50,
+		"requiredTech": "Slingshot",
+                "upgradesTo": "Kapro Rider",
+                "promotions": ["Cambrian"],
+                "obsoleteTech": "Professional Domestication",
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "chalico"
+	},
+{
 		"name": "Albertosaurus",
                 "uniqueTo": "Really Basic",
 		"replaces": "Allo Rider",
