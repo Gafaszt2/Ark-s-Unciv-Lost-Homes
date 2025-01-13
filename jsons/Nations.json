@@ -1920,7 +1920,7 @@ Provides [1] [Metal] and [-35]% unhappiness from the number of cities
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "Buglord was a very particular survivor that liked to take naps, eat fruits and make weapons, but one day he got elected for his tribe, so he rode on his albertosaurus and charged against the Island.",
+		"startIntroPart1": "I'm like the old man, look, and it's like we were in the house and everything went crazy, look, the old woman looked at me fiercely and now everything is a mess, you see, and now fat Gregory turned like a simp, and he's walking behind You saw that alien girl called Panchita, now they are conquering planets like that, you saw, so take care of yourself, you saw.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -1937,6 +1937,82 @@ Provides [1] [Metal] and [-35]% unhappiness from the number of cities
 		"outerColor": [212, 235, 255],
 		"innerColor": [0, 119, 222],
 		"cities": ["Geos","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+	{
+		"name": "Hot Trot",
+		"leaderName": "Anisa",
+		"adjective": ["Hot Trot"],
+		"startBias": ["Montano"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Anisa always felt a deep connection to the shadows, a solace in the night's embrace. Growing up in the outskirts of a bustling city, she was an enigma, dressed in black with a penchant for the macabre. She found her escape in music, art, and the written word, crafting worlds where darkness thrived, and the misunderstood found their place. Her gothic lifestyle was more than an aesthetic; it was a statement of resilience and self-discovery.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Wathever",
+                "uniqueText": "
+Fascism
+[+1 Gold, +1 Culture] per [3] population [in all cities]
+
+Democracy
+[Gold] cost of purchasing [Culture] buildings [-70]%
+
+Socialism
+When defeating a [Amphibious] unit, earn [50] Gold and recruit it
+",
+		"outerColor": [20, 20, 20],
+		"innerColor": [245, 147, 66],
+		"cities": ["Dark Tower","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+	{
+		"name": "Aurorean Order",
+		"leaderName": "Whizan",
+		"adjective": ["Aurorean Order"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Whizan hailed from the mist-laden mountains of China, where ancient traditions and modern life wove together seamlessly. A martial artist and scholar, Whizan was always intrigued by the mysteries of her homeland. She spent her days training in the art of Wushu, and her nights poring over ancient texts, searching for forgotten wisdom. Her name, meaning wisdom and elegance, was a testament to her balanced spirit and fierce determination.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Varanus Dreams",
+                "uniqueText": "
+Anarchy
+[+30]% of excess happiness converted to [Science] and Enables conversion of city production to [Science]
+
+Libertarian
+[+40]% Great Person generation [in all cities]
+
+Communism
+Enemy [Wounded] units must spend [1] extra movement points when inside your territory and Double quantity of [Biotoxin] produced
+",
+		"outerColor": [222, 52, 235],
+		"innerColor": [43, 16, 31],
+		"cities": ["Aurora","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],

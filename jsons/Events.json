@@ -1,4 +1,40 @@
 [
+        {
+                "name": "Aurorean Order",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Anarchy",
+                                "triggeredUniques": ["[+30]% of excess happiness converted to [Science]","Enables conversion of city production to [Science]"]
+                        },
+                        {
+                                "text": "Libertarian",
+                                "triggeredUniques": ["[+40]% Great Person generation [in all cities]"]
+                        },
+                        {
+                                "text": "Communism",
+                                "triggeredUniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory","Double quantity of [Biotoxin] produced"]
+                        }
+                ]
+        },
+        {
+                "name": "Hot Trot",
+                "text": "Pick your unique",
+                "choices":[
+                        {
+                                "text": "Fascism",
+                                "triggeredUniques": ["[+1 Gold, +1 Culture] per [3] population [in all cities] <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Democracy",
+                                "triggeredUniques": ["[Gold] cost of purchasing [Culture] buildings [-70]% <for [100000] turns>"]
+                        },
+                        {
+                                "text": "Socialism",
+                                "triggeredUniques": ["When defeating a [Amphibious] unit, earn [50] Gold and recruit it <for [100000] turns>"]
+                        }
+                ]
+        },
 {
                 "name": "Really Basic",
                 "text": "Pick your unique",

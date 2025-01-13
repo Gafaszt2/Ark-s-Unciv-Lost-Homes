@@ -619,6 +619,32 @@
 		"cost": 1,
 		"uniques": ["Triggers a [Really Basic] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
 	},
+	{
+		"name": "Hot Trot Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Hot Trot",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Hot Trot] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
+	{
+		"name": "Aurorean Order Elections",
+                "replaces": "Palace",
+                "uniqueTo": "Aurorean Order",
+		"isNationalWonder": true,
+		"faith": 1,
+		"science": 1,
+		"culture": 1,
+                "gold": 5,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Triggers a [Aurorean Order] event <hidden from users>","Indicates the capital city", "Provides [2] [Fiber]"]
+	},
         {
 		"name": "Cryofridge",
                 "replaces": "Ark Monument",
