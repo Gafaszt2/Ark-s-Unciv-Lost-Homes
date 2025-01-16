@@ -32,16 +32,7 @@ With the beasts as her guard, her loyal throng, She built her empire, both vast 
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Arctic Flower",
-                "uniqueText": "Juliana´s Monarchy
-[+2 Food] from every [Tundra] and [+2 Food] from every [Snow]
-
-Republic
-[+1 Food] in [Ranch] tiles and [+1 Food] in [Tundra] tiles
-
-Fascism
-[+2 Food, +1 Science] in cities on [Tundra] tiles and [+2 Food, +1 Science] in cities on [Snow] tiles",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
-
+"uniques": ["[+2 Science, +2 Production] in cities on [Tundra] tiles","[+2 Science, +2 Food] in cities on [Snow] tiles", "[+5]% [Science]"],
 		"outerColor": [218, 230, 237],
 		"innerColor": [66, 72, 122],
 		"cities": ["Cryogenesis","Arat","Prime",
@@ -73,15 +64,7 @@ Under his rule, the new Africa was a land of opportunity, where every survivor c
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Humanity's Cradle",
-                "uniqueText": "King Umbi´s Monarchy
-+10% XP gained from combat and -44% maintenance costs
-
-Anarchy
-[+100]% Strength <vs [Barbarian] units>, Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture] and get Notified of new Barbarian encampments
-
-Libertarian
-[-50]% Gold cost of acquiring tiles [in all cities], New [Military] units start with [20] Experience [in all cities]",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+30]% Production when constructing [Melee] units [in all cities]","[+20]% Production when constructing [Melee] units [in all cities] <during a Golden Age>"],
 
 		"outerColor": [77, 94, 70],
 		"innerColor": [233, 160, 12],
@@ -114,15 +97,7 @@ Anezka was a fair and just ruler. She established a council of advisors, ensurin
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Purity",
-                "uniqueText": "Anezka´s Oligarchy
-[+2 Science, +2 Culture] [in all cities] when not at war starting from the [Leather era] and [+2 Science] [in capital] when not at war starting from the [Smithy era]
-
-Fascism
-[+3 Production] from every [Academy] and [+1 Production] from every [Mine]
-
-Vegan Party
-[+1 Culture] from every [Ranch] with [1] to [1] neighboring [Jungle] tiles and [+1 Culture] from every [Mine] with [1] to [1] neighboring [Jungle] tiles",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+1 Science] per every [4] [Faith]","[+1 Culture] per every [5] [Faith]"],
 
 		"outerColor": [156, 255, 230],
 		"innerColor": [10, 50, 250],
@@ -155,15 +130,7 @@ Despite the dangers of ARK, Karina insisted on maintaining peace. She believed i
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Forests of Europe",
-                "uniqueText": "Karina´s Republic
-[+2 Culture] from [Forest] tiles [in all cities] and [+1 Culture] from [Jungle] tiles [in all cities] and [+1 Culture] from [Redwoods] tiles [in all cities]
-
-Communist Party
-[+1 Production] from every [Mine] and [+1 Production] from every [Camp] in [Tundra] tiles
-
-Anarchy
-[+2 Food] from every [Camp] in [Tundra] tiles and [+2 Production] from every [Mine] in [Tundra] tiles",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+1 Gold, +2 Production] from [Forest] tiles [in all cities]","[+1 Gold, +2 Production] from [Redwoods] tiles [in all cities]","[+1 Gold, +2 Production] from [Pines] tiles [in all cities]"],
 
 		"outerColor": [230, 209, 156],
 		"innerColor": [66, 48, 35],
@@ -198,15 +165,7 @@ But as Spiras grew, so did its problems. Managing an empire was not as easy as c
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Hopes of a New World",
-                "uniqueText": "Mila´s Fascism
-[+1 Happiness] from [Forest] tiles [in all cities] and [+60]% [Science] [in all cities] and [+40]% [Culture] [in all cities]
-
-Nomad´s Travels
-[2] free [Settler] units appear and [2] free [Bob] units appear
-
-Sailor´s Republic
-[+2 Gold] from [Coast] tiles [in all cities] and [+2 Production] from [Megalodon] tiles [in all cities] and [+2 Production] from [Basilosaurus] tiles [in all cities] and [+2 Production] from [Biotoxin] tiles [in all cities]",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+1 Science, +1 Happiness] from [Forest] tiles [in all cities]","[+1 Science, +1 Happiness] from [Forest] tiles [in capital]","[+1 Science] from [Flood plains] tiles [in capital]"],
 
 		"outerColor": [247, 135, 54],
 		"innerColor": [59, 35, 30],
@@ -240,15 +199,7 @@ With his followers, Mars built the first city, naming it Nova Roma. They establi
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "All Roads lead to Rome",
-                "uniqueText": "Mars´s Speech
-[+2 Gold, +1 Production] from [Beach] tiles [in all cities] and [+1 Gold] from [Coast] tiles [in all cities] and [+4 Culture] <in cities connected to the capital> <starting from the [Smithy era]>
-
-Republic
-[+2 Gold, +2 Food] from [Beach] tiles [in all cities]
-
-Monarchy
-[+1 Gold] per [2] social policies adopted and [+1 Faith] per [1] social policies adopted",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+1 Production, +1 Gold] from [Beach] tiles [in all cities]","[+1 Science] from [Stone] tiles [in all cities]","[+1 Food] from [Eldritch] tiles [in all cities]","[+1 Food] from [Forest] tiles [in all cities]"],
 
 		"outerColor": [225, 48, 36],
 		"innerColor": [252, 215, 128],
@@ -282,15 +233,7 @@ The second trial was a test of wisdom. Elianna was to solve the riddle of the an
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Men of the North",
-                "uniqueText": "Elianna´s Tyranny
-[+1 Gold, +1 Production] from [Coast] tiles [in all cities] and [+1 Production] from [Ocean] tiles [in all cities] and [+1 Production] from [Coast] tiles [in capital]
-
-Anarchy
-[+1] Movement <for [Water] units> and [+10]% Strength <for [Water] units> and No movement cost to pillage <for [All] units> and Earn [50]% of the damage done to [Water] units as [Gold] and Earn [50]% of killed [Military Water] unit's [Strength] as [Gold]
-
-Aristocracy
-[Great Scientist] is earned [50]% faster and [+1 Gold] from every [Ranch] and [+1 Gold] from every [Luxury resource]",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+1 Production] from [Coast] tiles [in all cities]","[+35]% Production when constructing [Fish] units [in all cities]","All newly-trained [Sword] units [in all cities] receive the [Health I] promotion"],
 
 		"outerColor": [73, 115, 128],
 		"innerColor": [225, 245, 244],
@@ -324,16 +267,7 @@ Under Micaela's rule, Kansallisvaltio flourished. She proved to be a strong and 
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Conquest Queen",
-                "uniqueText": "Micaela´s Monarchy
-Upon capturing a city, receive [1] times its [Culture] production as [Culture] immediately and Upon capturing a city, receive [1] times its [Science] production as [Science] immediately
-
-Libertarian
-[+2 Culture] from every [Luxury resource] and [+1 Culture] from every [Ark Monument]
-
-Piracy
-[+1 Gold, +1 Production] from all [Food] buildings and [+1 Gold] from every [Ark Monument]",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
-
+"uniques": ["[+2 Faith, +1 Culture] from [Tundra] tiles without [Ranch] [in all cities]","[+1 Faith] from every [Camp]"],
 		"outerColor": [135, 161, 160],
 		"innerColor": [20, 48, 47],
 		"cities": ["Deer Skull","Arat","Prime",
@@ -364,15 +298,7 @@ Evolet stood atop the highest peak, gazing at the three Obelisks. She felt their
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Nationalism",
-                "uniqueText": "Evolet´s Cosmoverse
-[-50]% Culture cost of adopting new Policies and [+40]% Production when constructing [Science] buildings [in all cities]
-
-Socialism
-[+1 Food, +1 Production] from [Camp] tiles [in all cities] and [+1 Production] from [Camp] tiles [in capital]
-
-Fascism
-[+2 Culture] from [Ranch] tiles [in capital]",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+50]% Production when constructing [Science] buildings [in all cities]","[+10]% Production when constructing [Gunpowder] units [in all cities]"],
 
 		"outerColor": [183, 159, 245],
 		"innerColor": [35, 0, 48],
@@ -403,15 +329,7 @@ The Ascension Trials, Whispers spoke of an Overseer’s final test, the Ascensio
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Romanticism",
-                "uniqueText": "Camila´s Democracy
-[+30]% Production when constructing [Water] units [in all cities] and [+55]% Production when constructing [Sword] units [in all cities] and [+25]% Strength <when fighting in [Friendly Land] tiles> <before the [Smithy era]>
-
-Militarism
-[+55]% Production when constructing [Sword] units [in all cities] and [+44]% Production when constructing [Gunpowder] units [in all cities]
-
-Peace
-Enables Defensive Pacts and Enables Open Borders agreements and [+30]% Strength for cities",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["Enables Open Borders agreements","Enables Research agreements","Enables Defensive Pacts","When declaring friendship, both parties gain a [+35]% boost to great person generation"],
 
 		"outerColor": [245, 240, 247],
 		"innerColor": [242, 14, 2],
@@ -441,15 +359,7 @@ Enables Defensive Pacts and Enables Open Borders agreements and [+30]% Strength 
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Codes of Moral",
-                "uniqueText": "Pilamayquen´s Militarism
-[+2 Culture, +1 Faith] in cities on [Jungle] tiles and [+2 Food, +1 Production] in cities on [Plains] tiles
-
-Native Representant
-[+2 Culture] in cities on [Forest] tiles and [+2 Food] in cities on [Tundra] tiles
-
-Democracy
-[+2 Culture] in cities on [Beach] tiles and [+1 Science] in cities on [Beach] tiles",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+20]% Strength for cities","[+3 Gold, +3 Culture] for every known Natural Wonder"],
 
 		"outerColor": [212, 237, 154],
 		"innerColor": [40, 46, 26],
@@ -481,15 +391,7 @@ Their enmity escalated. Pilamayquen’s armies encroached upon the jungle, felli
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Big Amazonia",
-                "uniqueText": "Sofia´s Constitutional Monarchy
-[+1 Culture] from every specialist [in all cities] and [+2 Culture] per [2] social policies adopted and [+2 Culture] in cities on [Fresh Water] tiles
-
-Theocracy
-[+2 Faith] [in all cities] and [+3 Faith] [in capital]
-
-Federacy
-Enables conversion of city production to [Culture] and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Leather era]> and Production to [Culture] conversion in cities changed by [+25]% <starting from the [Smithy era]>",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+1 Gold, +1 Culture] from every specialist [in all cities]","[+2 Production] from every [Jungle]","[+2 Production] from every [Tumash Temple]"],
 
 		"outerColor": [245, 37, 113],
 		"innerColor": [66, 6, 28],
@@ -521,15 +423,7 @@ And so, Alessandra ruled, the woman who had ascended from the streets to the sta
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Survival of the Fittest",
-                "uniqueText": "Alessandra´s Oligarchy
-[-25]% [Science] [in all cities] and [+25]% [Culture] [in all cities] and [+1 Science] per [2] social policies adopted
-
-Tirany
-[+30]% [Science] [in all cities] and [+20]% [Culture] [in all cities] and [-20]% [Happiness] [in all cities]
-
-Socialism
-Double quantity of [Metal] produced and Double quantity of [Biotoxin] produced and [+15]% Strength for cities",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["Double quantity of [Metal] produced","[+2 Production] from every [Metal]","[+1 Gold] from every [Metal]"],
 
 		"outerColor": [31, 56, 46],
 		"innerColor": [138, 255, 208],
@@ -559,15 +453,7 @@ Double quantity of [Metal] produced and Double quantity of [Biotoxin] produced a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "For God and the Queen",
-                "uniqueText": "Theodora´s Monarchy
-[+20]% Strength for cities and [+1 Culture, +1 Food] in cities on [Beach] tiles
-
-Aristocracy
-[+25]% [Culture] [in all cities] and [+3 Culture] in cities on [Beach] tiles
-
-Fascism
-[+1 Production] from every specialist [in all cities] and [+2 Production] from every specialist [in capital]",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["Double quantity of [Biotoxin] produced","[+2 Culture] from every [Moai]","[+1 Faith] from every [Moai]"],
 
 		"outerColor": [245, 230, 66],
 		"innerColor": [28, 28, 25],
@@ -599,15 +485,7 @@ In the final showdown, Quetzal ascended the tallest ziggurat, wings ablaze with 
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Feathered Snake",
-                "uniqueText": "Quetzal´s Empire
-[+2 Science, +1 Faith] from every [Tumash Temple]
-
-Democracy
-[+1 Culture, +2 Faith] in cities on [Fresh Water] tiles and [+1 Gold, +2 Culture] in cities on [Jungle] tiles
-
-Anarchy
-May buy items in puppet cities and Cities are razed [3] times as fast and No movement cost to pillage",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["[+2 Culture] from every [Tumash Temple] <during a Golden Age>","[+2 Science] from every [Tumash Temple] <during a Golden Age>"],
 
 		"outerColor": [90, 245, 66],
 		"innerColor": [24, 51, 14],
@@ -637,15 +515,7 @@ May buy items in puppet cities and Cities are razed [3] times as fast and No mov
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "The New Nation",
-                "uniqueText": "Irma´s Fascism
-[+1 Science] from every [Ranch] <starting from the [Electric era]>
-
-Monarchy
-[+2 Culture] from every [Ragnarok Temple] <starting from the [Electric era]>
-
-Federacy
-[+1 Culture] from every [Bounus resource]",
-                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+"uniques": ["Gain [20] [Science] <upon building a [Ranch] improvement>"],
 
 		"outerColor": [15, 15, 15],
 		"innerColor": [255, 41, 41],
@@ -675,14 +545,7 @@ Federacy
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "The Cave Empire",
-                "uniqueText": "Carlz´s Empire
-New [Sword] units start with [10] Experience [in all cities] and [+50]% Golden Age length and [+10]% Strength decreasing with distance from the capital
-
-Federacy
-New [Sauropodomorpha] units start with [35] Experience [in all cities]
-
-Libertarian
-New [Theropoda] units start with [25] Experience [in all cities] and [+50]% Strength decreasing with distance from the capital",
+"uniques": ["Gain [25] [Faith] <upon building a [Camp] improvement>","Gain [5] [Faith] <upon building a [Moai] improvement>","Gain [10] [Faith] <upon building a [Tumash Temple] improvement>"],
 		"outerColor": [215, 230, 60],
 		"innerColor": [22, 48, 30],
 		"cities": ["Yellow Cloud","Arat","Prime",
@@ -711,14 +574,7 @@ New [Theropoda] units start with [25] Experience [in all cities] and [+50]% Stre
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Shores of Faith and Wisdom",
-                "uniqueText": "Happa´s Communialism
-[+2 Production] from every [Luxury resource]
-
-Communism
-[+2 Food, +1 Culture] in cities on [Beach] tiles and [+2 Food, +2 Culture] in cities on [Snowy Beach] tiles
-
-Nomadism
-New [Water] units start with [10] Experience [in all cities] and No movement cost to pillage",
+"uniques": ["[+1 Science] [in all cities]","[+2 Faith, +2 Science] in cities on [Beach] tiles","[+2 Faith, +2 Science] in cities on [Snowy Beach] tiles"],
 		"outerColor": [19, 63, 94],
 		"innerColor": [71, 177, 252],
 		"cities": ["Manaism Voyage","Arat","Prime",
@@ -748,14 +604,7 @@ As whispers spread of a hidden ARK sanctuary—a place untouched by the chaos—
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Trivial Concerns",
-                "uniqueText": "Margaret´s Anarchy
-[+2 Production] from every [Ranch] with [1] to [6] neighboring [Tundra] tiles and [+1 Food] from every [Ranch] with [1] to [6] neighboring [Forest] tiles
-
-Corporalism
-[+2 Science] from every [Ranch] with [1] to [6] neighboring [Snow] tiles 
-
-Theocracy
-[+3 Faith] from every [Trading post]",
+"uniques": ["[+1 Gold] [in all cities]","[+2 Gold, +2 Culture] from every [Trading post]"],
 		"outerColor": [29, 30, 59],
 		"innerColor": [255, 212, 249],
 		"cities": ["Greenland","Arat","Prime",
@@ -787,14 +636,7 @@ Ivar’s closest companion was Nadia, a fierce warrior with a scar across her le
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Ancient People´s Cold Hearts",
-                "uniqueText": "Ivar´s Empire
-[+2 Production] from all [Production] buildings
-
-Nadia´s Communism
-[+1 Gold, +2 Culture] from all [Science] buildings
-
-Democracy
-[+2 Faith] from all [Food] buildings",
+"uniques": ["[+1 Food] [in all cities]","[+1 Gold, +1 Food] from every [Farm]","[+1 Gold, +1 Food] from every [Terraces]"],
 		"outerColor": [72, 66, 245],
 		"innerColor": [214, 212, 250],
 		"cities": ["Big Hammer","Arat","Prime",
@@ -831,11 +673,7 @@ In the end, Smith stood victorious. The Firebrand Cult disbanded, and the Counci
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Honor or Death",
-                "uniqueText": "Smith´s Empire
-[+1 Science] from every [Mine] starting from the [Smithy era] and [+1 Science] from every [Mine] starting from the [Electric era] and [+1 Production] from every [Ranch] starting from the [Tek era]
-
-Voss´s Corruption
-[+2 Culture] from every [Mine] starting from the [Smithy era]",
+"uniques": ["[+10]% [Science] <upon entering a new era>","[+3]% [Production] <upon entering a new era>"],
 		"outerColor": [255, 44, 20],
 		"innerColor": [18, 9, 8],
 		"cities": ["Union Sword","Arat","Prime",
@@ -870,14 +708,7 @@ As the months passed, the Steampunkers awaited her return. They patched up the z
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Machinery",
-                "uniqueText": "Daria´s Royalty
-[+2 Production] from every [Foundry] and [+2 Culture] from every [Foundry] and [-3 Gold] from every [Foundry]
-
-Miguel´s Fascism
-[+1 Production] from every [Hill] and [+1 Gold] from every [Hill] starting from the [Smithy era] and [+1 Production] from every [Mine] starting from the [Electric era]
-
-Fabian´s Democracy
-[+1 Science] from all [Food] buildings starting from the [Electric era]",
+"uniques": ["Provides [1] [Tek]","[+7]% [Production] <upon entering a new era>","All newly-trained [Gunpowder] units [in all cities] receive the [Steampunker] promotion"],
 		"outerColor": [46, 21, 4],
 		"innerColor": [247, 178, 67],
 		"cities": ["Cogsworth","Arat","Prime",
@@ -909,14 +740,7 @@ Hafsa spent months laboring over the forge, hammering molten steel into intricat
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Holy Site",
-                "uniqueText": "Amelia´s Teocracy
-[+2 Culture] from every [Mosque] and [+3 Faith] from every [Mosque]
-
-Tyranny
-[+2 Gold] from every [Plantation]
-
-Monarchy
-[2] free [Carno Rider] units appear starting from the [Smithy era]",
+"uniques": ["[+1 Gold, +1 Production] per every [3] [Faith]","[+1 Culture, +1 Science] per every [6] [Faith]"],
 		"outerColor": [63, 89, 63],
 		"innerColor": [153, 224, 153],
 		"cities": ["Qawium","Arat","Prime",
@@ -949,11 +773,7 @@ From that day forth, the Titanforge Empire forged a new path—a delicate balanc
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Balance or Death",
-                "uniqueText": "General E´s Anarchy
-Cannot build [Gunpowder] units and [+60]% Strength for cities and [+50]% Strength decreasing with distance from the capital
-
-General E´s Monarchy
-[+1 Gold, +2 Faith] per every [3] [Science] and [+1 Production] per every [6] [Gold]",
+"uniques": ["[+2 Science] in cities on [Jungle] tiles","[+2 Gold, +2 Production] in cities on [Plains] tiles"],
 		"outerColor": [149, 217, 230],
 		"innerColor": [27, 33, 56],
 		"cities": ["Forewell","Arat","Prime",
@@ -983,14 +803,7 @@ Despite her growing power, Spipaku Mama faced constant threats. Rival tribes sou
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Argentavis´s Nest",
-                "uniqueText": "Spipaku Mama´s Heliolatry
-[+1 Faith] from every [Hill] and [+1 Faith] from every [Luxury Resource] and [+10]% Strength when fighting in [Hill] tiles
-
-Monarchy
-[+2 Gold] from every [Mountain] and [+2 Faith] from every [Hill] and [+10]% Strength when fighting in [Aberrant Pink Zone] tiles
-
-Fascism
-[+2 Science] from every [Volcano] and [+1 Gold] from every [Desert] and [+5]% Strength when fighting in [Desert] tiles",
+"uniques": ["[+3 Food, +3 Production] in cities on [Hill] tiles","[+2 Food, +1 Production] in cities on [Montano] tiles","[+1 Food] in cities on [Plains] tiles"],
 		"outerColor": [92, 89, 66],
 		"innerColor": [237, 223, 116],
 		"cities": ["Quechua","Arat","Prime",
@@ -1023,14 +836,7 @@ Recognizing the futility of their conflict and the potential for mutual benefit,
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Bull´s Plaza",
-                "uniqueText": "Amalia´s Monarchy
-[+50]% [Science] during a Golden Age
-
-Republic
-[+35]% [Science] in cities with a [Wonder]
-
-Communism
-[+50]% [Production] during the [Leather era]",
+"uniques": ["[+2 Gold, +3 Production] per [3] social policies adopted <before the [Electric era]>","[+1 Gold, +1 Production] per [3] social policies adopted <starting from the [Electric era]>"],
 		"outerColor": [130, 62, 47],
 		"innerColor": [255, 186, 117],
 		"cities": ["Plaza Primera","Arat","Prime",
@@ -1061,14 +867,7 @@ Realizing that constant conflict would only lead to mutual destruction, Northen 
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Spiritual Plain´s Horsemen",
-                "uniqueText": "Northen´s Communialism
-[+1 Culture] from every [Plains] and [+1 Culture] from every [Mountain]
-
-Tribalism
-[+2 Culture] from every [Forest] and [1] free [Senior Sergeant] units appear
-
-Colonialism
-[+1 Culture] from every [Aberrant Blue Zone] and [+1 Culture] from every [Aberrant Pink Zone]",
+"uniques": ["[+40]% Great Person generation [in all cities]"],
 		"outerColor": [56, 36, 0],
 		"innerColor": [237, 211, 164],
 		"cities": ["Horse Head","Arat","Prime",
@@ -1103,14 +902,7 @@ Alhemin’s journey was far from over, but he had carved out a place for himself
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "The Fruits of our Forests",
-                "uniqueText": "Alehim´s Socialism
-[+2 Gold, +2 Production] from [Hill] tiles [in all cities] starting from the [Smithy era]
-
-Democracy
-Gain a free [Regular Lands] [in all cities] starting from the [Smithy era] and [+1 Gold, +2 Production] from [Forest] tiles [in all cities]
-
-Libertarian
-[+1 Gold, +2 Production] from [Aberrant Green Zone] tiles [in all cities] and [+1 Gold, +2 Production] from [Fungic Wood] tiles [in all cities]",
+"uniques": ["[+1 Gold, +2 Production] from [Carpentry Area] tiles [in all cities]","[+1 Gold, +2 Production] from [Lake House] tiles [in all cities]","[+1 Gold, +2 Culture] from [Forest] tiles [in all cities]","[+1 Gold, +2 Production] from [Aberrant Green Zone] tiles [in all cities]"],
 		"outerColor": [42, 54, 44],
 		"innerColor": [211, 245, 229],
 		"cities": ["Fungic Trees","Arat","Prime",
@@ -1144,14 +936,7 @@ Basil’s journey was fraught with peril. He crafted a Hazard Suit to protect hi
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Vicotry isn´t measured by War",
-                "uniqueText": "Basil´s Pacifism
-Double quantity of [Basilosaurus] produced and [+25]% [Science] during a Golden Age and [+35]% [Culture] during a Golden Age
-
-Ecology
-[+2 Gold, +1 Production] from [Twilight Forest] tiles [in all cities] and [+1 Science, +1 Faith] from [Forest] tiles [in all cities]
-
-Monarchy
-[+3 Gold, +3 Faith] from [Mountain] tiles [in all cities]",
+"uniques": ["[+1 Culture] from [Jungle] tiles [in all cities] <upon entering a new era>"],
 		"outerColor": [82, 99, 74],
 		"innerColor": [232, 155, 0],
 		"cities": ["Bambolord Polonia","Arat","Prime",
@@ -1188,14 +973,7 @@ Their combined efforts brought them closer to their ultimate goal: defeating the
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Design",
-                "uniqueText": "Siezna´s Monarchy
-May capture killed [Wounded] units during a Golden Age and [+15]% XP gained from combat during a Golden Age
-
-Fascism
-Empire enters a [25]-turn Golden Age starting from the [Leather era], [Smithy era], [Electric era] and [Tek era]
-
-Cosmoverse
-[+2 Gold] per [3] population [in all cities] and [+1 Culture] per [2] population [in capital]",
+"uniques": ["[+1 Gold, +2 Culture] from all [Production] buildings"],
 		"outerColor": [74, 6, 1],
 		"innerColor": [255, 226, 224],
 		"cities": ["Cathedral","Arat","Prime",
@@ -1230,14 +1008,7 @@ Their ultimate goal was to defeat the Ark’s Masters, the powerful beings who c
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Achaemenid Legacy",
-                "uniqueText": "Qaisar´s Monarchy
-City-State territory always counts as friendly territory during a Golden Age and [+50]% City Strength from defensive buildings during a Golden Age
-
-Communism
-Earn [20]% of killed [Wounded] unit's [Cost] as [Culture] and Earn [80]% of killed [Wounded] unit's [Cost] as [Culture] starting from the [Smithy era] and Earn [33]% of killed [Wounded] unit's [Cost] as [Culture] starting from the [Tek era]
-
-Theocracy
-[+50]% [Faith] [in all cities] during a Golden Age",
+"uniques": ["[+3 Culture, +3 Faith] from all [Wonder] buildings"],
 		"outerColor": [47, 82, 117],
 		"innerColor": [255, 214, 153],
 		"cities": ["Mighty Power","Arat","Prime",
@@ -1268,18 +1039,7 @@ Crossing the mountains, Nlangu arrived at the arid deserts of the island. The ex
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Governments",
-                "uniques": ["Gain a free [Makaya Elections] [in all cities] <hidden from users>"],
-                "uniqueText": "
-This Civilization can pick a type of government on every city it founds.
-
-Mbanza
-[+1 Culture] from [Ranch] tiles [in this city]
-
-Muti
-[+40]% Production when constructing [Melee] units [in this city] and [+1 Culture] from [River] tiles [in this city]
-
-Lupaangu
-[+1 Gold, +2 Production] from [Coast] tiles [in this city] and [+2 Gold, +1 Production] from [River] tiles [in this city]",
+"uniques": ["[+1 Culture, +2 Production] from all [Ark Monument] buildings","[+2 Gold] from all [Farm] buildings","[+3 Culture] from all [Great Amphitheater] buildings"],
 		"outerColor": [125, 255, 173],
 		"innerColor": [46, 48, 43],
 		"cities": ["River Craddle","Arat","Prime",
@@ -1314,15 +1074,7 @@ Colorado’s journey was far from over, but with Storm by his side, he felt read
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Rich Soil",
-                "uniqueText": "
-Colorado´s Democracy
-[+1 Culture, +1 Faith] per [2] social policies adopted
-
-Communism
-[+2 Production] from [Ranch] tiles [in this city] during a Golden Age
-
-Colonialism
-[+40]% [Production] [in all cities] on foreign continents and [+20]% [Production] [in all cities] on foreign continents during a Golden Age",
+"uniques": ["[+2 Gold, +2 Production] from each Trade Route","[+1 Culture, +1 Faith] from each Trade Route <during a Golden Age>"],
 		"outerColor": [213, 237, 247],
 		"innerColor": [21, 26, 28],
 		"cities": ["Faith Ranch","Arat","Prime",
@@ -1369,15 +1121,7 @@ And vanished in the night, like a star’s final show.",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Mind Control",
-                "uniqueText": "
-Disco Woman´s Leeches
-May capture killed [Barbarian] units
-
-Disco Woman´s Arsenal
-[3] free [Acrocanthosaurus Rider] units appear starting from the [Smithy era] and [+25]% [Production] [in all cities]
-
-Disco Woman´s Nature
-[+33]% [Food] [in all cities] during a Golden Age",
+				"uniques": ["Free [Great Scientist] appears <upon discovering [Bow and Arrow] technology>", "[Great Scientist] is earned [30]% faster"],
 		"outerColor": [15, 30, 64],
 		"innerColor": [153, 240, 255],
 		"cities": ["Disco!","Arat","Prime",
@@ -1424,15 +1168,7 @@ Disco Woman´s Nature
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Honour Parade",
-                "uniqueText": "
-Khuchi´s Shamanism
-[+2 Culture] [in all cities] <before discovering [Fabricator]> and [+1 Culture] [in capital] <before discovering [Fabricator]>
-
-Democracy
-[Great Scientist] is earned [70]% faster
-
-Communism
-[+1 Production] from every [Strategic resource] and Double quantity of [Allosaurus] produced",
+                "uniques": ["[Great Merchant] is earned [30]% faster","[Great Engineer] is earned [30]% faster"],
 		"outerColor": [67, 77, 94],
 		"innerColor": [92, 152, 255],
 		"cities": ["Discordia","Arat","Prime",
@@ -1461,15 +1197,7 @@ Communism
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Galactica",
-                "uniqueText": "
-Anesthesia´s Populism
-When conquering an encampment, earn [250] Gold and recruit a Barbarian unit <with [90]% chance>
-
-Theocracy
-[-60]% Gold cost of acquiring tiles [in all cities] and [-20]% Gold cost of acquiring tiles [in capital]
-
-God of War Legacy
-[+50]% Strength for [Sword] units during a Golden Age",
+                "uniques": ["[+23]% Production when constructing [All] wonders [in all cities]"],
 		"outerColor": [255, 120, 199],
 		"innerColor": [43, 31, 61],
 		"cities": ["Onion Rings","Arat","Prime",
@@ -1498,15 +1226,7 @@ God of War Legacy
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Prophecy over all Men´s Beasts",
-                "uniqueText": "
-Julius´s Republica
-Military Units gifted from City-States start with [+15] XP and Military Units gifted from City-States start with [+25] XP during a Golden Age
-
-Mars´s speech
-[+70]% Strength vs [City-States]
-
-Rome´s Consuil
-[+100]% Yield from every [Luxury resource]",
+                "uniques": ["[+100]% Yield from every [Luxury resource]"],
 		"outerColor": [182, 51, 58],
 		"innerColor": [34, 0, 27],
 		"cities": ["Capitalia Order","Arat","Prime",
@@ -1535,15 +1255,7 @@ Rome´s Consuil
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "History Repeates Itself",
-                "uniqueText": "
-Gaby´s Tyranny
-[+2 Science] for every known Natural Wonder
-
-Freedom
-Allied City-States will occasionally gift Great People and Allied City-States provide [Happiness] equal to [+35]% of what they produce for themselves
-
-Anarchy
-Cannot build [Theropoda] units and [+70]% Strength for [Mammal] units during a Golden Age and [+50]% Strength for [Testudines] units",
+                "uniques": ["[+1 Production] from every [Strategic resource]","[+1 Production] from every [Fiber]","Double quantity of [Fiber] produced"],
 		"outerColor": [34, 38, 36],
 		"innerColor": [52, 235, 149],
 		"cities": ["Ghutawium","Arat","Prime",
@@ -1576,29 +1288,7 @@ Years pass, and Candela’s efforts transform the coastal regions of Ragnarok in
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Sea City",
-                "uniqueText": "This Civilization can pick two government types
-
-First Uniques
-
-Democracy
-[-10]% Culture cost of natural border growth [in all cities]
-
-Racism
-May buy [Sword] units with [Faith] for [2] times their normal Production cost
-
-Populism
-[+1 Culture] per [4] population [in all cities]
-
-Second Uniques
-
-Economy Focus
-[+2 Gold] from [Coral Zone] tiles [in all cities] and [+1 Gold] from [Coast] tiles [in all cities] starting from the [Electric era]
-
-Cultural Focus
-[+2 Culture] from [Coral Zone] tiles [in all cities] and [+1 Culture] from [Coast] tiles [in all cities] starting from the [Electric era]
-
-Faith Focus
-[+2 Faith] from [Coral Zone] tiles [in all cities] and [+1 Faith] from [Coast] tiles [in all cities] starting from the [Electric era]",
+                "uniques": ["[+1 Gold, +2 Production] from [Coast] tiles [in all cities]","[+3 Culture] from [Coral Zone] tiles [in all cities]"],
 		"outerColor": [126, 134, 207],
 		"innerColor": [11, 11, 18],
 		"cities": ["Record Reef","Arat","Prime",
@@ -1631,14 +1321,7 @@ One fateful twilight, Clara stumbled upon the lions of Midgard. Their golden eye
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Land of Felines",
-                "uniqueText": "Democracy
-[+1 Production] per [2] social policies adopted
-
-Libertarian
-[+1 Gold] per every [3] [Science]
-
-Communism
-[+1 Culture] per [4] population [in all cities]",
+                "uniques": ["[+1 Culture] per [4] population [in all cities]"],
 		"outerColor": [211, 57, 46],
 		"innerColor": [227, 209, 191],
 		"cities": ["Charnia","Arat","Prime",
@@ -1671,14 +1354,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "The Real Deal",
-                "uniques": ["[-50]% construction time for [All] improvements"],
-                "uniqueText": "[-50]% construction time for [All] improvements
-
-Fascism
-Double quantity of [Fruit] produced and Double quantity of [Rock Drake Egg] produced and Double quantity of [Aquatic Mushroom] produced and Earn [35]% of killed [Wounded] unit's [Cost] as [Gold] and Earn [35]% of killed [Wounded] unit's [Cost] as [Culture]
-
-Democracy
-[-20]% Culture cost of adopting new Policies and [-20]% Gold cost of acquiring tiles [in all cities]",
+                "uniques": ["[-50]% construction time for [All] improvements","Double quantity of [Fruit] produced","Double quantity of [Rock Drake Egg] produced"],
 		"outerColor": [255, 64, 64],
 		"innerColor": [40, 30, 74],
 		"cities": ["Cool Rock","Arat","Prime",
@@ -1707,16 +1383,7 @@ Democracy
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Parties",
-                "uniqueText": "
-Capitalism
-[+3 Gold, +1 Faith] from [Ragnarok Temple] tiles [in all cities]
-
-Fascism
-[+1 Gold, +2 Production] from [Tundra] tiles [in all cities]
-
-Democracy
-[+1 Faith, +1 Science] from [Tumash Temple] tiles [in all cities]
-",
+                "uniques": ["[+3 Gold, +1 Faith] from [Ragnarok Temple] tiles [in all cities]"],
 		"outerColor": [245, 219, 239],
 		"innerColor": [234, 69, 9],
 		"cities": ["Montano´s Hut","Arat","Prime",
@@ -1745,16 +1412,7 @@ Democracy
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Coconut Survivors",
-                "uniqueText": "
-Libertarian
-[+2 Science, +2 Production] from all [Science] buildings starting from the [Electric era]
-
-Democracy
-[+2 Gold, +1 Production] from all [Gold] buildings
-
-Corporalism
-[+30]% Production when constructing [Land] units [in capital]
-",
+                "uniques": ["No damage penalty for wounded units <for [non-[Air]] units>"],
 		"outerColor": [145, 194, 130],
 		"innerColor": [54, 30, 0],
 		"cities": ["Land of Koalas","Arat","Prime",
@@ -1783,16 +1441,7 @@ Corporalism
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Order and Education",
-                "uniqueText": "
-Capitalism
-[-69]% [Science] [in all cities] and [2] free random researchable Tech(s) from the [Ancient era] and [3] free random researchable Tech(s) from the [Leather era] and [3] free random researchable Tech(s) from the [Smithy era] and [2] free random researchable Tech(s) from the [Electric era] and [1] free random researchable Tech(s) from the [Tek era]
-
-Communism
-[+1 Science] from [Coast] tiles [in capital]
-
-Fascism
-[+35]% [Gold] [in all cities] and [+45]% [Gold] [in capital]
-",
+                "uniques": ["[-69]% [Science] [in all cities]","[2] free random researchable Tech(s) from the [Ancient era]","[3] free random researchable Tech(s) from the [Leather era]","[3] free random researchable Tech(s) from the [Smithy era]","[2] free random researchable Tech(s) from the [Electric era]","[1] free random researchable Tech(s) from the [Tek era]"],
 		"outerColor": [233, 174, 156],
 		"innerColor": [198, 2, 0],
 		"cities": ["Minami","Arat","Prime",
@@ -1821,16 +1470,7 @@ Fascism
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Order and Education",
-                "uniqueText": "
-Tribalism
-[+1 Faith, +1 Science] from every [Tumash Temple]
-
-Communialism
-[+2 Food, +2 Gold] from all [Ark Monument] buildings
-
-Collectivism
-[+1 Culture, +2 Production] per [3] social policies adopted
-",
+                "uniques": ["[+1 Culture, +2 Production] per [3] social policies adopted"],
 		"outerColor": [123, 133, 181],
 		"innerColor": [26, 31, 56],
 		"cities": ["Lion Rock","Arat","Prime",
@@ -1859,16 +1499,7 @@ Collectivism
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Poison Mistress",
-                "uniqueText": "
-Democracy
-Provides [5] [Scales] and Provides [4] [Leather]
-
-Colonialism
-[+2 Food,+1 Production,+1 Faith, +2 Gold] from all [Wonder] buildings
-
-Raj
-Provides [6] [Fruit]
-",
+                "uniques": ["[-100]% maintenance costs <for [Ophidia] units>","[-100]% maintenance costs <for [Spinosauridae] units>","[-30]% maintenance costs <for [Amphibious] units>"],
 		"outerColor": [197, 235, 174],
 		"innerColor": [36, 43, 32],
 		"cities": ["Hazelia","Arat","Prime",
@@ -1898,13 +1529,7 @@ Provides [6] [Fruit]
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "I´m Friend",
-                "uniqueText": "
-Buggy
-[-20]% growth [in all cities] and [-40]% Food consumption by specialists [in all cities]
-
-Basic
-Provides [1] [Metal] and [-35]% unhappiness from the number of cities
-",
+                "uniques": ["Provides [1] [Metal]","-35]% unhappiness from the number of cities"],
 		"outerColor": [179, 214, 255],
 		"innerColor": [41, 41, 41],
 		"cities": ["Yanks","Arat","Prime",
@@ -1962,16 +1587,7 @@ Provides [1] [Metal] and [-35]% unhappiness from the number of cities
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Wathever",
-                "uniqueText": "
-Fascism
-[+1 Gold, +1 Culture] per [3] population [in all cities]
-
-Democracy
-[Gold] cost of purchasing [Culture] buildings [-70]%
-
-Socialism
-When defeating a [Amphibious] unit, earn [50] Gold and recruit it
-",
+                "uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]"],
 		"outerColor": [20, 20, 20],
 		"innerColor": [245, 147, 66],
 		"cities": ["Dark Tower","Arat","Prime",
@@ -2000,16 +1616,7 @@ When defeating a [Amphibious] unit, earn [50] Gold and recruit it
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Varanus Dreams",
-                "uniqueText": "
-Anarchy
-[+30]% of excess happiness converted to [Science] and Enables conversion of city production to [Science]
-
-Libertarian
-[+40]% Great Person generation [in all cities]
-
-Communism
-Enemy [Wounded] units must spend [1] extra movement points when inside your territory and Double quantity of [Biotoxin] produced
-",
+                "uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory","Double quantity of [Biotoxin] produced"],
 		"outerColor": [222, 52, 235],
 		"innerColor": [43, 16, 31],
 		"cities": ["Aurora","Arat","Prime",
