@@ -97,7 +97,7 @@ Anezka was a fair and just ruler. She established a council of advisors, ensurin
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Purity",
-"uniques": ["[+1 Science] per every [4] [Faith]","[+1 Culture] per every [5] [Faith]"],
+"uniques": ["[+1 Science] from all [Culture] buildings","[+1 Culture] from all [Science] buildings"],
 
 		"outerColor": [156, 255, 230],
 		"innerColor": [10, 50, 250],
@@ -740,7 +740,7 @@ Hafsa spent months laboring over the forge, hammering molten steel into intricat
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Holy Site",
-"uniques": ["[+1 Gold, +1 Production] per every [3] [Faith]","[+1 Culture, +1 Science] per every [6] [Faith]"],
+"uniques": ["[+1 Faith, +1 Culture] from all [Faith] buildings"],
 		"outerColor": [63, 89, 63],
 		"innerColor": [153, 224, 153],
 		"cities": ["Qawium","Arat","Prime",

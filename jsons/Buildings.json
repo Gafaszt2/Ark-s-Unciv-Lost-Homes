@@ -105,7 +105,7 @@
 		"name": "Democratic Socialism",
 		"isNationalWonder":true,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Happiness, +1 Culture] per every [5] [Science]","[+1 Culture] per every [4] [Faith]",
+		"uniques": ["[+1 Science] from all [Production] buildings",
 
 			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
 	},
