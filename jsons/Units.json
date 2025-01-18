@@ -1,5 +1,50 @@
 [
 	{
+		"name": "Erster Panzer",
+		"uniqueTo": "Niemandsland",
+        "upgradesTo": "4RK MHJ",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 200,
+		"cost": 300,
+		"requiredTech": "Assault Riffle",
+        "obsoleteTech": "Aberration Boss",
+		"uniques": ["[+50]% Strength <vs [Gunpowder] units>","Consumes [2] [Metal]","Consumes [2] [Oil]"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Mononykus",
+		"uniqueTo": "Nazocari",
+		"replaces": "Raptor Rider",
+		"unitType": "Theropoda",
+		"movement": 3,
+		"strength": 17,
+		"cost": 75,
+		"requiredTech": "Slingshot",
+                "upgradesTo": "Kapro Rider",
+                "promotions": ["Cretaceous","Health I","Fortitude I"],
+                "obsoleteTech": "Professional Domestication",
+		"uniques": ["[+5]% Strength <vs [Insect] units>","Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "raptor"
+	},
+	{
+		"name": "Alvarezsaurus",
+		"uniqueTo": "Condesa",
+		"replaces": "Kapro Rider",
+		"unitType": "Theropoda",
+		"movement": 3,
+		"strength": 20,
+		"cost": 70,
+		"requiredTech": "Professional Domestication",
+                "upgradesTo": "Stego Rider",
+                "promotions": ["Cretaceous","Imperator"],
+                "obsoleteTech": "Tranq Arrow",
+		"uniques": ["Can move after attacking","[+10]% Strength <when fighting in [Forest] tiles>"],
+		"hurryCostModifier": 20,
+		"attackSound": "raptor"
+	},
+	{
 		"name": "Orcinus Orca",
 		"uniqueTo": "Glacia",
 		"replaces": "Zygophyseter Rider",
@@ -27,7 +72,7 @@
                 "upgradesTo": "Crossbow Survivor",
                 "obsoleteTech": "Crossbow",
                 "requiredResource": "Thatch",
-                "uniques": ["[+30]% Strength <when fighting in [Snow] tiles>","[+10]% Strength <when fighting in [Tundra] tiles>"],
+                "uniques": ["[+30]% Strength <when fighting in [Snow] tiles>","[+10]% Strength <when fighting in [Tundra] tiles>"]
         },
 	{
 		"name": "Koreanosaurus",

@@ -1,4 +1,22 @@
 [
+	{
+		"name": "Bamboo Bar",
+		"uniqueTo": "Nazocari",
+		"food": 1,
+		"culture": 1,
+		"terrainsCanBeBuiltOn": ["Marsh","Lakes","Natural Lake","Swamp Zone"],
+		"turnsToBuild": 3,
+		"uniques": ["Provides [2] [Reeds]"],
+        "techRequired": "Agriculture"
+	},
+	{
+		"name": "Anexo",
+		"uniqueTo": "Condesa",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 3,
+		"uniques": ["Costs [3] [Gold] per turn","Gives a defensive bonus of [5]%","Provides [2] [Scales]","Provides [2] [Leather]","Provides [2] [Reeds]"],
+        "techRequired": "Agriculture"
+	},
         {
 		"name": "Teepee",
                 "replaces": "Ranch",

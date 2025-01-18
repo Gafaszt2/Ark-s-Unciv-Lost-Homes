@@ -1519,7 +1519,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "I´m Friend",
-                "uniques": ["Provides [1] [Metal]","-35]% unhappiness from the number of cities"],
+                "uniques": ["Provides [1] [Metal]","[-35]% unhappiness from the number of cities"],
 		"outerColor": [179, 214, 255],
 		"innerColor": [41, 41, 41],
 		"cities": ["Yanks","Arat","Prime",
@@ -1718,4 +1718,96 @@ King Julian, a master tactician, sought to expand his territory further south, e
 	"spyNames": ["Sir Charles"]
 },
 
+/// Latin Americas
+
+{
+	"name": "Nazocari",
+	"leaderName": "Merlina",
+	"adjective": ["Nazocari"],
+	"startBias": ["Jungle","Plains"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "In the swampy, bamboo-filled depths of Aberration, Merlina thrived. Her ancestors, influenced by ancient Asian civilizations, had recreated a prehistoric society deep within the thickets. Skilled in martial arts and proficient with primitive tools, Merlina was the community's warrior and protector. She was adept at navigating the perilous swamps, taming wild creatures, and ensuring her people’s survival. Despite the constant threats from both natural predators and rival tribes, Merlina remained a beacon of hope and resilience for her people. Her heart was as fierce as the dragons of legend, and her spirit as unyielding as the bamboo forests she called home.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Apozanolotl",
+			"uniques": ["[Gold] cost of purchasing [Gigantopithecus Rider] units [-45]%","[+1 Gold] from [Strategic resource] tiles [in all cities]","[+1 Gold] from [Strategic resource] tiles [in capital]"],
+	"outerColor": [4, 5, 56],
+	"innerColor": [190, 216, 237],
+	"cities": ["La Soyopa","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Condesa",
+	"leaderName": "Gomez",
+	"adjective": ["Condesa"],
+	"startBias": ["Coast","Montano"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Gomez, a Latin American Aryan, sought power and dominance over the vast plains of Aberration. Ambitious and charismatic, he united various tribes under his command, employing both cunning diplomacy and ruthless force. Gomez believed in creating a unified nation where strength and skill determined one’s place in society. His prowess in battle and strategic mind made him a formidable leader. Yet, beneath the exterior of a hardened warlord, Gomez harbored dreams of creating a civilization that would stand the test of time, where his people could thrive in peace and prosperity. The plains trembled beneath his mighty army, yet his vision remained one of unity and progress.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Bandana Criolla",
+			"uniques": ["[+1 Production] from every [Camp]","[+1 Production] from every [Camp] <starting from the [Electric era]>"],
+	"outerColor": [237, 224, 128],
+	"innerColor": [61, 24, 24],
+	"cities": ["Rio Nuevo","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+
+/// ???
+
+{
+	"name": "Niemandsland",
+	"leaderName": "Von Kaiser",
+	"adjective": ["Niemandsland"],
+	"startBias": ["Tundra","Forest"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "In the hidden caverns and forgotten ruins of Aberration, Von Kaiser, an old expert in machinery, pursued his lifelong passion. Once a renowned engineer, he had grown obsessed with rebuilding ancient technologies. His crowning achievement was the construction of an old model tank, a feat that combined the primitive resources of Aberration with his advanced knowledge. Von Kaiser was a solitary figure, more comfortable with machines than with people, yet his inventions were pivotal to the survival of many tribes. His mechanical creations offered protection, facilitated transport, and even provided essential resources. Although viewed as eccentric by most, Von Kaiser's brilliance and dedication made him an invaluable asset in the harsh and unforgiving world of Aberration.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Verdächtige Ideologie",
+			"uniques": ["[+1 Production] from every specialist [in all cities]", "[+1 Production] from every [Mine]","[+1 Production] from every [Quarry]"],
+	"outerColor": [184, 24, 0],
+	"innerColor": [28, 25, 24],
+	"cities": ["Thron der Könige","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
         ]
