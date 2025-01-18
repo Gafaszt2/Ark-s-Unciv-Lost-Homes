@@ -1,13 +1,6 @@
 
 [
-	//Spectator
-	{
-		"name": "Spectator",
-		"outerColor": [255,255,255]
-//		"innerColor": [255,255,255]
-	},
         {
-		//nations
 		"name": "Cryogenic Empire",
 		"leaderName": "Juliana",
                 "personality": "Juliana",
@@ -41,8 +34,7 @@ With the beasts as her guard, her loyal throng, She built her empire, both vast 
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
-{
-		//nations
+    {
 		"name": "African Royalty",
 		"leaderName": "King Umbi",
 		"adjective": ["African"],
@@ -107,8 +99,7 @@ Anezka was a fair and just ruler. She established a council of advisors, ensurin
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
-{
-		//nations
+    {
 		"name": "Smierc",
 		"leaderName": "Karina",
 		"adjective": ["Smierc"],
@@ -140,8 +131,7 @@ Despite the dangers of ARK, Karina insisted on maintaining peace. She believed i
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
-{
-		//nations
+    {
 		"name": "Spiras",
 		"leaderName": "Mila",
 		"adjective": ["Spiras"],
@@ -1625,5 +1615,107 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	},
+
+// Frostpunk Nations
+
+{
+	"name": "Avaloria",
+	"leaderName": "Julian",
+	"adjective": ["Avaloria"],
+	"startBias": ["Snow","Snowy Beach"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "King Julian was a man of great wisdom and unmatched bravery, with a heart as cold as the ice he commanded and eyes that gleamed with the intensity of a thousand winters. His kingdom, known as Frosthaven, was a formidable fortress built from the very bones of the land—ice, rock, and snow—and guarded by the fierce creatures that roamed the frozen wilderness.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Überlaufen",
+			"uniques": ["[+1 Science] per [3] population [in all cities]","[+1 Science] in cities on [Snow] tiles","[+4 Food] in cities on [Snow] tiles"],
+	"outerColor": [66, 135, 245],
+	"innerColor": [39, 42, 46],
+	"cities": ["Eishaufen","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Adlernation",
+	"leaderName": "Marissa",
+	"adjective": ["Adlernation"],
+	"startBias": ["Snow","Snowy Beach"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "As time passed, both Julian and Marissa realized that their talents and leadership were needed beyond the confines of Frosthaven. Julian continued to rule the Northern Continent, while Marissa ventured into the southern lands, where she established her own kingdom, Sunfire, a land of volcanic activity and lush forests.
+
+Juliana, now a grown and formidable warrior in her own right, yearned to create her own legacy. With her parents' blessings, she set out to the uncharted western territories. There, she founded the kingdom of Stormwatch, a land marked by towering cliffs, tempestuous seas, and untamed wilderness.
+
+Though the three kingdoms flourished under their individual rulers, the bonds of family and love were tested as their ambitions and visions for the future clashed. Rivalries emerged, and soon, the once unified family found themselves on opposing sides of a great conflict.
+
+King Julian, a master tactician, sought to expand his territory further south, encroaching upon Marissa's lands. Queen Marissa, fiercely protective of her people, retaliated by pushing her forces northward. Juliana, caught between her parents, tried to mediate but soon found her kingdom drawn into the conflict as well.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Vulkanischer Boden",
+			"uniques": ["[+2 Science, +3 Culture] from [Volcano] tiles [in all cities]","[+1 Culture] from [Mountain] tiles [in all cities]","[+1 Food] in cities on [Snow] tiles"],
+	"outerColor": [255, 90, 31],
+	"innerColor": [125, 16, 1],
+	"cities": ["Rückständiges Rhine","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Glacia",
+	"leaderName": "Maru",
+	"adjective": ["Glacia"],
+	"startBias": ["Snow","Snowy Beach"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "As time passed, both Julian and Marissa realized that their talents and leadership were needed beyond the confines of Frosthaven. Julian continued to rule the Northern Continent, while Marissa ventured into the southern lands, where she established her own kingdom, Sunfire, a land of volcanic activity and lush forests.
+
+Juliana, now a grown and formidable warrior in her own right, yearned to create her own legacy. With her parents' blessings, she set out to the uncharted western territories. There, she founded the kingdom of Stormwatch, a land marked by towering cliffs, tempestuous seas, and untamed wilderness.
+
+Though the three kingdoms flourished under their individual rulers, the bonds of family and love were tested as their ambitions and visions for the future clashed. Rivalries emerged, and soon, the once unified family found themselves on opposing sides of a great conflict.
+
+King Julian, a master tactician, sought to expand his territory further south, encroaching upon Marissa's lands. Queen Marissa, fiercely protective of her people, retaliated by pushing her forces northward. Juliana, caught between her parents, tried to mediate but soon found her kingdom drawn into the conflict as well.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Prähistorische Demut",
+			"uniques": ["[+2 Science] from [Ice] tiles [in all cities]","[+1 Science] from [Strategic resource] tiles [in all cities]"],
+	"outerColor": [163, 215, 255],
+	"innerColor": [49, 41, 64],
+	"cities": ["Trockenes Land","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
 
         ]
