@@ -316,4 +316,15 @@
 		"requiredBuilding": "Second Armory",
                 "requiredTech": "Professional Domestication"
 	},
+	{
+		"name": "Forest Supply",
+		"replaces": "Ark Monument",
+        "uniqueTo": "Resu",
+		"maintenance": 1,
+		"culture": 3,
+		"food": 2,
+		"cost": 40,
+		"hurryCostModifier": 20,
+		"uniques": ["Destroyed when the city is captured"]
+	},
         ]

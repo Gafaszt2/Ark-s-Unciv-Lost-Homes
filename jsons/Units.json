@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Phorusrhacos Rider",
+		"uniqueTo": "Resu",
+		"replaces": "Dinopithecus Rider",
+		"unitType": "Land Avian",
+		"movement": 3,
+		"strength": 38,
+		"cost": 60,
+        "promotions": ["Miocene","Health I"],
+		"requiredTech": "Stone Irrigation Pipe",
+		"upgradesTo": "Portugalophis",
+		"uniques": ["[+20]% Strength <when fighting in [Forest] tiles>","[+20]% Strength <when fighting in [Plains] tiles>","[+20]% Strength <when fighting in [Jungle] tiles>","[+20]% Strength <when fighting in [Redwoods] tiles>","[+15]% Strength <vs [Ophidia] units>","Can move after attacking"],
+		"hurryCostModifier": 20,
+                "obsoleteTech": "Crossbow",
+		"attackSound": "medcarno"
+	},
+	{
 		"name": "Erster Panzer",
 		"uniqueTo": "Niemandsland",
         "upgradesTo": "4RK MHJ",
@@ -632,7 +648,7 @@
 		"attackSound": "marine"
 	},
          {
-		"name": "Phorusrhacidae Rider",
+		"name": "Kelenken Rider",
                 "replaces": "Moschops",
 		"uniqueTo": "Old Railway Cave",
                 "requiredResource": "Thatch",
@@ -652,7 +668,7 @@
 		"name": "Utahraptor Rider",
                 "replaces": "Gigantopithecus Rider",
 		"uniqueTo": "Old Railway Cave",
-		"unitType": "Mammal",
+		"unitType": "Theropoda",
 		"movement": 5,
 		"strength": 45,
 		"cost": 1,

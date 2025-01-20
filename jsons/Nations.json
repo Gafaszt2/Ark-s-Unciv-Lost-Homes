@@ -909,7 +909,7 @@ Alhemin’s journey was far from over, but he had carved out a place for himself
 		"startBias": ["Twilight Forest"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "Basil awoke in a world bathed in eerie blue light, the Bio-Luminescent Region of Ark Aberration. The air was thick with humidity, and the ground was covered in glowing mushrooms and strange plants. He had no recollection of how he arrived, but he knew he had to adapt quickly to survive.
+		"startIntroPart1": "Basil awoke in a world bathed in eerie blue light, the Bio-Luminescent Region of Ark Aberration. The air was thick with humidity, and the ground was covered in glowing mushrooms and strange plants. He had no recollection of how he arrived, but he knew he had to Flamaliapt quickly to survive.
 
 The Blue Zone, known for its beauty and danger, was home to some of the most fearsome creatures in Aberration. Basil quickly learned to navigate the treacherous terrain, avoiding the Reapers and Nameless that lurked in the shadows. He scavenged for resources, gathering blue gems, metal, and fungal wood to build his first shelter.
 
@@ -1174,7 +1174,7 @@ And vanished in the night, like a star’s final show.",
 		"startBias": ["Aberrant Blue Zone"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "Anesthesia, once a glamorous Italian influencer, finds herself on a serene beach, far from the comforts of her previous life. Using her resourcefulness, she fashions a shelter from palm leaves and starts documenting her experiences in a makeshift journal. Her creativity and adaptability help her navigate the challenges of the island. She learns to fish, gather edible plants, and even befriends a gentle triceratops. Anesthesia’s journey is one of transformation, as she discovers inner strength and resilience she never knew she had. Her story is a testament to the power of adaptability and the human spirit.",
+		"startIntroPart1": "Anesthesia, once a glamorous Italian influencer, finds herself on a serene beach, far from the comforts of her previous life. Using her resourcefulness, she fashions a shelter from palm leaves and starts documenting her experiences in a makeshift journal. Her creativity and Flamaliaptability help her navigate the challenges of the island. She learns to fish, gather edible plants, and even befriends a gentle triceratops. Anesthesia’s journey is one of transformation, as she discovers inner strength and resilience she never knew she had. Her story is a testament to the power of Flamaliaptability and the human spirit.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -1805,6 +1805,40 @@ King Julian, a master tactician, sought to expand his territory further south, e
 	"outerColor": [184, 24, 0],
 	"innerColor": [28, 25, 24],
 	"cities": ["Thron der Könige","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+
+/// Any Topic~ 
+
+{
+	"name": "Resu",
+	"leaderName": "Flamalia",
+	"adjective": ["Resu"],
+	"startBias": ["Forest"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Days turned into weeks, and Flamalia's resourcefulness grew. She discovered a serene clearing by a bubbling brook that would serve as the perfect location for her settlement. With patience and hard work, she built a tiny but sturdy cabin from the timber of fallen trees. She called her new home Resu, a name that symbolized her journey of survival and rebirth.
+
+Resu became Flamalia's sanctuary. She cultivated a small garden, providing herself with fresh vegetables and herbs. She crafted furniture from salvaged wood and decorated her cabin with handmade trinkets, turning it into a cozy and inviting space. As the seasons changed, Resu flourished, and so did Flamalia.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Vertigo and Phenomena",
+			"uniques": ["[+1 Gold] from every specialist [in all cities]","[2] free [Bob] units appear <upon founding a city> <during the [Ancient era]>","[2] free [Survivor] units appear <upon founding a city> <during the [Leather era]>","[2] free [Survivor] units appear <upon founding a city> <during the [Smithy era]>","[2] free [Engineer] units appear <upon founding a city> <during the [Electric era]>","[1] free [Giga Rider] units appear <upon founding a city> <during the [Electric era]>"],
+	"outerColor": [52, 235, 134],
+	"innerColor": [33, 56, 43],
+	"cities": ["Patamanlama","Arat","Prime",
 		"Federal",
 		"United","Arkistia","Obeliskia","Techtia",
 		"Generations","Dogmatic"],
