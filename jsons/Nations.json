@@ -319,7 +319,7 @@ The Ascension Trials, Whispers spoke of an Overseer’s final test, the Ascensio
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Romanticism",
-"uniques": ["Enables Open Borders agreements","Enables Research agreements","Enables Defensive Pacts","When declaring friendship, both parties gain a [+35]% boost to great person generation"],
+"uniques": ["Enables Open Borders agreements","Enables Research agreements","[+1 Science] from every [Ocean]","Enables Defensive Pacts","When declaring friendship, both parties gain a [+35]% boost to great person generation"],
 
 		"outerColor": [245, 240, 247],
 		"innerColor": [242, 14, 2],
@@ -730,7 +730,7 @@ Hafsa spent months laboring over the forge, hammering molten steel into intricat
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Holy Site",
-"uniques": ["[+1 Faith, +1 Culture] from all [Faith] buildings"],
+"uniques": ["[+1 Faith, +1 Culture] from all [Faith] buildings","[+1 Faith] from every [Castle]"],
 		"outerColor": [63, 89, 63],
 		"innerColor": [153, 224, 153],
 		"cities": ["Qawium","Arat","Prime",
@@ -763,7 +763,7 @@ From that day forth, the Titanforge Empire forged a new path—a delicate balanc
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Balance or Death",
-"uniques": ["[+2 Science] in cities on [Jungle] tiles","[+2 Gold, +2 Production] in cities on [Plains] tiles"],
+"uniques": ["[+1 Science] in cities on [Jungle] tiles","[+2 Gold, +2 Production] in cities on [Plains] tiles"],
 		"outerColor": [149, 217, 230],
 		"innerColor": [27, 33, 56],
 		"cities": ["Forewell","Arat","Prime",
@@ -1311,7 +1311,7 @@ One fateful twilight, Clara stumbled upon the lions of Midgard. Their golden eye
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Land of Felines",
-                "uniques": ["[+1 Culture] per [4] population [in all cities]"],
+                "uniques": ["[+1 Culture] per [5] population [in all cities]","[+1 Culture] from every [Camp]"],
 		"outerColor": [211, 57, 46],
 		"innerColor": [227, 209, 191],
 		"cities": ["Charnia","Arat","Prime",
@@ -1344,7 +1344,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "The Real Deal",
-                "uniques": ["[-50]% construction time for [All] improvements","Double quantity of [Fruit] produced","Double quantity of [Rock Drake Egg] produced"],
+                "uniques": ["[-50]% construction time for [All] improvements","[+1 Production] from every [Camp]","[+1 Production] from every [Mine]"],
 		"outerColor": [255, 64, 64],
 		"innerColor": [40, 30, 74],
 		"cities": ["Cool Rock","Arat","Prime",
@@ -1402,7 +1402,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Coconut Survivors",
-                "uniques": ["No damage penalty for wounded units <for [non-[Air]] units>"],
+                "uniques": ["[+2 Food, +1 Faith] from [Coast] tiles [in all cities]","[+1 Food] from [Beach] tiles [in all cities]"],
 		"outerColor": [145, 194, 130],
 		"innerColor": [54, 30, 0],
 		"cities": ["Land of Koalas","Arat","Prime",
@@ -1431,7 +1431,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Order and Education",
-                "uniques": ["[-69]% [Science] [in all cities]","[2] free random researchable Tech(s) from the [Ancient era]","[3] free random researchable Tech(s) from the [Leather era]","[3] free random researchable Tech(s) from the [Smithy era]","[2] free random researchable Tech(s) from the [Electric era]","[1] free random researchable Tech(s) from the [Tek era]"],
+                "uniques": ["[-40]% [Science] [in all cities]","[2] free random researchable Tech(s) from the [Ancient era]","[3] free random researchable Tech(s) from the [Leather era]","[3] free random researchable Tech(s) from the [Smithy era]","[2] free random researchable Tech(s) from the [Electric era]","[1] free random researchable Tech(s) from the [Tek era]"],
 		"outerColor": [233, 174, 156],
 		"innerColor": [198, 2, 0],
 		"cities": ["Minami","Arat","Prime",
@@ -1489,7 +1489,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Poison Mistress",
-                "uniques": ["[-100]% maintenance costs <for [Ophidia] units>","[-100]% maintenance costs <for [Spinosauridae] units>","[-30]% maintenance costs <for [Amphibious] units>"],
+                "uniques": ["[+1 Food, +1 Science] from [Marsh] tiles [in all cities]","[+1 Food, +1 Science] from [Swamp Zone] tiles [in all cities]","[-100]% maintenance costs <for [Ophidia] units>","[-100]% maintenance costs <for [Spinosauridae] units>","[-30]% maintenance costs <for [Amphibious] units>"],
 		"outerColor": [197, 235, 174],
 		"innerColor": [36, 43, 32],
 		"cities": ["Hazelia","Arat","Prime",
@@ -1519,7 +1519,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "I´m Friend",
-                "uniques": ["Provides [1] [Metal]","[-35]% unhappiness from the number of cities"],
+                "uniques": ["[+1 Food] from [Hill] tiles [in all cities]","[-45]% unhappiness from the number of cities"],
 		"outerColor": [179, 214, 255],
 		"innerColor": [41, 41, 41],
 		"cities": ["Yanks","Arat","Prime",
@@ -1606,7 +1606,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Varanus Dreams",
-                "uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory","Double quantity of [Biotoxin] produced"],
+                "uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory","[+1 Food] from [Forest] tiles [in all cities]","Double quantity of [Biotoxin] produced"],
 		"outerColor": [222, 52, 235],
 		"innerColor": [43, 16, 31],
 		"cities": ["Aurora","Arat","Prime",
@@ -1839,6 +1839,107 @@ Resu became Flamalia's sanctuary. She cultivated a small garden, providing herse
 	"outerColor": [52, 235, 134],
 	"innerColor": [33, 56, 43],
 	"cities": ["Patamanlama","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+
+
+
+
+
+
+
+
+{
+	"name": "Ngura",
+	"leaderName": "Walami",
+	"adjective": ["Ngura"],
+	"startBias": ["Forest"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Walami opened her eyes to the dazzling light reflecting off crystal formations. She felt a surge of determination. Although the island was unfamiliar, her survival instincts kicked in. She explored cautiously, using her knowledge to find food and water sources, and to build a temporary shelter.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Home of the Natural Wonders",
+			"uniques": ["[+20]% Strength decreasing with distance from the capital","[Faith] cost of purchasing [Great Prophet] units [-50]%","[+2 Culture] from every [Natural Wonder]"],
+	"outerColor": [66, 245, 123],
+	"innerColor": [13, 38, 21],
+	"cities": ["Lake Athumn","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Akuna",
+	"leaderName": "Siria",
+	"adjective": ["Akuna"],
+	"startBias": ["Forest"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Siria awoke on Crystal Isles, her sharp eyes scanning the surroundings. She quickly assessed the situation and began crafting tools from stones and bones. Her resourcefulness ensured she was well-prepared for any challenges that lay ahead,
+	
+	Siria's journey led her to encounter other survivors. She formed alliances with those who shared her values and clashed with those who threatened her safety. Her strategic mind helped her navigate these relationships, ensuring she always stayed one step ahead.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "The Optic Hunters",
+			"uniques": ["[+1 Faith] from every specialist [in all cities]","[+2 Gold, +2 Faith] from every [Mountain]","[+2 Gold, +2 Faith] from every [Natural Wonder]"],
+	"outerColor": [255, 214, 133],
+	"innerColor": [79, 67, 43],
+	"cities": ["Akunasi Optima","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Tywerenge",
+	"leaderName": "Fezian",
+	"adjective": ["Tywerenge"],
+	"startBias": ["Forest"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Fezian awoke on Crystal Isles with a sense of wonder. His keen intuition guided him through the island's mysteries. He began mapping out the area, marking water sources and potential dangers, always trusting his instincts,
+
+Fezian was drawn to the island's crystal formations. He discovered that certain crystals had unique properties, such as healing or providing energy. His fascination with these crystals led him to uncover hidden caves and secret passages,
+
+While exploring a particularly deep cave, Fezian found an ancient artifact—a crystal amulet that resonated with his energy. He realized the amulet was connected to the island's guardian. With his deep connection to the crystals, Fezian knew he was destined to find and awaken the guardian.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "The Lakes of Wisdom",
+			"uniques": ["[+1 Gold, +1 Science] per [5] social policies adopted","[-35]% Culture cost of natural border growth [in all cities]"],
+	"outerColor": [255, 80, 41],
+	"innerColor": [94, 29, 14],
+	"cities": ["Wisdomen Lakas","Arat","Prime",
 		"Federal",
 		"United","Arkistia","Obeliskia","Techtia",
 		"Generations","Dogmatic"],

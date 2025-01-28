@@ -1,5 +1,34 @@
 [
 	{
+		"name": "Ceremonial Grounds",
+		"uniqueTo": "Tywerenge",
+		"culture": 2,
+		"faith": 2,
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"turnsToBuild": 5,
+		"uniques": ["[-2 Faith] for each adjacent [Ceremonial Grounds]","[-2 Culture] for each adjacent [Ceremonial Grounds]"],
+        "techRequired": "Sleeping Bag"
+	},
+	{
+		"name": "Bush Tucker",
+		"uniqueTo": "Akuna",
+		"food": 1,
+		"production": 1,
+		"terrainsCanBeBuiltOn": ["Plains","Montano"],
+		"turnsToBuild": 5,
+		"uniques": ["[+1 Faith] for each adjacent [Bonus resource]"],
+        "techRequired": "Sleeping Bag"
+	},
+	{
+		"name": "Songline",
+		"uniqueTo": "Ngura",
+		"culture": 2,
+		"terrainsCanBeBuiltOn": ["Plains","Hill"],
+		"turnsToBuild": 5,
+		"uniques": ["[-2 Culture] for each adjacent [Songline]","Provides [1] [Reeds]"],
+        "techRequired": "Sleeping Bag"
+	},
+	{
 		"name": "Bamboo Bar",
 		"uniqueTo": "Nazocari",
 		"food": 1,

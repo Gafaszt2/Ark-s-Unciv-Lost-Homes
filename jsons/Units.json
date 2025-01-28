@@ -1,5 +1,40 @@
 [
 	{
+		"name": "Thylacoleo Hunter",
+		"uniqueTo": "Tywerenge",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 25,
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": ["[+33]% Strength <vs [Mammal] units>","[+33]% Strength <vs [Varanus] units>","Unbuildable","Can be purchased with [Faith] [in all cities]","Can be purchased for [100] [Faith] [in all cities]","Can be purchased with [Culture] [in all cities]","Can be purchased for [30] [Culture] [in all cities]"],
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Ceremonial Chief",
+		"uniqueTo": "Akuna",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": ["[+35]% Strength bonus for [Sword] units within [3] tiles","[+35]% Strength bonus for [Archery] units within [3] tiles","Unbuildable","Can be purchased with [Faith] [in all cities]","Can be purchased for [800] [Faith] [in all cities]"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Didgeridoo Artist",
+		"uniqueTo": "Ngura",
+		"unitType": "Civilian",
+		"movement": 3,
+		"strength": 5,
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": ["Empire enters a [25]-turn Golden Age <by consuming this unit>","Unbuildable","Can be purchased with [Faith] [in all cities]","Can be purchased for [1100] [Faith] [in all cities]"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Phorusrhacos Rider",
 		"uniqueTo": "Resu",
 		"replaces": "Dinopithecus Rider",
