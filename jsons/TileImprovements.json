@@ -1,5 +1,25 @@
 [
 	{
+		"name": "Minaret",
+		"uniqueTo": "Hammah",
+		"culture": 1,
+		"science": 1,
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Montano"],
+		"turnsToBuild": 5,
+		"uniques": ["[-1 Culture] for each adjacent [Minaret]","[-1 Science] for each adjacent [Minaret]","[+1 Science] for each adjacent [City center]"],
+        "techRequired": "Stone Pick"
+	},
+	{
+		"name": "Windcatcher",
+		"uniqueTo": "Zuwarah",
+		"faith": 2,
+		"culture": 1,
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Montano"],
+		"turnsToBuild": 5,
+		"uniques": ["[-1 Culture] for each adjacent [Windcatcher]","[-2 Faith] for each adjacent [Windcatcher]","[+1 Culture] for each adjacent [City center]"],
+        "techRequired": "Stone Pick"
+	},
+	{
 		"name": "Ceremonial Grounds",
 		"uniqueTo": "Tywerenge",
 		"culture": 2,

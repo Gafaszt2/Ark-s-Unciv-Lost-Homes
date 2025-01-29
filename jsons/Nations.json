@@ -715,9 +715,9 @@ As the months passed, the Steampunkers awaited her return. They patched up the z
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "Hafsa’s quest for power led her to the heart of the desert, where she discovered an ancient forge hidden within a sand-swept cavern. There, she met the enigmatic blacksmith, Al’Azir, who claimed to be a descendant of the Djinn. Al’Azir revealed the secrets of forging armor that could withstand even the fiercest dragon’s breath.
+		"startIntroPart1": "Amelia’s quest for power led her to the heart of the desert, where she discovered an ancient forge hidden within a sand-swept cavern. There, she met the enigmatic blacksmith, Gafas, who claimed to be a descendant of the Shadows. Al’Azir revealed the secrets of forging armor that could withstand even the fiercest dragon’s breath.
 
-Hafsa spent months laboring over the forge, hammering molten steel into intricate plates. She adorned Zar’qal with a full suit of armor, each piece etched with protective runes. The helmet bore the likeness of a fearsome hawk, symbolizing vigilance and foresight. The chestplate featured a coiled serpent, signifying resilience.",
+Amelia spent months laboring over the forge, hammering molten steel into intricate plates. She adorned Zar’qal with a full suit of armor, each piece etched with protective runes. The helmet bore the likeness of a fearsome hawk, symbolizing vigilance and foresight. The chestplate featured a coiled serpent, signifying resilience.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -1940,6 +1940,100 @@ While exploring a particularly deep cave, Fezian found an ancient artifact—a c
 	"outerColor": [255, 80, 41],
 	"innerColor": [94, 29, 14],
 	"cities": ["Wisdomen Lakas","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+
+
+
+{
+	"name": "Hammah",
+	"leaderName": "Anhaar",
+	"adjective": ["Hammah"],
+	"startBias": ["Desert"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "As the sun blazed relentlessly over the parched landscape of Scorched Earth, Anhaar awoke, feeling the heat seeping through her skin. Her eyes, accustomed to the shadows of dense forests, squinted against the harsh glare. The ground beneath her was cracked and dry, devoid of the moisture and life she once knew.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "The Only True Religion",
+			"uniques": ["[+2 Science] from all [Faith] buildings","[+1 Faith, +1 Production] from every [Orchard]","[+2 Gold, +2 Production] from every [Silk]"],
+	"outerColor": [10, 10, 10],
+	"innerColor": [255, 255, 255],
+	"cities": ["Jazair","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Zuwarah",
+	"leaderName": "Jamal",
+	"adjective": ["Zuwarah"],
+	"startBias": ["Desert"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Jamal awoke with a start, the blinding sun overhead making him wince. He was surrounded by an alien landscape, a vast desert stretching as far as the eye could see. The heat was oppressive, and his throat felt dry and parched. He struggled to his feet, his muscles aching from the strain of survival in such a hostile environment.
+
+Jamal was resourceful, and he quickly set about finding water. He remembered the lessons of survival he had learned over the years. He searched for signs of life, knowing that where there was life, there was water. His journey led him to a small oasis, a rare sight in this barren land. The water was cool and refreshing, and Jamal drank deeply, feeling his strength return.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "For our Land",
+			"uniques": ["[+1 Gold, +1 Production] from every [Desert]","[+5]% Production towards any buildings that already exist in the Capital","[+1 Faith, +1 Production] from every [Orchard]","[+1 Gold, +2 Production] from every [Oasis]"],
+	"outerColor": [23, 77, 39],
+	"innerColor": [242, 255, 246],
+	"cities": ["Al Macaba","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "The Black Sea",
+	"leaderName": "Mansur II",
+	"adjective": ["The Black Sea"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Mansur II woke up to the scorching heat of the desert sun. The landscape was a stark contrast to the lush greenery he was used to. The air was dry, and the ground was covered in a fine layer of sand that seemed to get everywhere. He shielded his eyes from the blinding light and took in his surroundings. The world was desolate, with towering rock formations and scattered remnants of ancient civilizations.
+
+Mansur II was not one to be easily deterred. He knew that survival in this harsh environment would require every ounce of his cunning and strength. He set out to explore, his keen senses alert to every sound and movement. He found a small cave, a refuge from the unrelenting sun, and began to gather supplies.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Mighty Conquerors",
+			"uniques": ["[+1 Faith] from every [Coast]","[+1 Faith] from every [Ocean]","[+1 Faith] from every [Coral Zone]","[+30]% Production when constructing [Water] units [in all cities]","[+5]% Production when constructing [Land] units [in all cities]"],
+	"outerColor": [252, 186, 3],
+	"innerColor": [10, 10, 10],
+	"cities": ["Golden Coast","Arat","Prime",
 		"Federal",
 		"United","Arkistia","Obeliskia","Techtia",
 		"Generations","Dogmatic"],

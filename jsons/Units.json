@@ -1,5 +1,50 @@
 [
 	{
+		"name": "Arabian Leopard",
+		"uniqueTo": "The Black Sea",
+		"unitType": "Mammal",
+		"movement": 8,
+		"strength": 65,
+		"cost": 80,
+		"requiredTech": "Sword",
+        "promotions": ["Miocene"],
+        "obsoleteTech": "Fabricator",
+		"uniques": ["Never appears as a Barbarian unit","Limited to [3] per Civilization"],
+		"hurryCostModifier": 20,
+		"attackSound": "feline"
+	},
+	{
+		"name": "Rhinoceros Rider",
+		"uniqueTo": "The Black Sea",
+		"replaces": "Fasolasuchus Rider",
+		"unitType": "Mammal",
+		"movement": 4,
+		"strength": 60,
+		"cost": 70,
+        "promotions": ["Miocene"],
+		"requiredTech": "Sword",
+        "obsoleteTech": "Fabricator",
+		"uniques": ["[+2] Movement <in [Desert] tiles>","Never appears as a Barbarian unit"],
+		"hurryCostModifier": 20,
+		"attackSound": "ravager"
+	},
+	{
+		"name": "Architect Survivor",
+		"uniqueTo": "Hammah",
+		"unitType": "Civilian",
+		"uniques": ["Limited to [4] per Civilization","Can be purchased with [Faith] [in all cities]","Can be purchased for [50] [Faith] [in all cities]",
+            "Can speed up construction of a building","Unbuildable"],
+		"movement": 2
+	},
+	{
+		"name": "Herbalist Survivor",
+		"uniqueTo": "Zuwarah",
+		"unitType": "Civilian",
+		"uniques": ["Limited to [4] per Civilization","Can be purchased with [Faith] [in all cities]","Can be purchased for [30] [Faith] [in all cities]",
+            "Can move immediately once bought","Can instantly construct a [Trading post] improvement <by consuming this unit>","Can instantly construct a [Desert Ranch] improvement <by consuming this unit>","Can instantly construct a [Windcatcher] improvement <by consuming this unit>","Unbuildable"],
+		"movement": 2
+	},
+	{
 		"name": "Thylacoleo Hunter",
 		"uniqueTo": "Tywerenge",
 		"unitType": "Archery",
