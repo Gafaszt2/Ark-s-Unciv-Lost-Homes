@@ -184,8 +184,56 @@
 
 			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
 	},
+//// New Unique Governments	
 
+{
+	"name": "Militant Theocracy",
+	"isNationalWonder":true,
+	"hurryCostModifier": 0,
+	"uniques": ["[+30]% Production when constructing [Sword] units [in all cities]","[+30]% Production when constructing [Gunpowder] units [in all cities]","[+50]% Production when constructing [Ophidia] units [in all cities]",
 
+		"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+},
+{
+	"name": "Eco Fascism",
+	"isNationalWonder":true,
+	"hurryCostModifier": 0,
+	"uniques": ["Free Great Person","[+100]% [Food] from every [Plantation]","[+4]% [Food] [in all cities]",
+
+		"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+},
+{
+	"name": "Hyper Capitalism",
+	"isNationalWonder":true,
+	"hurryCostModifier": 0,
+	"uniques": ["[+3 Gold, +1 Production] from [Trading post] tiles [in all cities]",
+
+		"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+},
+{
+	"name": "Anarcho Transhumanism",
+	"isNationalWonder":true,
+	"hurryCostModifier": 0,
+	"uniques": ["[-40]% unhappiness from the number of cities",
+
+		"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+},
+{
+	"name": "Genetic Aristocracy",
+	"isNationalWonder":true,
+	"hurryCostModifier": 0,
+	"uniques": ["[+75]% of excess happiness converted to [Culture]","[+15]% of excess happiness converted to [Gold]",
+
+		"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+},
+{
+	"name": "Radical Pacifism",
+	"isNationalWonder":true,
+	"hurryCostModifier": 0,
+	"uniques": ["Allied City-States provide [Science] equal to [+60]% of what they produce for themselves",
+
+		"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+},
 
 
 
@@ -326,5 +374,15 @@
 		"cost": 40,
 		"hurryCostModifier": 20,
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Old God Monument",
+		"culture": 2,
+		"science": 1,
+		"replaces": "Ark Monument",
+        "uniqueTo": "The Occults",
+		"cost": 40,
+		"hurryCostModifier": 20,
+		"uniques": ["[+5]% growth [in this city]","Destroyed when the city is captured"]
 	},
         ]

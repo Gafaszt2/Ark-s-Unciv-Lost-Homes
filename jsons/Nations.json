@@ -548,7 +548,7 @@ In the final showdown, Quetzal ascended the tallest ziggurat, wings ablaze with 
 		"name": "Mana",
 		"leaderName": "Happa Venata",
 		"adjective": ["Mana"],
-		"startBias": ["Coast"],
+		"startBias": ["Coast","Ocean","Avoid [Tundra]","Avoid [Beach]","Avoid [Desert]","Avoid [Plains]","Avoid [Grassland]","Avoid [Hill]","Avoid [Montano]"],
 		"preferredVictoryType": "Ascension",
 
 		"startIntroPart1": "Happa Venata hailed from a distant island chain, where warriors were born in the salt spray and raised on legends of sea monsters. His tribe, the Mana, revered the ocean and its primal power.",
@@ -564,7 +564,9 @@ In the final showdown, Quetzal ascended the tallest ziggurat, wings ablaze with 
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Shores of Faith and Wisdom",
-"uniques": ["[+1 Science] [in all cities]","[+2 Faith, +2 Science] in cities on [Beach] tiles","[+2 Faith, +2 Science] in cities on [Snowy Beach] tiles"],
+"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+            "[+2] Sight <for [Embarked] units>",  "[+10]% Strength <within [2] tiles of a [Moai]>"],
 		"outerColor": [19, 63, 94],
 		"innerColor": [71, 177, 252],
 		"cities": ["Manaism Voyage","Arat","Prime",
@@ -2034,6 +2036,41 @@ Mansur II was not one to be easily deterred. He knew that survival in this harsh
 	"outerColor": [252, 186, 3],
 	"innerColor": [10, 10, 10],
 	"cities": ["Golden Coast","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "The Occults",
+	"leaderName": "Sabrina",
+	"adjective": ["The Occults"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "The Cult of Sabrina, led by the enigmatic High Priestess Sabrina herself, believed that true power lay not in harmony with nature, but in its dominion and manipulation. They sought to harness the arcane energies of the Ark, to bend both beast and land to their will. Sabrina's followers, cloaked in dark robes and adorned with ancient runes, were masters of dark rituals that could summon and control creatures, twisting their forms to suit their nefarious purposes.
+
+As the cult's power grew, whispers of their dark deeds reached the royal court. Concerned for his people, King Thalor dispatched his most trusted knights to investigate the rumors. Among them was Sir Eamon, a valiant warrior known for his unwavering loyalty and unmatched combat skills. Alongside him was Lady Seraphina, a wise and powerful mage whose knowledge of ancient magic was unparalleled.
+
+Their journey led them to the heart of the cult's operations, a forsaken temple hidden deep within the forest of the Direwolves. Here, they discovered the true extent of the cult's malevolence. Sabrina had summoned a massive, corrupted dragon, its scales blackened and eyes glowing with an eerie crimson light. The beast, once a guardian of the Ark, was now a harbinger of destruction, enslaved to Sabrina's will.
+
+Determined to thwart the cult's plans, Sir Eamon and Lady Seraphina confronted Sabrina in a fierce battle. Magic clashed with steel, the air crackling with energy as the forces of light and darkness collided. Despite their bravery and skill, the cult's dark magic proved formidable. With a wave of her hand, Sabrina unleashed a torrent of dark energy, forcing the knights to retreat..",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "High Priestess",
+			"uniques": ["When defeating a [Wounded] unit, earn [100] Gold and recruit it <with [30]% chance>","[+15]% Strength for cities","[+1 Culture] from every [Mountain]"],
+	"outerColor": [170, 88, 237],
+	"innerColor": [24, 23, 26],
+	"cities": ["Siggilman","Arat","Prime",
 		"Federal",
 		"United","Arkistia","Obeliskia","Techtia",
 		"Generations","Dogmatic"],

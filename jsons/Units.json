@@ -1,5 +1,20 @@
 [
 	{
+		"name": "Ouranosaurus",
+		"uniqueTo": "The Occults",
+		"replaces": "Megatherium",
+		"unitType": "Mammal",
+		"movement": 3.5,
+		"strength": 97,
+		"cost": 250,
+		"requiredTech": "Auto Torret",
+                "promotions": ["Cretaceous"],
+                "obsoleteTech": "Island Bosses",
+		"uniques": ["[+33]% Strength <vs [Giga Rider] units>","[+33]% Strength <vs [Mighty Titanosaur] units>","[+33]% Strength <vs [Theropoda] units>","[+33]% Strength <vs [Fantasy] units>","[+33]% Strength <vs [Flying] units>"],
+		"hurryCostModifier": 20,
+		"attackSound": "chalico"
+	},
+	{
 		"name": "Arabian Leopard",
 		"uniqueTo": "The Black Sea",
 		"unitType": "Mammal",
