@@ -1,5 +1,34 @@
 [
 	{
+		"name": "Assassin",
+		"uniqueTo": "해",
+		"replaces": "Camuflage Survivor",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 45,
+        "rangedStrength": 45,
+		"cost": 150,
+		"attackSound": "shot",
+        "obsoleteTech": "Island Bosses",
+        "requiredTech": "Polymer",
+        "uniques": ["[+20]% Strength <vs [Theropoda] units>","[+20]% Strength <vs [Civilian] units>","[+20]% Strength <vs [Gunpowder] units>"]
+        },
+	{
+		"name": "Duonychus",
+		"uniqueTo": "해",
+		"replaces": "Theri Rider",
+		"unitType": "Theropoda",
+		"movement": 2,
+		"strength": 43,
+		"cost": 85,
+		"requiredTech": "Metal Hatchet",
+		"uniques":["[1] additional attacks per turn","[+25]% Strength <when attacking>"],
+        "obsoleteTech": "Sword",
+        "promotions": ["Cretaceous"],
+		"hurryCostModifier": 20,
+		"attackSound": "theri"
+	},
+	{
 		"name": "Ouranosaurus",
 		"uniqueTo": "The Occults",
 		"replaces": "Megatherium",

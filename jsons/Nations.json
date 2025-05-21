@@ -2076,4 +2076,37 @@ Determined to thwart the cult's plans, Sir Eamon and Lady Seraphina confronted S
 		"Generations","Dogmatic"],
 	"spyNames": ["Sir Charles"]
 },
+{
+	"name": "해",
+	"leaderName": "고복수",
+	"adjective": ["해"],
+	"startBias": ["Forest","Montano","Coast","Grassland","Avoid [Hill]","Avoid [Plains]"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Bok-Su attended medical school alongside Da-Jeong. As a diligent student, Bok-Su placed immense importance on her grades, often at the expense of forming friendships. Her singular focus on academic excellence left her isolated, until she met Da-Jeong. The two initially bonded over their shared experiences and aspirations, and a tentative friendship developed. Despite this growing connection, Bok-Su maintained her reserved nature, finding it difficult to fully open up and trust others.
+
+Their friendship was tested during a critical moment in their medical training. During an operation, Da-Jeong made a grievous mistake that led to the patient's death. In her panic, Da-Jeong called out for Bok-Su's help. Bok-Su, driven by her sense of duty and loyalty to her friend, stepped in to assist. However, when the officials arrived to investigate the incident, Da-Jeong immediately shifted the blame onto Bok-Su. In a cruel twist of fate, Bok-Su was wrongfully accused of negligence and was subsequently expelled from the medical program.
+
+The expulsion was a devastating blow to Bok-Su, who dedicated her entire life to her studies with the unjust removal from the program shattering her dreams. Feeling betrayed and abandoned, what compounded her anguish was Da-Jeong’s indifferent response to the situation. Rather than reaching out to apologize or offer support, she moved on with her life while Bok-Su was discarded. This betrayal marked the beginning of Bok-Su’s deep-seated hatred and desire for revenge, having hardened resolve to make Da-Jeong atone for her actions.",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Will marrying him bring the same guilt as betraying me?",
+			"uniques": ["[+1 Science] per [3] social policies adopted","[+70]% Health from pillaging tiles"],
+	"outerColor": [163, 163, 163],
+	"innerColor": [33, 33, 33],
+	"cities": ["복수","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
         ]
