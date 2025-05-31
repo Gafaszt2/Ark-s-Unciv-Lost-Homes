@@ -39,7 +39,7 @@
 		"requiredTech": "Auto Torret",
                 "promotions": ["Cretaceous"],
                 "obsoleteTech": "Island Bosses",
-		"uniques": ["[+33]% Strength <vs [Giga Rider] units>","[+33]% Strength <vs [Mighty Titanosaur] units>","[+33]% Strength <vs [Theropoda] units>","[+33]% Strength <vs [Fantasy] units>","[+33]% Strength <vs [Flying] units>"],
+		"uniques": ["[+33]% Strength <vs [Giga Rider] units>","[+33]% Strength <vs [Mighty Titanosaurus] units>","[+33]% Strength <vs [Theropoda] units>","[+33]% Strength <vs [Fantasy] units>","[+33]% Strength <vs [Flying] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "chalico"
 	},
@@ -636,7 +636,7 @@
          {
 		"name": "Acrocanthosaurus Rider",
                 "uniqueTo": "Blue Rave",
-		"replaces": "Baryonix Rider",
+		"replaces": "Baryonyx Rider",
 		"unitType": "Theropoda",
 		"movement": 4,
 		"strength": 50,
@@ -936,7 +936,7 @@
 		"requiredTech": "Assault Riffle",
                 "requiredResource": "Steel",
                 "promotions": ["Steampunker","Chivalry","Triassic"],
-		"uniques": ["[+10]% Strength <vs [Wounted] units>","[+10]% Strength <vs [Gunpowder] units>","[+33]% Strength <vs [Fantasy] units>","Never appears as a Barbarian unit"],
+		"uniques": ["[+10]% Strength <vs [Wounded] units>","[+10]% Strength <vs [Gunpowder] units>","[+33]% Strength <vs [Fantasy] units>","Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "dinoherb"
 	},
@@ -972,7 +972,7 @@
 	},
         {
 		"name": "Irritator Rider",
-                "replaces": "Baryonix Rider",
+                "replaces": "Baryonyx Rider",
 		"uniqueTo": "Lost Homes",
 		"unitType": "Spinosauridae",
 		"movement": 3,
@@ -1483,7 +1483,7 @@
 	},
         {
 		"name": "Suchomimus Rider",
-                "replaces": "Baryonix Rider",
+                "replaces": "Baryonyx Rider",
 		"uniqueTo": "African Royalty",
 		"unitType": "Spinosauridae",
 		"movement": 3,
