@@ -711,15 +711,13 @@ As the months passed, the Steampunkers awaited her return. They patched up the z
 	},
 {
 		"name": "Mighty Caliphate",
-		"leaderName": "Amelia",
-                "personality": "Amelia",
+		"leaderName": "Hafsa",
+        "personality": "Amelia",
 		"adjective": ["Caliphate"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Ascension",
 
-		"startIntroPart1": "Amelia’s quest for power led her to the heart of the desert, where she discovered an ancient forge hidden within a sand-swept cavern. There, she met the enigmatic blacksmith, Gafas, who claimed to be a descendant of the Shadows. Al’Azir revealed the secrets of forging armor that could withstand even the fiercest dragon’s breath.
-
-Amelia spent months laboring over the forge, hammering molten steel into intricate plates. She adorned Zar’qal with a full suit of armor, each piece etched with protective runes. The helmet bore the likeness of a fearsome hawk, symbolizing vigilance and foresight. The chestplate featured a coiled serpent, signifying resilience.",
+		"startIntroPart1": "Hafsa of the Mighty Caliphate Veiled in resilience and wisdom, Hafsa commands the sands and jungles of the Ark with unwavering grace. As the Caliph of the Mighty Caliphate, she leads a civilization forged in faith, fire, and survival. Her hijab is not just a symbol of devotion—it’s a banner of strength in a world ruled by tooth and claw. By her side roams the Postosuchus, the Caliphate’s sacred beast—swift, ruthless, and revered. Together, they carve order from chaos, taming the wild with strategy, spirit, and steel.",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
@@ -2067,7 +2065,7 @@ Determined to thwart the cult's plans, Sir Eamon and Lady Seraphina confronted S
 
 	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 			"uniqueName": "High Priestess",
-			"uniques": ["When defeating a [Wounded] unit, earn [100] Gold and recruit it <with [30]% chance>","[+15]% Strength for cities","[+1 Culture] from every [Mountain]"],
+			"uniques": ["When defeating a [Wounded] unit, earn [100] Gold and recruit it <with [30]% chance>","[+15]% Strength for cities","[+2 Culture] from every [Mountain]"],
 	"outerColor": [170, 88, 237],
 	"innerColor": [24, 23, 26],
 	"cities": ["Siggilman","Arat","Prime",
@@ -2104,6 +2102,106 @@ The expulsion was a devastating blow to Bok-Su, who dedicated her entire life to
 	"outerColor": [163, 163, 163],
 	"innerColor": [33, 33, 33],
 	"cities": ["복수","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Astraeos",
+	"leaderName": "Zeus",
+	"adjective": ["Astraeos"],
+	"startBias": ["Coast","Avoid [Desert]","Avoid [Tundra]"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Hail, Zeus, King of the Gods, Lord of Olympus, Wielder of the Thunderbolt!
+
+From your marble throne atop the celestial peaks, you command the skies and the fates of mortals below. Your dominion stretches across the sacred valleys and storm-swept cliffs of Astraeos, where temples echo with the chants of devotion and lightning dances across the heavens at your whim.
+
+The world trembles at your fury and flourishes under your favor. Will you forge a civilization worthy of divine legacy, guiding your people with wisdom and wrath? Or will you unleash the storm, casting down those who defy your rule?",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Hellas",
+			"uniques": ["[+33]% Strength <for [Bison Latifrons] units>","[+2 Culture] from every specialist [in all cities]","Allied City-States provide [Culture] equal to [+60]% of what they produce for themselves"],
+	"outerColor": [26, 26, 26],
+	"innerColor": [255, 198, 92],
+	"cities": ["Mount Olympus","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Aquatica",
+	"leaderName": "Poseidon",
+	"adjective": ["Aquatica"],
+	"startBias": ["Ocean","Coast","Beach","Snowy Beach","Avoid [Desert]","Avoid [Hill]","Avoid [Hill]"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Greetings, Poseidon, Earth-Shaker, Lord of the Deep, Master of Tides!
+
+Beneath the crushing weight of the ocean, in the bioluminescent halls of coral palaces and abyssal trenches, your reign is absolute. The creatures of the deep heed your call, and the currents bend to your will. Aquatica is your realm—mysterious, perilous, and teeming with ancient power.
+
+Will you raise a civilization from the depths, harnessing the secrets of pressure and the fury of the sea? Or will you drown the ambitions of surface dwellers beneath waves of vengeance and silence?",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "The Power of the Unoptimized DLC",
+			"uniques": ["[+25]% Strength <for [Aquaria] units>","[+1 Science] per [4] population [in all cities]","[+1 Food] from every [Ocean]",
+			"[+20]% Strength for cities","Enables [Water] units to enter ocean tiles","Units in cities cost no Maintenance","Enables embarkation for land units"],
+	"outerColor": [4, 15, 43],
+	"innerColor": [114, 149, 237],
+	"cities": ["Riftwalker’s Reach","Arat","Prime",
+		"Federal",
+		"United","Arkistia","Obeliskia","Techtia",
+		"Generations","Dogmatic"],
+	"spyNames": ["Sir Charles"]
+},
+{
+	"name": "Zima",
+	"leaderName": "Peter",
+	"adjective": ["Zima"],
+	"startBias": ["Montano","Volcano","Hill"],
+	"preferredVictoryType": "Ascension",
+
+	"startIntroPart1": "Greetings, Poseidon, Earth-Shaker, Lord of the Deep, Master of Tides!
+
+Beneath the crushing weight of the ocean, in the bioluminescent halls of coral palaces and abyssal trenches, your reign is absolute. The creatures of the deep heed your call, and the currents bend to your will. Aquatica is your realm—mysterious, perilous, and teeming with ancient power.
+
+Will you raise a civilization from the depths, harnessing the secrets of pressure and the fury of the sea? Or will you drown the ambitions of surface dwellers beneath waves of vengeance and silence?",
+	"startIntroPart2": "",
+
+	"declaringWar": "This is the end!",
+	"attacked": "Oh, so you are attacking us.",
+	"defeated": "You can continue your reign? im sure you won´t.",
+	"introduction": "Greetings",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			"uniqueName": "Russian Winter",
+			"uniques": ["All newly-trained [Land] units [in all cities] receive the [Fortitude I] promotion","All newly-trained [Land] units [in all cities] receive the [Fortitude II] promotion","[+2 Food] from every [Snow]","[+2 Food] from every [Forest]"],
+	"outerColor": [230, 230, 230],
+	"innerColor": [194, 77, 4],
+	"cities": ["Little Peime","Arat","Prime",
 		"Federal",
 		"United","Arkistia","Obeliskia","Techtia",
 		"Generations","Dogmatic"],
