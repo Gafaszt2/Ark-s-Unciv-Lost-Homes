@@ -413,7 +413,7 @@ And so, Alessandra ruled, the woman who had ascended from the streets to the sta
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Survival of the Fittest",
-"uniques": ["Double quantity of [Metal] produced","[+2 Production] from every [Metal]","[+1 Gold] from every [Metal]"],
+"uniques": ["[+100]% [Metal] resource production","[+2 Production] from every [Metal]","[+1 Gold] from every [Metal]"],
 
 		"outerColor": [31, 56, 46],
 		"innerColor": [138, 255, 208],
@@ -443,7 +443,7 @@ And so, Alessandra ruled, the woman who had ascended from the streets to the sta
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "For God and the Queen",
-"uniques": ["Double quantity of [Biotoxin] produced","[+2 Culture] from every [Moai]","[+1 Faith] from every [Moai]"],
+"uniques": ["[+100]% [Biotoxin] resource production","[+2 Culture] from every [Moai]","[+1 Faith] from every [Moai]"],
 
 		"outerColor": [245, 230, 66],
 		"innerColor": [28, 28, 25],
@@ -665,7 +665,7 @@ In the end, Smith stood victorious. The Firebrand Cult disbanded, and the Counci
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Honor or Death",
-"uniques": ["[+10]% [Science] <upon entering a new era>","[+3]% [Production] <upon entering a new era>"],
+"uniques": ["[+1 Science] from every [Camp]","[+1 Science] per [3] population [in all cities]","[+10]% [Science]","[+10]% [Production]"],
 		"outerColor": [255, 44, 20],
 		"innerColor": [18, 9, 8],
 		"cities": ["Union Sword","Arat","Prime",
@@ -700,7 +700,7 @@ As the months passed, the Steampunkers awaited her return. They patched up the z
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Machinery",
-"uniques": ["Provides [1] [Tek]","[+7]% [Production] <upon entering a new era>","All newly-trained [Gunpowder] units [in all cities] receive the [Steampunker] promotion"],
+"uniques": ["Provides [1] [Tek]","[+33]% [Production]","All newly-trained [Gunpowder] units [in all cities] receive the [Steampunker] promotion"],
 		"outerColor": [46, 21, 4],
 		"innerColor": [247, 178, 67],
 		"cities": ["Cogsworth","Arat","Prime",
@@ -926,7 +926,7 @@ Basil’s journey was fraught with peril. He crafted a Hazard Suit to protect hi
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Vicotry isn´t measured by War",
-"uniques": ["[+1 Culture] from [Jungle] tiles [in all cities] <upon entering a new era>"],
+"uniques": ["[+2 Culture, +2 Science] from [Jungle] tiles [in all cities]"],
 		"outerColor": [136, 201, 99],
 		"innerColor": [18, 15, 12],
 		"cities": ["Bambolord Polonia","Arat","Prime",
@@ -1245,7 +1245,7 @@ And vanished in the night, like a star’s final show.",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "History Repeates Itself",
-                "uniques": ["[+1 Production] from every [Strategic resource]","[+1 Production] from every [Fiber]","Double quantity of [Fiber] produced"],
+                "uniques": ["[+1 Production] from every [Strategic resource]","[+1 Production] from every [Fiber]","[+100]% [Fiber] resource production"],
 		"outerColor": [34, 38, 36],
 		"innerColor": [52, 235, 149],
 		"cities": ["Ghutawium","Arat","Prime",
@@ -1606,7 +1606,7 @@ But even in the darkest times, hope flickered. Clara and her lion riders stood a
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Varanus Dreams",
-                "uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory","[+1 Food] from [Forest] tiles [in all cities]","Double quantity of [Biotoxin] produced"],
+                "uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory","[+1 Food] from [Forest] tiles [in all cities]","[+100]% [Biotoxin] resource production"],
 		"outerColor": [222, 52, 235],
 		"innerColor": [43, 16, 31],
 		"cities": ["Aurora","Arat","Prime",
